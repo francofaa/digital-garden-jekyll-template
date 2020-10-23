@@ -1,5 +1,5 @@
 ---
-title: whos gonna pay for those therapy sessions, amirite
+title: whos gonna pay for those therapy sessions amirite
 ---
 # "Let's Split Up!"
 
