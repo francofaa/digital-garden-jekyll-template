@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "61ba8db7d999e82a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4acfa6505471df5d",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "The Many-Bodied Shadow of War Lore.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be1e61716d2f2fc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "a131b34cfb65d8ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fa84f2fed385c24",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd9a29188427fb8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "53a9776109130d13",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0463e72fe1866df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd181a287be039cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dd280c2bcbcf3f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Many-Bodied Shadow of War Lore.md"
+              }
+            }
+          },
+          {
+            "id": "3886a4c31c5f90f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Many-Bodied Shadow of War Lore.md"
+              }
+            }
+          },
+          {
+            "id": "b189229853d43534",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "The Many-Bodied Shadow of War Lore.md",
+    "Interpretations of the Many-Bodied.md",
+    "Lore.md",
+    "A new challenger appears.md",
+    "Antagonists.md",
+    "Arcs.md",
+    "argotIndex.md"
+  ]
+}
