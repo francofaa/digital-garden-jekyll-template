@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "whos gonna pay for those therapy sessions amirite.md",
+            "file": "argotIndex.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "whos gonna pay for those therapy sessions amirite.md"
+                "file": "argotIndex.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "whos gonna pay for those therapy sessions amirite.md"
+                "file": "argotIndex.md"
               }
             }
           },
@@ -102,14 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "argotIndex.md",
+    "The Deathless One.md",
+    "The Feud on Hama.md",
+    "Abraham Washington.md",
+    "Malory Whisperbottom.md",
     "whos gonna pay for those therapy sessions amirite.md",
     "The 13 Islands of the Haunted Sea.md",
     "The Many-Bodied Shadow of War Lore.md",
     "Interpretations of the Many-Bodied.md",
-    "Lore.md",
-    "A new challenger appears.md",
-    "Antagonists.md",
-    "Arcs.md",
-    "argotIndex.md"
+    "Lore.md"
   ]
 }
