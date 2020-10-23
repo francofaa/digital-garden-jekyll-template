@@ -8,7 +8,7 @@ title: A completely avoidable international incident
 
 # Election Eve
 
-After a whirlwind day wherein [[Livius Anastasius Cratius]] was served, [[Hespero]] was arrested, [[Casimir Flüf]] stole a magic earpiece, and you met a mind flayer, you all retired to Abraham’s home on the edge of town.
+After a whirlwind day wherein Livius was served, Hespero was arrested, Casimir Flüf stole a magic earpiece, and you met a mind flayer, you all retired to Abraham’s home on the edge of town.
 
 Abe went a-fishin’, Malbec went a-fulfillin’ his demon contract *(please note that even though Aaron will likely not play for a very long time, you will for sure experience the consequences of his decision)*, and you awoke to a knock at the door. Baltsaros, Abe’s will-they-won’t-they and Hespero’s slave, requests that you come meet with Hespero in jail.
 
