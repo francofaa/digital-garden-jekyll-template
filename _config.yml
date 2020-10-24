@@ -1,5 +1,6 @@
-title:               Franco's Wikis
-include:             ['_pages', '_notes/argot/_drafts']
+title:               Franco’s Wikis
+include:             ['_pages']
+exclude:             ['_notes/argot/_drafts']
 
 permalink:           pretty
 relative_permalinks: false

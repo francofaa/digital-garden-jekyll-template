@@ -1,25 +1,37 @@
-$color-primary: hsl(0, 0%, 10%);
-$color-text: hsl(0, 0%, 20%);
-$color-subtext: hsl(0, 0%, 30%);
+$highlight: #ffd700;
+$charcoal: #2f3036;
+$offwhite: #f8f8ff;
+$color-primary: #750101;
+$color-text: $charcoal;
+$color-subtext: $charcoal;
 $color-border: hsl(0, 0%, 85%);
-$color-box-background: mix($color-primary, white, 4%);
-$border-radius: 4px;
-$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
-  sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+$color-box-background: white;
+$serif-dec: 'Grenze', serif;
+$display: 'Grenze Gotisch', cursive;
+$monospace: 'Courier', monospace;
+$serif: 'Vollkorn', serif;
+$text-shadow: -3px 1px 0px $offwhite;
 
 body {
+  background: $offwhite;
   box-sizing: content-box;
-  font-family: $font-family;
+  font-family: $serif;
   margin: 0 auto;
   line-height: 1.7;
   padding: 4vh 6vw;
   overflow-x: hidden;
   color: $color-text;
-  font-size: 1rem;
   max-width: 63em;
-
   @media (min-width: 820px) {
     font-size: 1.2rem;
+  }
+}
+
+content a.internal-link {
+  background-color: $highlight !important;
+  border-color: $charcoal !important;
+  &:hover {
+    background-color: mix($offwhite, $highlight) !important;
   }
 }
 
@@ -27,13 +39,17 @@ time {
   display: block;
   color: $color-subtext;
   margin: 0.5em 0 1em;
+  font-family: $serif-dec;
+  font-style: italic;
+  font-size: 0.9rem;
 }
 
 footer {
   margin: 2em 0;
   font-size: 0.8em;
   color: mix($color-text, white, 80%);
-  padding-top: 1em;
+  padding-top: 0.9rem;
+  font-family: $monospace;
 }
 
 img {
@@ -41,18 +57,16 @@ img {
   display: block;
   margin: 0 auto;
   max-height: 75vh;
-  border-radius: $border-radius;
 }
 
 blockquote {
   padding: 1.5em;
   margin: 0;
-  font-size: 0.88em;
+  font-size: 0.9em;
   background: $color-box-background;
-  border-radius: $border-radius;
-
   p {
     margin: 0;
+    font-family: 2.5rem;
   }
 }
 
@@ -73,6 +87,20 @@ h6 {
   line-height: 1.3;
   margin-bottom: 0;
   padding-bottom: 0;
+  font-family: $display;
+  color: $color-primary;
+}
+
+main > article > div:first-child > h1 {
+  font-size: 3rem;
+  color: $charcoal;
+  background-color: $highlight;
+  text-decoration: underline 2px;
+  text-shadow: $text-shadow;
+  &:hover {
+    transition: 1s;
+    
+  }
 }
 
 a {
@@ -80,10 +108,10 @@ a {
   padding: 0 0.1em;
   text-decoration: none;
   border-bottom: 1px solid $color-border;
-  color: $color-primary;
+  color: $charcoal;
   &:hover {
     color: black !important;
-    background: #fffaf1;
+    background: $highlight;
   }
   &:after {
     position: relative;
@@ -104,6 +132,7 @@ a {
 
 nav {
   margin: 1em 0 3em;
+  font-family: $display;
 }
 
 #notes-entry-container {
@@ -119,16 +148,26 @@ nav {
   }
 }
 
+side {
+  border-left: 1px solid $color-border;
+  padding-left: 2rem;
+}
+
 .backlink-box {
   background: $color-box-background;
   padding: 1em;
-  border-radius: $border-radius;
+  border: lightgray 1px solid;
+  &:hover {
+    -webkit-box-shadow: -9px 8px 0px 0px #000000; 
+    box-shadow: -9px 8px 0px 0px #000000;
+    transition: 1s;
+  }
 }
 
 code {
   background: #f5f5f5;
   padding: 0.1em 0.2em;
-  border-radius: 4px;
+  font-family: $monospace;
 }
 
 .invalid-link {
