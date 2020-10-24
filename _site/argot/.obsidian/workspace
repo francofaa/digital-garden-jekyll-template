@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "The Many-Bodied Shadow of War Lore.md",
+            "file": "argotIndex.md",
             "mode": "source"
           }
         }
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.0036334991455
   },
   "right": {
     "id": "0463e72fe1866df5",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Many-Bodied Shadow of War Lore.md"
+                "file": "argotIndex.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Many-Bodied Shadow of War Lore.md"
+                "file": "argotIndex.md"
               }
             }
           },
@@ -98,16 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "The Many-Bodied Shadow of War Lore.md",
-    "Interpretations of the Many-Bodied.md",
-    "Lore.md",
-    "A new challenger appears.md",
+    "argotIndex.md",
     "Antagonists.md",
-    "Arcs.md",
-    "argotIndex.md"
+    "Meh.md",
+    "A completely avoidable international incident.md",
+    "Livius Anastasius Cratius.md",
+    "The Argotnauts.md",
+    "Sora Nemmonis.md",
+    "The Deathless One.md",
+    "The Feud on Hama.md",
+    "Abraham Washington.md"
   ]
 }
