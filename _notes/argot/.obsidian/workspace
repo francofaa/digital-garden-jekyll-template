@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4acfa6505471df5d",
+        "id": "23045cb2c71ae74e",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "argotIndex.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "argotIndex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -81,9 +76,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "argotIndex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -98,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "argotIndex.md",

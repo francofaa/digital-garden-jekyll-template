@@ -28,10 +28,10 @@ body {
 }
 
 content a.internal-link {
-  background-color: $highlight !important;
+  // background-color: mix($offwhite, $highlight) !important;
   border-color: $charcoal !important;
   &:hover {
-    background-color: mix($offwhite, $highlight) !important;
+    background-color: $highlight !important;
   }
 }
 
