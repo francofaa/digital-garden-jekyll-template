@@ -1,13 +1,8 @@
 title:               Franco’s Wikis
-include:             ['_pages']
 exclude:
-  - '_notes/argot/_drafts'
-  - '_notes/wargame/_drafts'
-  - '_notes/founders/_drafts'
-  - '_notes/tabletop_notes/_drafts'
-  - '_notes/cardamom_town/_drafts'
+  - '/_notes/**/_drafts/*'
   - '*/obsidian.css'
-  - '_notes/templates'
+  - '_notes/templates/'
 
 permalink:           pretty
 relative_permalinks: false
