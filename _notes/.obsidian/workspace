@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "founders/_drafts/stats.md",
+            "file": "argot/Index Argot.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "founders/_drafts/stats.md"
+                "file": "argot/Index Argot.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "founders/_drafts/stats.md"
+                "file": "argot/Index Argot.md"
               }
             }
           }
@@ -102,6 +102,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "argot/argotIndex.md",
     "founders/_drafts/Untitled.md",
     "founders/Untitled.md",
     "founders/_drafts/outlaws idea sheet.md",
@@ -110,7 +111,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "cardamom_town/Untitled.md",
-    "tabletop notes/Untitled.md",
-    "wargame/_drafts/Untitled.md"
+    "tabletop notes/Untitled.md"
   ]
 }
