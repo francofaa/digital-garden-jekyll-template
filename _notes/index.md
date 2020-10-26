@@ -5,8 +5,7 @@ id: home
 permalink: /
 ---
 
-
-- [[Argot Index]]
+- [[Index Argot]]
 
 <style>
   .wrapper {

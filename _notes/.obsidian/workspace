@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "argot/Index Argot.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "argot index"
               }
             }
           },
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "argot/Index Argot.md"
+                "file": "index.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "argot/Index Argot.md"
+                "file": "index.md"
               }
             }
           }
@@ -102,6 +102,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
+    "argot/Index Argot.md",
     "argot/argotIndex.md",
     "founders/_drafts/Untitled.md",
     "founders/Untitled.md",
@@ -109,8 +111,6 @@
     "tabletop notes/_drafts/Custom Moves.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Untitled 2.md",
-    "cardamom_town/Untitled.md",
-    "tabletop notes/Untitled.md"
+    "Untitled 2.md"
   ]
 }
