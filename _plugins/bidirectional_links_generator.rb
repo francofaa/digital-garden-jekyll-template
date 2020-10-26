@@ -4,7 +4,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
     graph_nodes = []
     graph_edges = []
 
-    all_notes = site.collections['notes'].docs
+    all_notes = site.collections['wikis'].docs
     all_pages = site.pages
 
     all_docs = all_notes + all_pages
@@ -45,7 +45,7 @@ class BidirectionalLinksGenerator < Jekyll::Generator
         id: note_id_from_note(current_note),
         path: current_note.url,
         label: current_note.data['title'],
-      } unless current_note.path.include?('_notes/index.html')
+      } unless current_note.path.include?('_wikis/index.html')
 
 			# Edges: Jekyll
       current_note.data['backlinks'] = notes_linking_to_current_note

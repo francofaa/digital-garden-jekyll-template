@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7e00476e9af1b6",
+        "id": "a8ee78898c1b932f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -71,9 +68,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -89,9 +84,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -102,6 +95,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "founders/_drafts/stats.md",
+    "founders/_drafts/names.md",
     "index.md",
     "argot/Index Argot.md",
     "argot/argotIndex.md",
@@ -109,8 +104,6 @@
     "founders/Untitled.md",
     "founders/_drafts/outlaws idea sheet.md",
     "tabletop notes/_drafts/Custom Moves.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md"
+    "Untitled 1.md"
   ]
 }

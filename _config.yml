@@ -1,8 +1,8 @@
 title:               Franco’s Wikis
 exclude:
-  - '/_notes/**/_drafts/*'
+  - '/_wikis/**/_drafts/*'
   - '*/obsidian.css'
-  - '_notes/templates/'
+  - '_wikis/templates/'
 
 permalink:           pretty
 relative_permalinks: false
@@ -15,7 +15,7 @@ sass:
   style:            :compressed
 
 collections:
-  notes:
+  wikis:
     output: true
     permalink: /:path
 
@@ -25,6 +25,6 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_notes/**/*.md"
+      path: "_wikis/**/*.md"
     values:
       layout: "note"
