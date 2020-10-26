@@ -1,0 +1,6 @@
+# Stats
+
+- Grit 
+- Augurs 
+- Cunning
+- 

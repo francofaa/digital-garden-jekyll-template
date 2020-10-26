@@ -1,5 +1,5 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "pluginEnabledStatus": {
     "file-explorer": true,
     "global-search": true,
@@ -9,18 +9,16 @@
     "command-palette": true,
     "markdown-importer": true,
     "word-count": true,
-    "publish": true,
-    "workspaces": true,
-    "open-with-default-app": true,
-    "audio-recorder": true,
-    "outline": true,
-    "random-note": true,
-    "templates": true,
-    "daily-notes": true,
-    "custom-css": true,
-    "starred": true,
+    "tag-pane": true,
     "page-preview": true,
-    "tag-pane": true
+    "starred": true,
+    "custom-css": true,
+    "daily-notes": true,
+    "templates": true,
+    "random-note": true,
+    "outline": true,
+    "open-with-default-app": true,
+    "workspaces": true
   },
   "hotkeys": {
     "insert-template": [
@@ -31,8 +29,5 @@
         "key": "t"
       }
     ]
-  },
-  "foldHeading": true,
-  "foldIndent": true,
-  "showLineNumber": true
+  }
 }

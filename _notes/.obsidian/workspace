@@ -1,30 +1,33 @@
 {
   "main": {
-    "id": "61ba8db7d999e82a",
+    "id": "6edca7c6bf5fc90c",
     "type": "split",
     "children": [
       {
-        "id": "23045cb2c71ae74e",
+        "id": "7a7e00476e9af1b6",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "founders/_drafts/stats.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "be1e61716d2f2fc3",
+    "id": "f9167beb662ffc60",
     "type": "split",
     "children": [
       {
-        "id": "a131b34cfb65d8ad",
+        "id": "bd189f4f9b0b767c",
         "type": "tabs",
         "children": [
           {
-            "id": "6fa84f2fed385c24",
+            "id": "32502091ff98b023",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -32,7 +35,7 @@
             }
           },
           {
-            "id": "cd9a29188427fb8e",
+            "id": "55972f1eb7eee9f5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -42,7 +45,7 @@
             }
           },
           {
-            "id": "53a9776109130d13",
+            "id": "10edd200deeeef13",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -53,38 +56,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.0036334991455
+    "width": 300
   },
   "right": {
-    "id": "0463e72fe1866df5",
+    "id": "7e9cfbb46fcca03f",
     "type": "split",
     "children": [
       {
-        "id": "dd181a287be039cd",
+        "id": "d05741273c3cce7c",
         "type": "tabs",
         "children": [
           {
-            "id": "6dd280c2bcbcf3f3",
+            "id": "9ca8d221dfb266fd",
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "founders/_drafts/stats.md"
+              }
             }
           },
           {
-            "id": "3886a4c31c5f90f0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "b189229853d43534",
+            "id": "8c0d3b43ccb5e10a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {}
+            }
+          },
+          {
+            "id": "546e82a0e3113022",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "founders/_drafts/stats.md"
+              }
             }
           }
         ]
@@ -95,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "argotIndex.md",
-    "Antagonists.md",
-    "Meh.md",
-    "A completely avoidable international incident.md",
-    "Livius Anastasius Cratius.md",
-    "The Argotnauts.md",
-    "Sora Nemmonis.md",
-    "The Deathless One.md",
-    "The Feud on Hama.md",
-    "Abraham Washington.md"
+    "founders/_drafts/Untitled.md",
+    "founders/Untitled.md",
+    "founders/_drafts/outlaws idea sheet.md",
+    "tabletop notes/_drafts/Custom Moves.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "cardamom_town/Untitled.md",
+    "tabletop notes/Untitled.md",
+    "wargame/_drafts/Untitled.md"
   ]
 }
