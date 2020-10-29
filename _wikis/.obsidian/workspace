@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "founders/_drafts/Public Character Sheets.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -53,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 466.0036334991455
   },
   "right": {
     "id": "7e9cfbb46fcca03f",
@@ -68,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "founders/_drafts/Public Character Sheets.md"
+              }
             }
           },
           {
@@ -84,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "founders/_drafts/Public Character Sheets.md"
+              }
             }
           }
         ]
@@ -95,15 +102,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "founders/_drafts/stats.md",
-    "founders/_drafts/names.md",
-    "index.md",
-    "argot/Index Argot.md",
-    "argot/argotIndex.md",
     "founders/_drafts/Untitled.md",
-    "founders/Untitled.md",
-    "founders/_drafts/outlaws idea sheet.md",
-    "tabletop notes/_drafts/Custom Moves.md",
-    "Untitled 1.md"
+    "founders/_drafts/names.md",
+    "argot/Characters/Nahk.md",
+    "argot/_drafts/It is Dark and Hell is Hot.md",
+    "argot/Characters/Casimir Flüf.md",
+    "argot/Characters/Antagonists.md",
+    "argot/Abraham Washington.md",
+    "argot/Hobbes.md",
+    "argot/Malbec Riesling.md",
+    "argot/Malory Whisperbottom.md"
   ]
 }

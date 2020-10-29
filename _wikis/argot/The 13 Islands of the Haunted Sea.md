@@ -20,3 +20,5 @@ title: The 13 Islands of the Haunted Sea
 * [[The Damage Sluts Adventures in Wonderland]]
 * [[pod squad]]
 * [[Sad Slaad the Salad Lad]]
+* [[It is Dark and Hell is Hot]]
+* [[Next episode]]

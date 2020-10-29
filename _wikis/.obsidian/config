@@ -18,7 +18,8 @@
     "random-note": true,
     "outline": true,
     "open-with-default-app": true,
-    "workspaces": true
+    "workspaces": true,
+    "audio-recorder": true
   },
   "hotkeys": {
     "insert-template": [
@@ -29,5 +30,9 @@
         "key": "t"
       }
     ]
-  }
+  },
+  "enabledPlugins": [],
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

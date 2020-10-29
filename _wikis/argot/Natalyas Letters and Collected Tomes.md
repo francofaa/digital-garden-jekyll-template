@@ -9,4 +9,5 @@ title: Natalyas Letters and Collected Tomes
 - [[Ember Nemmonis Spellbook]]
 - [[Interpretations of the Many-Bodied]]
 - [[Notes from Beneath Embara]]
+- [[Malorys spellbook]]
 

@@ -7,7 +7,7 @@ Mad ramblings appear in this book as they did in the Book of Forbidden Knowledge
 
 > Dear Arry,
 >
-> We have found it. At last. At long last. All we have sacrificed. All we have lost. Here I am, ageless and all bones and voiceless, but at last I found it. This is the true method that Arch-Lich must have used to create all of those copies of himself. And what’s more, it was not written by the Hidimba.
+> Whisperbottom and I have found it. At last. At long last. All we have sacrificed. All we have lost. Here I am, ageless and all bones and voiceless, but at last I found it. This is the true method that Arch-Lich must have used to create all of those copies of himself. And what’s more, it was not written by the Hidimba.
 >
 > After decades of research here it is, my dearest brother: Interpretations of the Many-Bodied. I had to summon gods from beyond the stars, from strange places, and do unnatural things, and they spoke to me, unnerving and chaotic and maddening.
 >

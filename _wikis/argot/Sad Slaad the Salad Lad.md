@@ -43,4 +43,6 @@ Scroll of revivify
 
 Previous Episode: [[pod squad]]
 
-Next Episode: ???
+Solo Mission: [[It is Dark and Hell is Hot]] 
+
+Next Episode: [[Next episode]]

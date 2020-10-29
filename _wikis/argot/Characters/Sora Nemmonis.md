@@ -9,3 +9,5 @@ The federal officer in charge of Sora's arrest was intrigued by her plan. In the
 And so Sora found herself employed as a spy. She helped her new employer rise into further and further power. She stayed out of prison while Kriv rotted in his cell, but in her own way she was a prisoner herself. Her new employer held authority over her head, and as he grew in power so too did his ability to ruin or end her life. She was bound to serve her benefactor, and getting out of that service is the one thing she has been unable to do in this life. But even in her old age she hopes to one day break her chains. (The Criminal Contact feature is actually her spymaster/benefactor she is in service to.)
 
 Most recently, Sora has been sent to Argot to ascertain how to increase the Republic's foothold on Argolos Island. She has no reason to assume a pseudonym as her existence within the Republic is largely off the records thanks to her benefactor. Her only public name is as a traveling bard, and she uses this cover within Argot to carry out her true work.
+
+Appears in [[Bumpkos Island]], [[The Many-Bodied Shadow of War]], and [[The 13 Islands of the Haunted Sea]]
