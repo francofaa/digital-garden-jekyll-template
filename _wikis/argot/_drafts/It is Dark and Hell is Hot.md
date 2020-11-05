@@ -79,4 +79,4 @@ Malory thanks Zulon and politely turns down his offer to hang out with him for s
 
 
 Previous Episode: [[Sad Slaad the Salad Lad]]
-Next Episode: [[Next episode]]
+Next Episode: [[snu snu in the snow snow]]

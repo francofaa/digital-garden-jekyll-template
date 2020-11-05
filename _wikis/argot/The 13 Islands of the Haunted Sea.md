@@ -21,4 +21,5 @@ title: The 13 Islands of the Haunted Sea
 * [[pod squad]]
 * [[Sad Slaad the Salad Lad]]
 * [[It is Dark and Hell is Hot]]
-* [[Next episode]]
+* [[snu snu in the snow snow]]
+* [[Next Episode]]

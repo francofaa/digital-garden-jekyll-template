@@ -45,4 +45,4 @@ Previous Episode: [[pod squad]]
 
 Solo Mission: [[It is Dark and Hell is Hot]] 
 
-Next Episode: [[Next episode]]
+Next Episode: [[snu snu in the snow snow]]
