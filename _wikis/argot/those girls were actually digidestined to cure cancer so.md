@@ -4,7 +4,7 @@ title: those girls were actually digidestined to cure cancer so
 
 # I'm a dog I'm a dog I'm a dog
 
-![[sleddogs.png]]
+![Sled team](assets/sleddogs.png)
 
 The good good doggos can do some pretty cool stuff. They're just like wolves but they 
 
@@ -32,7 +32,7 @@ Livius sets the hag on fire and she is super dead. He then drops concentration, 
 
 Also this gem happened:
 
-![[classicsora.png]]
+![Classic Sora](assets/classicsora.png)
 
 7/7 dogs still alive, good job, but I'll get you next time, my pretty! Eh-heh!
 
@@ -63,6 +63,17 @@ KB-180 asks the kodama spirits whether bringing the woman back to her home would
 Rho assumes that the woman is the mother of the children that Nervepeeler ate and re-birthed. It is all but confirmed when the woman quietly agrees to return to the Iskos village.
 
 The gang all goes to sleep, achieving a long rest. Casimir wakes up, wondering if it was all just a dream. 
+
+---
+It is late night on day 27 since the Battle of Aurochs Island, the first engagement in the Argoti-Mineosi War.
+
+The heroes are on Iskos, having dissipated the white wall, in a cave in the Witch’s Woods.
+
+Four islands left: Iskos, Nistora, Dorost, and Charatos.
+
+One beast left: The Skyswimmer.
+
+You are on a demiplane, and Zulon is arriving on the material plane in four days.
 
 
 Previous Episode: [[snu snu in the snow snow]]
