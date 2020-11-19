@@ -1,0 +1,1 @@
+When you fight someone, on a 10+, choose 3 instead of 2.

@@ -1,0 +1,15 @@
+---
+title: 3400 Statuses
+---
+- asphyxiation: Difficulty breathing, panic, convulsions, paralysis, unconsciousness, brain damage, death within minutes.
+	- population: Immediate panic. Social cohesion breaks down basically at once into a survival-driven desperation to find air.
+- hypothermia: shivering, hunger, dizziness, confusion, drowsiness, frostbite, delirium, unconsciousness, irregular heartbeat, death in an hour or more, depending on the cold.
+	- population: Huddling together, despair, lethargy, resignation. Isolated individuals suffer worsening individual symptoms, so social cohesion can last basically as long as the individuals can.
+- heat stroke: headache, dehydration, weakness or cramps, confusion, fever, vomiting, seizures, unconsciousness, death in an hour or more, depending on the heat.
+	- population: Desperation, panic, lethargy, resignation. Social cohesion can last as long as the individuals can, as the less vulnerable individuals try to help the more vulnerable.
+- dehydration: desperation, headache, confusion, delirium, collapse, death in 3 days.
+	- population: Rationing & hoarding, desperation, infighting. Social cohesion can last up to a week before breaking down into violence or dispersal.
+- starvation: irritability, hunger, weakness, diarrhea, lethargy, dehydration, muscular atrophy, heart failure and death within 2–3 months.
+	- population: Rationing & hoarding, desperation, infighting. Social cohesion can last up to 2 weeks before breaking down into violence, cannibalism, or dispersal.
+- sleep deprivation, irritability, disorientation, nodding off, depression, headache, hallucinations, mania, personality changes, bizarre behavior.
+	- population: Malaise, infighting, tantrums, desperation. For long-term acute sleep deprivation, create affliction threats instead.

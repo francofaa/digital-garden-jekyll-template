@@ -1,0 +1,1 @@
+you can use the skin of a creature as a disguise to transform yourself into that creature , but your real skin is scabbed and foul

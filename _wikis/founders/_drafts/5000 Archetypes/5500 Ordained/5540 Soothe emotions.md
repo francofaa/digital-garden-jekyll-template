@@ -1,0 +1,1 @@
+While speaking to someone who is panicking, angry, or full of another negative emotion, you calm them down, even if the source of the emotion is still present, as long as they can hear you.

@@ -1,0 +1,1 @@
+you can control someone, but if you fail you still do it but do irreparable  harm to the target 

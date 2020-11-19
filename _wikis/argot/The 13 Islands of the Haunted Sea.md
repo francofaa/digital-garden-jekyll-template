@@ -22,4 +22,4 @@ title: The 13 Islands of the Haunted Sea
 * [[Sad Slaad the Salad Lad]]
 * [[It is Dark and Hell is Hot]]
 * [[snu snu in the snow snow]]
-* [[Next Episode]]
+* [[those girls were actually digidestined to cure cancer so]]

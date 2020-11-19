@@ -1,0 +1,1 @@
+You have an apprentice. Your job is to teach them of your skillset. They count as an ally: subordinate (motivation: to follow your instructions to the letter).

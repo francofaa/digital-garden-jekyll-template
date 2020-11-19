@@ -1,0 +1,14 @@
+Your workshop includes (pick 3):
+- Smithy
+- Garden
+- Tinkering tools
+- 3 laborers (costing 1 wealth per session or arc)
+- Junkyard
+- Security measures
+- Woodworking tools
+- Laboratory (required for precious metals metalwork, explosives)
+- Glass works
+- Clay and pottery wheel
+- Weaving and textile tools
+- Printing press and movable type
+- Vault

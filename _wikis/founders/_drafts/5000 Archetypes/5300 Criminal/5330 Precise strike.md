@@ -1,0 +1,1 @@
+When you inflict harm on a monster, you may roll +tough. On a 10+, inflict +2 harm. On a 7-9, inflict +1 harm. On a miss, you leave yourself vulnerable.

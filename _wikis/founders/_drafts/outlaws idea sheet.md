@@ -1,35 +1,5 @@
-# Open on an execution
-
-How devout are you?
-How are you three being put to death? 
-- burned at the stake
-- hanged
-- drawn and quartered
-- beheaded 
-- drowned
-- the boats
-- strangled
-- riddled with arrows
-- nailed to a tree
-
-Your god saves you from death and you must flee the village where you have made your home. 
-
-How many languages do you speak?
-
-
-## Milieu 
 
 refer for inspiration: https://dngngen.makedatanotlore.dev/
-
-DIFFERENT LANGUAGES 
-
-two conflicting neighbors ; dominant religion is something antithetical to the others 
-
-- Arriving conflict , neighboring armies 
-- everyone has their own village or tenants ? 
-- feudalism ! 
-- But then a more powerful invader arrives 
-- Crucified person ? 
 
 Maybe blue beard style? Like stories or something? 
 
@@ -84,3 +54,55 @@ Ask the players where they're from. Places they heard rumors. Places they've hea
     Book of Flora - To keep track of the strange things my players like to collect on adventures so I can make them useful later. 
 
 
+
+
+---------
+motivations
+○ ACKNOWLEDGEMENT: Impress someone in a position of power or authority..
+○ CONFIDENCE: Walk brazenly into danger, sure in your abilities.
+○ H O N O U R: Accept hardship or difficulty to uphold your word.
+○ INSTRUCTION: Motivate someone to discipline or self-mastery.
+○ MARTYRDOM: Make things harder on yourself to prove your superiority.
+○ CONVERSION: Convince someone of your viewpoint on religion and the old Powers.
+○ DEFIANCE: Resist the wishes of your Patron, and act against its will.
+○ FAITH: Disregard danger, secure in your belief that you will be protected.
+○ REVELATION: Learn something about the world that makes you question your beliefs.
+○ SURRENDER: Seek out the wild magic, and let it reshape you.
+○ COMPETITION: Slay a creature of considerable might or cunning.
+○ DEFENSE: Face danger to protect a natural place or creature
+○ LIBERTY: Free someone or something from figurative or literal bondage.
+○ STEWARDSHIP: Care for someone or somewhere you have claimed as your own
+○ WANDERLUST: Discover a place or thing of natural beauty.
+○ COMFORT: Bring hope to someone who despairs.
+○ CULTIVATION: Help someone to learn, grow, or improve themselves.
+○ MERCY: Forgive a helpless enemy or let an enemy go free.
+○ PEACE: Prevent violence from breaking out, or end a violent conflict without anyone getting hurt. ○ PRESTIGE: Impress someone important from outside of your home town.
+○ GLORY: Build your reputation through acts of bravery, sacrifice, or triumph.
+○ Justice: Deny mercy to an enemy or avenge a wrongdoing.
+○ OBEDIENCE: Follow orders even when they are dangerous or dishonourable.
+○ PROTECTION: Hold or maintain a space for something soft to grow
+○ RUTHLESSNESS: Enact a plan knowing it will likely bring an innocent or ally to harm.
+○ CURIOSITY:Cause trouble by meddling with something mysterious or dangerous.
+○ DEFIANCE: Stand up to a bully or tyrant.
+○ GREED: Take possession of something valuable (to you, or others).
+○ RESPECT: Have an NPC acknowledge your charm, skill, or cunning.
+○ SELF-PRESERVATION: Shift blame or danger from yourself to another.
+○ CURIOSITY: Mess with something that you know you oughtn't.
+○ DISCOVERY: Find something of value or power that was hidden or lost.
+○ INSTRUCTION: Inspire someone to pursue education or seek knowledge.
+○ PRESERVATION: Protect a piece of knowledge or history from being destroyed.
+○ RECOGNITION: Make someone acknowledge your superior learning.
+○ B A L A N C E: Guide someone or something from an extreme to a middle way.
+○ MASTERY: Assert your power over a creature of the wild magic.
+○ PURIFICATION: Defeat a perversion of the natural order.
+○ RENEWAL: Restore someone or something in need of healing.
+○ RESPECT: Have a spirit acknowledge your wisdom or virtue.
+
+
+------
+grit 
+strange
+
+
+
+renown

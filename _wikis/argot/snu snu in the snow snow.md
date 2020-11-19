@@ -78,4 +78,4 @@ You are on a demiplane, and Zulon is arriving on the material plane in four days
 
 - Previous Episode [[Sad Slaad the Salad Lad]]
 - Solo Episode: [[It is Dark and Hell is Hot]]
-- Next Episode: [[Next Episode]]
+- Next Episode: [[those girls were actually digidestined to cure cancer so]]

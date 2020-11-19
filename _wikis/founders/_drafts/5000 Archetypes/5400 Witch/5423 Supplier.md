@@ -1,0 +1,1 @@
+At the start of an arc, get +1 stock from your supplier, depending on how it is going. You may purchase extra stock from your supplier for 2-wealth up to a maximum of 3 stock per purchase.

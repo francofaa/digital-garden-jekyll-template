@@ -1,0 +1,1 @@
+When you order your troop to advance, regroup, hold position, hold discipline, or work harder, roll +common. On a hit, they do it. 10+, take +1 forward when fighting. On a miss, they do it, but you'll hear about it later.

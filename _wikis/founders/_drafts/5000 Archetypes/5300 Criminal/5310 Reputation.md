@@ -1,0 +1,1 @@
+When you meet someone you deem important, roll +cool. On a hit, they've heard of you, and you say what they've heard; the MC has them respond accordingly. On a 10+, you take +1 forward for dealing with them as well. On a miss, they've heard of you, but the MC decides what they've heard.

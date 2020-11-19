@@ -1,0 +1,1 @@
+A space belonging to you (your home, infirmary, workshop) cannot be entered by monsters. They might be able to get around them somehow but not with ease. 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4acc27b6f70a90e6",
+        "id": "bd20e1c785f298c9",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "argot/snu snu in the snow snow.md",
+            "file": "argot/those girls were actually digidestined to cure cancer so.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "esteban"
+                "query": ""
               }
             }
           },
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5036334991455
+    "width": 324.0036334991455
   },
   "right": {
     "id": "7e9cfbb46fcca03f",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "argot/snu snu in the snow snow.md"
+                "file": "argot/those girls were actually digidestined to cure cancer so.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "argot/snu snu in the snow snow.md"
+                "file": "argot/those girls were actually digidestined to cure cancer so.md"
               }
             }
           }
@@ -98,19 +98,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 142.53768920898438
   },
   "lastOpenFiles": [
+    "argot/those girls were actually digidestined to cure cancer so.md",
     "argot/snu snu in the snow snow.md",
+    "argot/_drafts/It is Dark and Hell is Hot.md",
     "argot/_drafts/Next Episode.md",
-    "argot/The 13 Islands of the Haunted Sea.md",
-    "argot/Arcs.md",
-    "argot/Index Argot.md",
-    "argot/_drafts/snu snu in the snow snow.md",
-    "argot/_drafts/Next episode.md",
-    "argot/Wow good thing he didnt have time stop and that you didnt blow that horn.md",
-    "argot/Sad Slaad the Salad Lad.md",
-    "argot/_drafts/It is Dark and Hell is Hot.md"
+    "argot/_drafts/Siege Planning.md",
+    "argot/_drafts/those girls were actually digidestined to cure cancer so.md",
+    "argot/pod squad.md",
+    "Siege Planning.md",
+    "founders/_drafts/3000 Systems/3200 Stats/3210 Force/3210 Force.md",
+    "founders/_drafts/3000 Systems/3200 Stats/3220 Calm/3234 Field medicine.md"
   ]
 }

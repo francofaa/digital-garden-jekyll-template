@@ -1,0 +1,1 @@
+If you have suffered harm in a fight, take +1 ongoing until the encounter is over.

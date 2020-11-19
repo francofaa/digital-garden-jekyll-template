@@ -1,0 +1,1 @@
+Every dawn, you may imbue a weapon with holy energy by praying over it, sprinkling it with holy water, or performing some other ritual. Until the next dawn, the weapon counts as a magical weapon inflicting an additional +1 harm obvious (the weapon glows).

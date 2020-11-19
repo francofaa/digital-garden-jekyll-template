@@ -1,0 +1,1 @@
+Get a crew of two apprentices. Get 1-wealth when you spend time treating patients. (You need a supplier)
