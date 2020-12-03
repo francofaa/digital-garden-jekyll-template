@@ -77,4 +77,4 @@ You are on a demiplane, and Zulon is arriving on the material plane in four days
 
 
 Previous Episode: [[snu snu in the snow snow]]
-Next Episode: [[Next Episode]]
+Next Episode: [[Dont talk back]]

@@ -11,3 +11,4 @@ title: The Argotnauts
 * [[Nahkulgart]]
 * [[Hobbes]]
 * [[Rho]]
+* [[KB-180]]

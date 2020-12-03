@@ -23,3 +23,5 @@ title: The 13 Islands of the Haunted Sea
 * [[It is Dark and Hell is Hot]]
 * [[snu snu in the snow snow]]
 * [[those girls were actually digidestined to cure cancer so]]
+* [[Dont talk back]]
+* [[Next Episode]]

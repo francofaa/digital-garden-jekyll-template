@@ -1,3 +1,26 @@
+# study mechanic 
+create a magical discipline; make a test to gain those spells; study every day ; checks increase in difficulty ; should take a year of in game time ; fibonacci scale of difficulty for 
+
+every in game week, study ; university ; make a test in that discipline; for every success, ; you can then make your own spell book 
+
+to make your spell book work, you have to get it activated 
+
+# collectibles 
+- make collectibles 
+- so make potions from these! 
+
+ingredients must have a word > moon (flower) ; maybe a vague description ; like a sharp object ; reward hoarders 
+
+five senses of magic: 
+- smell, taste, sound, feeling, visual
+
+# Spells and books and stuff
+engraving spells into items like materials, weapons, or just books ; magic has died in the world 
+
+
+-----------------
+
+
 
 refer for inspiration: https://dngngen.makedatanotlore.dev/
 
