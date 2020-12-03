@@ -32,7 +32,7 @@ The heroes head to the monolith in the middle of town.  It is some 30 feet high.
 
 Livius and Sora poke their heads into the elder's hut and are greeted by a small man. A group of large (correction: they are large) creatures are shrouded in darkness with their faces turned away, but the man does not let you all in further. He answers your questions politely, but does not agree to share the mysteries of their religion. "It's not for you," he says and tells you that Aramestes is in the mountains, in his castle, and has not been seen in five years. "He looked like shit last time. We could not even see his face, he was turned away and hiding himself."
 
-Since the castle is two days up the mountains, the heroes debate whether to continue on or to go after the final beast to unlock the Demiplane Engine due to Zulon's imminent arrival (and due to the fact that the Mineosi-Argoti War has started and you guys are still trapped here).
+Since the castle is two days up the mountains, the heroes debate whether to continue on or to go after the final beast to unlock the Demiplane Engine due to Zulon's imminent arrival (and due to the fact that the  Argoti-Mineosi War has started and you guys are still trapped here).
 
 Before they do, however, Sora asks after the elder's companions' names; they flash their eyes at her and Nahk sees, with his special eyes, that they are all yak-faced.
 

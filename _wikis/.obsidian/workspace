@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "templates/template.md",
+            "file": "argot/Dont talk back.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/template.md",
+                "file": "argot/Dont talk back.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/template.md"
+                "file": "argot/Dont talk back.md"
               }
             }
           }
@@ -111,15 +111,15 @@
     "width": 142.53768920898438
   },
   "lastOpenFiles": [
-    "templates/template.md",
     "argot/Dont talk back.md",
-    "argot/_drafts/Next Episode.md",
+    "argot/those girls were actually digidestined to cure cancer so.md",
+    "argot/snu snu in the snow snow.md",
     "argot/Index Argot.md",
+    "templates/template.md",
+    "argot/_drafts/Next Episode.md",
     "argot/Arcs.md",
     "argot/The 13 Islands of the Haunted Sea.md",
     "argot/_drafts/Untitled.md",
-    "argot/those girls were actually digidestined to cure cancer so.md",
-    "argot/snu snu in the snow snow.md",
     "cardamom_town/_drafts/Player Characters.md"
   ]
 }
