@@ -1,5 +1,5 @@
 ---
-title: Index Argot
+title: index argot
 ---
 - [[Lore]]
 - [[Arcs]]
