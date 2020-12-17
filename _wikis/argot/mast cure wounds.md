@@ -37,7 +37,7 @@ Nasty grub monsters come in, but they're just there to impose disadvantage on ev
 
 The heroes then run away to the burning ship to bail it out. They succeed in not letting anyone die but fail in preventing all damage to the ship. The Kodama are also afraid of worms and so appear on the ship to hand the heroes a zone 3 charm! Hooray! The mast has to be salvaged and the gang risks violating Cloud Giant airspace to get back to Lemba for repairs. 
 
-They hand the Alchemist the book, [[Natalya's Letters and Collected Tomes]] > **Interpretations of the Many-Bodied**, and she reads all day. The heroes make a stop at Osteros, no time to chat or have dinner, because they have to also just get right back to Lemba, but the Dragonborn are really happy to see them again, but understand that the ship is right fucked.
+They hand the Alchemist the book, [[Natalyas Letters and Collected Tomes]] > **Interpretations of the Many-Bodied**, and she reads all day. The heroes make a stop at Osteros, no time to chat or have dinner, because they have to also just get right back to Lemba, but the Dragonborn are really happy to see them again, but understand that the ship is right fucked.
 
 # "No time to talk, Abe, gotta bust open this plot"
 
@@ -58,7 +58,7 @@ She points to the following evidence:
 
 Livius and Nahk have no clues as to why Hespero would be out to get them.
 
-Please recall from [[Natalya's Letters and Collected Tomes]] > **Regarding Demiplane Engines**: 
+Please recall from [[Regarding Demiplane Engines]] 
 
 > Demiplane engines are used to keep parts of a plane in a pocket dimension for reference, storage, or long-term infliction of suffering. Conventional demiplanes can be created via powerful spells, but ripping part of a plane into its own demiplane requires immense power and security measures to prevent escape and ensure optimal torture.
 

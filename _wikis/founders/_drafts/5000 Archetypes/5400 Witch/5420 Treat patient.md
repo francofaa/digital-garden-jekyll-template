@@ -8,4 +8,4 @@ On a miss, they take 1 harm instead.
 
 You can spend 1 stock to stabilize and treat an NPC
 
-Use [[5521 Medical supplies]] to treat your patients. 
+Use [[5421 Medical supplies]] to treat your patients. 

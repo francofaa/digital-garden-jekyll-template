@@ -24,4 +24,4 @@ title: The 13 Islands of the Haunted Sea
 * [[snu snu in the snow snow]]
 * [[those girls were actually digidestined to cure cancer so]]
 * [[Dont talk back]]
-* [[Next Episode]]
+* [[Banish me once shame on - shame on you - banish me cant get banished again]]

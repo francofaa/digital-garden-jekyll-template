@@ -8,4 +8,4 @@ When you want your familiar to do within reason, roll +eerie. Hit: It follows yo
 
 Miss, something goes awry.
 
-Build your [[5510 Familiar]]
+Build your [[5410 Familiar]]

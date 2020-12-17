@@ -161,7 +161,7 @@ These are each bound to the recipient and if they are used by another creature, 
 
 Casimir and Nahk each receive:
 
-**Fairy Mushrooms (3).** When consumed, roll 1d100. 1-50: Has the effect of reduce. 51-100: Has the effect of enlarge. No saving throw if consumed, if target is unwitting, even if they are unwilling to shrink or enlarge.
+**Fairy Mushrooms (3).** When consumed, roll 1d100. 1-50: Has the effect of reduce. 51-100: Has the effect of enlarge. No saving throw if consumed, if target is unwitting, even if they are unwilling to shrink or enlarge. ^1ce455
 
 *Special additional effect for Casimir: *If Casimir consumes this as a cat and becomes enlarged, he is allowed to act as a mount (same stats as cat, but large and additional enlarge effects). See rules for mounted combat. If Casimir is used as a mount *before* rolling initiative, he and the rider may act on the same initiative.
 

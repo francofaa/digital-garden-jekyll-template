@@ -1,6 +1,8 @@
+
 Introduce bond / string spreadsheet
 
 Give KB one string on Livius
+
 
 
 ----
