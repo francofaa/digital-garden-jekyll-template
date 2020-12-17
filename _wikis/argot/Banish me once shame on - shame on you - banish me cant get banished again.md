@@ -38,7 +38,7 @@ Hobbes feels a rumbling under his feet as the creature whose thoughts Sora heard
 
 Hobbes and Livius hop in as Sora hops out. The changeling striking at the not-a-dragon-but a goat chimera beast as big as the room that is crawling through the floor. Everyone gets to the kitchen to help. 
 # 50% of the time it works every time
-Casimir (chaotic oops) lasser les bontemps roulet by throwing the fairy mushroom from [[The Damage Sluts Adventures in Wonderland#^1ce455]] into the monster's mouth. 
+Casimir (chaotic oops) lasser les bontemps roulet by throwing the fairy mushroom from [[The Damage Sluts Adventures in Wonderland]] into the monster's mouth. 
 
 It works! The monster eats it! Now there's just a 50/50 chance of it enlarging it or shrinking it. 
 
