@@ -1,9 +1,11 @@
+COURT OF THE DAMNED: Zulon sets up a court to oversee various disputes between humans; sics devils on people with bad contracts; tries to form deals with people; susceptible to being bargained with; after 7 days, ambassador comes in, makes charisma checks once per day to convince Zulon to besiege Argot
+
+lair action for battalion, capped minions count, recharge
+
 Units:
-Tibbits of East Hama
-Tibbits of South Hama
-Levy from Kinista
+Tibbits of Hama
 Fishfolk of Morodos
-Levy from Quebra
+Merrows from the sea
 Selkies of the Haunted Sea
 Kodoma spirit beasts
 Fey of Lemba

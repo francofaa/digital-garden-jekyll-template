@@ -1,4 +1,57 @@
 
+
+
+the skull lord has been searching for the keys to 
+
+Make them choose between the dog and the human
+
+the heroes trick the villagers into thinking that they will raise the goat god 
+
+
+The heroes once again kill several bystanders 
+
+Ferdinand 
+
+villager wants to talk to everyone at the village about unleashing the goat god 
+
+
+destroying the gem on this ambassador / majordomo will destroy the man because the energy is unstable 
+
+nahk  and livius's whole deal / connection to hespero 
+
+Natalyas body is trapped in a lockbox in a grave at the skull lords castle 
+
+The mayordomo is an ambassador prototype 
+
+He has sirablood leaking from his ears and eyes. There are a few. You can find the connector. It's inside a lockbox 
+
+The farmer found the lock boxes in his house. They were ancient. 
+
+The elders had the third lock box. They held the keys to all three pieces and the boxes would whisper to them. 
+
+The argoti start distrusting the magic users and consider them traitors 
+
+---------
+
+KB is banished
+
+What the hell are the boxes and marbles about? 
+
+The marbles are two parts of a whole: the goat god is imprisoned in these two boxes. 
+
+The yak folk found the farmer, a madman, who was trying to open the boxes and bring the goat god into the world. 
+
+The yak folk killed the farmer but couldn't find the boxes (a goat ate one)
+
+The boxes are interdimensional prisons but the energy still leeches through (so after two years the goat was transformed into the chimera)
+
+The yak folk elder 
+
+They find a book: 
+
+The goat has two faces and its number is 56
+
+-----
 Introduce bond / string spreadsheet
 
 Give KB one string on Livius
@@ -15,18 +68,6 @@ KB-180 fights along side spirit warriors
 ---
 
 
-nervepeeler blasts out an ice storm on the spot 
-
-hag flies on broom but also ignores difficult terrain 
-
-oni flies
-
-giant hurls rocks and attacks 
-
-difficult terrain 
-
---- 
-
 Nervepeeler's igloo, melting 
 
 six hag childs 
@@ -38,7 +79,7 @@ dwarf and the man can go back to the village
 
 woman finally decides to return
 
-Thirurl, Rox, Goliath
+
 
 when they get back to the village, the mother burns down the village ; 
 
@@ -62,9 +103,6 @@ As the heroes go on:
 
 The villagers live enslaved in an idyllic seeming community in the valley. The magical cold does not reach them here, and the Goatfolk rule these people with an iron fist.
 
-https://www.dndbeyond.com/monsters/yakfolk-warrior
-
-https://www.dndbeyond.com/monsters/yakfolk-priest
 
 
 Livius’s goat staff should glow when they enter this village. But you see no goats.
@@ -77,39 +115,3 @@ The pillar
 There is a tall smooth stone pillar, some 30 feet high. The stone pillar has the face of a goat carved on it, at eye height. Three rings of stone surround it, like wells. Each of them is six feet tall. One is damp from water and covered in moss and its bottom is all stone. One is black on the inside from ashes. The other is piled with dirt to the rim of the well. 
 
 Each sacrificial victim must toil to become sacrificed: Lugging buckets of water to fill the well, digging their own well, making fire, and climbing the pillar. 
-
-The villagers
-
-Some of the villagers tell you about Aramestes, who lives in the castle high in the mountains. 
-
-> “We are his subjects, but he has not come down to see us in hundreds of years. The mountain paths are treacherous now and none come down or go up, or out into the wilderness, out to the shores. Work is our only joy.”
-
-He contains a Goatfolk inside of him, Impi, a priest
-
-When they say that they want to go to the castle, the villager says:
-
-> “You must be weary from your travels though, friend. Stay and rest a while.”
-
-Main hut
-
-The heroes can go and see the elder, Kipto, a priest. 
-
-Impi, as the man, requests that they leave their weapons at the door when entering the hut.
-
-> Rather than a humanoid sitting at a desk, you instead see a large goat-headed humanoid, burly, and adorned with ribbons and wearing a tunic and skirt. 
-> 
-> “Good day, travelers. I am Kipto, the village elder.”
-
-When asked about Aramestes:
-
-> “That old beast. He is probably dead. It’s only been six hundred years!” Kipto scoffs.
-
-Mountain Pass
-
-Up the mountain pass, the heroes see a niche where a small shrine is placed. 
-
-> The face of whoever was honored here has been lost to time, but the stone woman wears alchemist’s robes and holds potions and a book. Three tiny bowls of thick black liquid sit in a place of offering before this statuette. It is sirablood. 
-
-Up the winding paths, the heroes will have to make a perception check DC 18 to see the abominable yeti creeping up on them. 
-
-It is afraid of fire. 

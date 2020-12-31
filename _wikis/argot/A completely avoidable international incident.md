@@ -23,6 +23,24 @@ You discovered that Polos Devenir, from episode one, Bumpkos Island, is your jud
 
 After fooling Damfina into thinking that Allegra wants to meet with them at the Mineosi Embassy, the gang went to the embassy disguised as Allegra and a slave. 
 
+You arrive at Hespero's manor. A knock at the door: 
+
+> Noticeably agitated, Armand cries out, “The vultures cannot give us one moment’s peace!” 
+> 
+> Hespero hurries to the door and after confirming with the people on the other side that they were not there to conduct a search, he allows them in.
+> 
+> At the door, you see a familiar face: the Ambassador, flanked by two Argotian court officials. They are brand-new. They would have been rotated in with the latest crop of judges.
+> 
+> “This unorthodox approach to governance has left me at the mercy of these incompetents, I am afraid.” The new court officials look noticeably annoyed but do not dare say anything to contradict the Ambassador. “We heard that you had all returned to Argot. Pleased to see you made the voyage back. I wanted to introduce you to my counsel.”
+> 
+> Wearing what some might describe as a power toga (bright red diagonal stripes), a lean creature glides into the room. At first glance, it looks as though an octopus has landed on its head. Its strange head pulses as a voice echoes in your head, saying, in common, “Pleased to meet you.” The creature inclines its head. “I am Pinot Merlot of the interdimensional law firm Sauvignon, Sangiovese, and Merlot. I am the counsel for the Mineosi Ambassador.” 
+> 
+> Hovering around it and the Ambassador are strange floating creatures with tall eye stalks, noodle-y appendages, and round bodies. There are about eight of these, all taking notes with their appendages on glowing tablets. One of the creatures points its eyes at Sora curiously before returning to its note-taking. 
+> 
+> “Pardon, they are my paralegals. I trust we will be able to get this resolved with justice prevailing. I have just been studying your state’s legal code and history of cases, and in particular, motions enacted by your counsel, Mister Hespero. I came here as well merely to see if anyone would just like to have a chat, they are welcome to. We will be at the Embassy outside of city limits.”
+> 
+> “Thank you again for your time,” says the Ambassador. “Go ahead.” He gestures to the court officials and they pounce and begin searching the house.
+
 The gang stayed behind and spoke to Pinot Merlot, the Mineosi counsel / mind flayer. Merlot suggested that the gang turn on Hespero and provide evidence that he was the mastermind behind the kidnapping.
 
 Sora went to General Leandro’s manor and spotted Allegra. She applied pressure on Leandro to, I believe, support siding with the Werriadi after he is re-elected general. Please remind me on this one.

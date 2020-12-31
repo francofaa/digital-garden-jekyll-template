@@ -87,4 +87,4 @@ One beast left: The Skyswimmer.
 You are on a demiplane, and Zulon is arriving on the material plane in three days.
 
 Previous Episode: [[Dont talk back]]
-Next Episode: [[Next Episode]]
+Next Episode: [[bah gawd]]
