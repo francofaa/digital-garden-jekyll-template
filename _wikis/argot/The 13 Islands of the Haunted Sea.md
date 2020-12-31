@@ -25,3 +25,4 @@ title: The 13 Islands of the Haunted Sea
 * [[those girls were actually digidestined to cure cancer so]]
 * [[Dont talk back]]
 * [[Banish me once shame on - shame on you - banish me cant get banished again]]
+* [[bah gawd]]
