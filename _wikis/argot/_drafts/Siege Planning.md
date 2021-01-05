@@ -48,3 +48,148 @@ Veterans
 Levies
 Navy
 Walls
+
+
+# Siege of Argot
+Heroes must resolve a few issues: 
+- food
+- oppressed underclass of people in the undercity (maybe they come from the guts to the main city and are asking to be let in while the citizens within the walls are resisting)
+- Hespero
+- Leandro and Armand
+- Other political factions 
+- Pontian Werriadi 
+	- General here would be really about (oh this should be Sora's contact!) leading the whole operation himself
+- fortifications 
+- troop training
+- asking for help (negotiation) (lean on Livius's ambassadorship)
+- declaration of a dictatorship? Hespero throws his hat in via Armand or Leandro (forget what happened and who is on whose side) (or maybe Hespero claims a different stooge)
+- naval blockade by golden league nations 
+- Zulon's allegiance 
+- should we have resource tokens? (more resources you spend to get allies, the more internal instability you get: food shortages, hoarding, terrorism, defection, desertion)
+- Spend resources on magic items (from the arcane schools)
+- anti ship weaponry (claw of Archimedes) (maybe this is mallory's contribution?)
+- nahk, hobbes, abe can spend time training levies up to regular infantry 
+- what if livius raises an undead army
+
+During battle consider:
+- supply trains
+- resupply 
+- internal terrorism (by Hespero's partisans or other parties)
+- night raids (night vision)
+- any 2 centimeter section of wall requires a certain amount of damage done to it
+- you can raise a new local levy but you can't raise any of the other types of troops
+- cavalry cannot do run and strike maneuvers in city territories
+- where are the caches of food, money, and resources?
+
+
+Argot side has about 20,000 troops 
+Mineosi side has about 40,0000 troops
+
+35 units
+
+
+Mechanics: 
+- siege weapons and walls should have high AC's
+- exhausting, retreating, removing troops
+- every 10th round, combat occurs
+- heroes can take short and long rests but the battle continues
+- siege engines move half speed (1 cm)
+- repairing sections of wall costs 1 resource
+- besiegers can also build fortifications
+- Pontia legions may appear from the west at some point for reinforcement 
+
+
+## Game mechanics
+Each unit is between 250 and 500 individuals. This is a battalion. A legion is a stack of blocks. Legion and stack are interchangeable. Block, unit, and battalion are interchangeable. 
+- Blocks move in centimeters.
+- Rounds play out in minutes rather than 6 second intervals
+- Blocks can be 4 units high. Highest unit is the vanguard, bottom is rearguard. Units in the middle are the center
+	- The center can only be attacked by artillery and aerial units
+	- Vanguard units are targeted first
+	- Rearguard units are targeted only if the army is attacked from an additional side
+	- Direction is important when determining rear and vanguards. When moving the army in the opposite direction from which the army came, the vanguard and rear guard must be switched
+	- Only artillery and aerial units may attack from the center
+	- Armies can reconfigure all of their units at the cost of the movement of each unit
+	- Units can leave an army from the vanguard or the rearguard
+	- Naval ferrying: Naval unit is on the top. All units underneath are considered to be the center. 
+
+
+
+## Places
+### 14 Islands
+1.  Duergar of Aurochs
+2.  TIbbits of Hama
+3.  Fishfolk of Morodos
+4.  Merrows of the Seas
+5.  Selkies of the Seas
+6.  Kodoma spirit beasts
+7.  Fey of Lemba
+8.  Human levies from Iskos, Findalos, Quebra, Kinista
+9.  Nemmonis Clan of Osteros
+10.  Gnolls of Charatos
+11.  Rakshasas of Charatos
+12.  Cloud Giants of Nistora
+
+### Argolos
+1. Argot Veterans
+2. Argot Levies
+3. Argot Light Cavalry
+4. Argot Heavy Cavalry
+5. Kraikos Levies
+6. Varak Levies
+7. Dwarrowdeep dwarf levies
+8. Elves of the woods
+9. Vampires of the Guts
+
+#### Hespero's Partisans
+1. Merrows of Merrowdeep
+2. Golems
+3. Dopplers
+4. Shapechangers
+5. Shadow demons
+
+### Werriad Republic
+1. Legion of Pontia
+
+### Sickle Islands
+Levies and Navies:
+1. Decania
+2. Bourtias
+3. Great Sickle
+4. Sartos
+
+### Golden League
+Levies and Navies:
+1. Telens
+2. Sidicea
+3. Kalens
+
+### Others
+1.  Zulon's legions
+
+### Mineos
+1. Ashen Cavalry (Ashen Rider)
+2. Raptor Sky Cavalry (Abhorrent Overlord)
+3. Golem Sappers (Hythonia Medusa)
+4. Mineosi Shock Troops (Lord of Blades)
+5. Mineosi Undead Legion (Lazav)
+6. Siege Weapons
+7. Mineosi Navy
+
+## Units
+
+35 units total
+
+- 5 veteran units
+- 5 naval units
+- 10 levies
+- 1 Duergar from Aurochs
+- 2 dwarf units (dark vision)
+- 2 elf units (archers, dark vision)
+- 2 cloud giant sky navy
+- 2 legions from Pontia
+
+
+
+
+Siege units have a range of 1cm (150 feet)

@@ -1,4 +1,8 @@
+Moldoth, creature that is trapped inside of the three boxes 
 
+
+
+NAHK has one of the lock boxes, Sora has one, Livius has one 
 
 
 the skull lord has been searching for the keys to 
