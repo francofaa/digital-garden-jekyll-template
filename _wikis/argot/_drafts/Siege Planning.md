@@ -1,3 +1,7 @@
+Polos Devenir disbarred Malbec, people think this was abuse of power because it came out that Malbec used an old statute to claim Polos's property
+
+
+
 COURT OF THE DAMNED: Zulon sets up a court to oversee various disputes between humans; sics devils on people with bad contracts; tries to form deals with people; susceptible to being bargained with; after 7 days, ambassador comes in, makes charisma checks once per day to convince Zulon to besiege Argot
 
 lair action for battalion, capped minions count, recharge

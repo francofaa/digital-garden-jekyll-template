@@ -2,6 +2,11 @@
 title: Nahkulgart
 ---
 
+Nahk is from a mountain clan of bugbears. He left at a young age to explore and be all a bugbear can be. He likes to travel to strange locations, sample the foods, meet people, and essentially make his own travel guide of the places he visits. 
+
+Nahk and [[Hobbes]] are hired by [[Malory Whisperbottom]] as bodyguards while Malory seeks out the mysteries of [[Malorys spellbook]].
+
+Nahk has heard tell of [[Livius Anastasius Cratius]], inventor of the sandwich. 
 
 Nahk, during his time in [[The 13 Islands of the Haunted Sea]], took the time to compile all of his maps, writings, and journal entries to put together his first book: *Kodama Confidential: Adventures in the Culinary Underdark*. Chapters include:
 

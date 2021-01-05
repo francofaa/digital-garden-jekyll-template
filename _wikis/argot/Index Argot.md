@@ -4,7 +4,7 @@ title: index argot
 - [[Lore]]
 - [[Arcs]]
 - [[The Argotnauts]]
-- [[Antagonists]]
+- [[NPCs]]
 
 # Setting for Arc 1: The Many-Bodied Shadow of War
 

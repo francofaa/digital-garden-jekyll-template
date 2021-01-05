@@ -2,30 +2,17 @@
 title: Meh
 ---
 
-*or Aurochs Island (and What Lies Beneath)*
+Meh! wherein 
 
-# Laying Low
+- [[Malbec Riesling]] makes a deal with the devil [[Zulon]] which all of [[The Argotnauts]] inherit
+- [[The Ambassador]] gets fucking dropped
+- Weird time stuff is revealed when the gang meets [[Theo]] and [[Hamiltonos Washington]] 
+- [[Abraham Washington]] jumps off a cliff
+- [[Xarog]] turns out to be pretty chill
 
-From the Ambassador, you have extracted that the deathless one has been sending ambassadors to Aurochs Island, which is just covered in aurochs.
-
-Aurochs island is the source of devil-ore that the deathless one has been mining in the East. To gather more, he has dispatched three Ambassadors to negotiate with the Duergar who live deep beneath the labyrinth here.
-
-Hespero suggests that the PCs lay low after the kidnapping at the dinner party.Malbec Riesling is dispatched to retrieve the devil-ore or sirablood. One of his associates temporarily steps in for him.
-
-# Labyrinth
-
-TK
-
-# The Ruins and the Duergar
-
-TK
-
-# Zulon and Friends!
-
-* Abraham jumps off a cliff
-* Malbec's deal with Zulon
-* Killing an Ambassador
-* Xarog strikes a deal with the Argot-nauts
+# Episodes
+- [[Aurochs Island and What Lies Beneath]]
+- [[Zulon and Friends]]
 
 Previous Episode: [[My Dinner with Hespero]]
 
