@@ -9,6 +9,7 @@ This is home to my wikis for role-playing campaigns and other realms of interest
 
 - [[index argot]]
 - [[index pbta outlaws]]
+- [[index cardamom town]]
 
 <style>
   .wrapper {

@@ -3,7 +3,11 @@ title: 2100 Village
 ---
 Your god wants as many followers as possible. 
 
-[[2110 Village Moves]]
+- [[2110 Village Moves]]
+- [[2111 Village status]]
+- [[2112 Levy]]
+- [[2113 Public works]]
+
 # Describe your village
 People of your faith follow you into exile, for they are also being run out of town. By default, this group is
 - 75-150 people
