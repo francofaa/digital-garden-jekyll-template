@@ -1,6 +1,13 @@
+The Siege of Argot
+- [[Narrative and Fog of War]]
+- [[Resource Points]]
+- [[Game Mechanics]]
+- [[During the Siege]]
+
+
+
+
 Polos Devenir disbarred Malbec, people think this was abuse of power because it came out that Malbec used an old statute to claim Polos's property
-
-
 
 COURT OF THE DAMNED: Zulon sets up a court to oversee various disputes between humans; sics devils on people with bad contracts; tries to form deals with people; susceptible to being bargained with; after 7 days, ambassador comes in, makes charisma checks once per day to convince Zulon to besiege Argot
 
@@ -56,6 +63,64 @@ Walls
 
 # Siege of Argot
 Heroes must resolve a few issues: 
+
+
+- food
+- oppressed underclass of people in the undercity (maybe they come from the guts to the main city and are asking to be let in while the citizens within the walls are resisting)
+- Hespero
+- Leandro and Armand
+- Other political factions 
+- Pontian Werriadi 
+	- General here would be really about (oh this should be Sora's contact!) leading the whole operation himself
+- fortifications 
+- troop training
+- asking for help (negotiation) (lean on Livius's ambassadorship)
+- declaration of a dictatorship? Hespero throws his hat in via Armand or Leandro (forget what happened and who is on whose side) (or maybe Hespero claims a different stooge)
+- naval blockade by golden league nations 
+- Zulon's allegiance 
+- should we have resource tokens? (more resources you spend to get allies, the more internal instability you get: food shortages, hoarding, terrorism, defection, desertion)
+- Spend resources on magic items (from the arcane schools)
+- anti ship weaponry (claw of Archimedes) (maybe this is mallory's contribution?)
+- nahk, hobbes, abe can spend time training levies up to regular infantry 
+- what if livius raises an undead army
+
+During battle consider:
+- supply trains
+- resupply 
+- internal terrorism (by Hespero's partisans or other parties)
+- night raids (night vision)
+- any 2 centimeter section of wall requires a certain amount of damage done to it
+- you can raise a new local levy but you can't raise any of the other types of troops
+- cavalry cannot do run and strike maneuvers in city territories
+- where are the caches of food, money, and resources?
+
+You are free to strategize and plan using your resource points as you see fit. 
+
+Argot side has about 20,000 troops 
+Mineosi side has about 40,0000 troops
+
+35 units
+
+Mechanics: 
+- siege weapons and walls should have high AC's
+- exhausting, retreating, removing troops
+- every 10th round, combat occurs
+- heroes can take short and long rests but the battle continues
+- siege engines move half speed (1 cm)
+- repairing sections of wall costs 1 resource
+- besiegers can also build fortifications
+- Pontia legions may appear from the west at some point for reinforcement 
+
+
+
+
+
+
+The time interval
+
+
+
+
 - food
 - oppressed underclass of people in the undercity (maybe they come from the guts to the main city and are asking to be let in while the citizens within the walls are resisting)
 - Hespero
@@ -86,36 +151,10 @@ During battle consider:
 - where are the caches of food, money, and resources?
 
 
-Argot side has about 20,000 troops 
-Mineosi side has about 40,0000 troops
 
-35 units
+You are free to strategize and plan using your resource points as you see fit. 
 
 
-Mechanics: 
-- siege weapons and walls should have high AC's
-- exhausting, retreating, removing troops
-- every 10th round, combat occurs
-- heroes can take short and long rests but the battle continues
-- siege engines move half speed (1 cm)
-- repairing sections of wall costs 1 resource
-- besiegers can also build fortifications
-- Pontia legions may appear from the west at some point for reinforcement 
-
-
-## Game mechanics
-Each unit is between 250 and 500 individuals. This is a battalion. A legion is a stack of blocks. Legion and stack are interchangeable. Block, unit, and battalion are interchangeable. 
-- Blocks move in centimeters.
-- Rounds play out in minutes rather than 6 second intervals
-- Blocks can be 4 units high. Highest unit is the vanguard, bottom is rearguard. Units in the middle are the center
-	- The center can only be attacked by artillery and aerial units
-	- Vanguard units are targeted first
-	- Rearguard units are targeted only if the army is attacked from an additional side
-	- Direction is important when determining rear and vanguards. When moving the army in the opposite direction from which the army came, the vanguard and rear guard must be switched
-	- Only artillery and aerial units may attack from the center
-	- Armies can reconfigure all of their units at the cost of the movement of each unit
-	- Units can leave an army from the vanguard or the rearguard
-	- Naval ferrying: Naval unit is on the top. All units underneath are considered to be the center. 
 
 
 
