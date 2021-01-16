@@ -26,3 +26,5 @@ title: The 13 Islands of the Haunted Sea
 * [[Dont talk back]]
 * [[Banish me once shame on - shame on you - banish me cant get banished again]]
 * [[bah gawd]]
+* [[she woke up like this]]
+* [[Next Episode]]
