@@ -10,6 +10,7 @@ Refer to the [Alchemist’s stat block](https://www.dndbeyond.com/monsters/skele
 - ![[Eye drops]]
 - ![[Necromantic Elixirs]]
 - ![[Lich-making]]
+- ![[Infusions]]
 
 
 

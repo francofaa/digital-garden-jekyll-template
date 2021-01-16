@@ -10,4 +10,6 @@ title: Natalyas Letters and Collected Tomes
 - [[Interpretations of the Many-Bodied]]
 - [[Notes from Beneath Embara]]
 - [[Malorys spellbook]]
+- [[Grandmother Nervepeelers spellbook]]
+- [[The Epic of Baatarkesh]]
 

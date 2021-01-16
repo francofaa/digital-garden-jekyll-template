@@ -1,3 +1,43 @@
+---
+title: 
+---
+
+
+
+
+^^^HEY! dont forget about the ambassador when you do the next session 
+^^^ Kodama show back up
+
+
+
+
+
+
+aramesteens
+
+aramatestes 
+
+---
+
+nahk brings his ones to the yard 
+
+
+Beef jerky zombies 
+
+cleave the three heads of the skull lord 
+
+Yoldo incel 
+
+Yolo Yoldo into the stone cage
+
+Whats in the box?
+
+obsidian black cube 
+
+
+---
+
+
 Moldoth, creature that is trapped inside of the three boxes 
 
 
@@ -36,8 +76,6 @@ The elders had the third lock box. They held the keys to all three pieces and th
 The argoti start distrusting the magic users and consider them traitors 
 
 ---------
-
-KB is banished
 
 What the hell are the boxes and marbles about? 
 

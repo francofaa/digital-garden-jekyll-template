@@ -43,6 +43,7 @@ title: NPCs
 - [[Aramestes]]
 - [[Natalya]]
 - [[The Hidimba]]
+- [[Inkbassador]]
 
 ## Aurochs Island
 - [[Xarog]]

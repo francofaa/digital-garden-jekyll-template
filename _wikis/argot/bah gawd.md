@@ -77,7 +77,7 @@ You are on a demiplane, and Zulon is arriving on the material plane in two days.
 
 Previous Episode: [[Banish me once shame on - shame on you - banish me cant get banished again]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[she woke up like this]]
 
 *As a note of clarification, this is the description of the Deathless One*
 
