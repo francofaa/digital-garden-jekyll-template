@@ -68,7 +68,6 @@ Malory says no and asks for help deciphering [[Malorys spellbook]]. Zulon tells 
 
 "How can I escape the curse? The multiple lives, the madness, the inevitability of the Unspeakable One's arrival onto the material plane?"
 
-
 "Well, you might think to destroy the book. But look," and Zulon turns the book in his hand and it vanishes  and when he turns his hands again it appears again, as though it were just an optical illusion, "it's not even really a book. If you destroyed the pages and binding and cover, it would still exist.
 
 "What would you do if you were me?"
@@ -77,6 +76,6 @@ Malory says no and asks for help deciphering [[Malorys spellbook]]. Zulon tells 
 
 Malory thanks Zulon and politely turns down his offer to hang out with him for six days before Zulon's invasion of the material plane. Instead he decides to chill with the ferryman to await his friends' return on the material plane, after promising him the first orange of the harvest. 
 
-
 Previous Episode: [[Sad Slaad the Salad Lad]]
+
 Next Episode: [[snu snu in the snow snow]]
