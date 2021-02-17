@@ -1,7 +1,7 @@
 ---
 title: Sad Slaad the Salad Lad
 ---
-## Big Gator Country
+# Big Gator Country
 
 Before the heroes begin their adventure through the swamps, led by their two guides, Nahk drops out of the fairy realm and gets caught up on everything. 
 
@@ -9,17 +9,17 @@ The heroes go through the swamp. Mallory, Hobbes, and Nahk are infected by sight
 
 The giant constrictor is killed before it eats one of your guides, so that was nice of you. The other guide seems to be coming down with something (it's the chaos phage), so Rho does her thang and cures him. The gators also try to fuck right off, but you manage to get one of them, so nice work. 
 
-## Final Fantasy Anti-Vactics (what?)
+# Final Fantasy Anti-Vactics (what?)
 
 With a lot of maneuvering and control spells and AOEs and chokepoints and all that good stuff, the heroes have a hard time breaking through the Slaad defenses--to the point where Livius just gives up and offs seven bystanders, assuming they're beyond saving (they weren't). 
 
 Some of the slaads were newborns, but the green, gray, and death slaads were all shapeshifters. So you were almost right. 
 
-## Hell of a Time
+# Hell of a Time
 
 Mallory gets wrecked by the death slaad, and Rho picks him back up, only to be plane shifted to hell. Mallory summons his demon friend, Dem, who is weirdly knowledgeable about everything (and is a big Cas stan). He suggests they go see Zulon to see if they can't get back to the Haunted Seas. We'll see I guess!
 
-## I'm blue a slaad a dee a salad
+# I'm blue a slaad a dee a salad
 
 The cloudkills and fireballs and diseasing slashes come at the heroes but they handle it well enough. Rho very graciously saves the day several times because of the whole diseasing stuff. She's good at diagnosis since she is immune, so that's nice. Nahk, Hobbes, and Casimir wreck shop. Livius and Rho lay down big control spells. Mallory holds down the monsters. Sora provides some air cover. All-in-all a pretty interesting fight.
 
@@ -29,7 +29,7 @@ Also Livius just raises all of those dead people as zombies. Uh OK. Ulterior mot
 
 Also the Alchemist pops out of a portal! You see her in her original form before she passes through the portal.
 
-## Treasure!
+# Treasure!
 
 [Heartseeker Bow](https://www.dndbeyond.com/magic-items/1329692-heartseeker-bow)
 

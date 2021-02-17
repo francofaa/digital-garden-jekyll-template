@@ -28,9 +28,9 @@ title: The 13 Islands of the Haunted Sea
 * [[unaccredited exposure therapy]]
 * [[the seer could swap itself with a hulk as a reaction so thanks a lot]]
 * [[mast cure wounds]]
-* [[The Damage Sluts Adventures in Wonderland]]
 
-# Jolos
+# Jolos (and side episodes)
+* [[The Damage Sluts Adventures in Wonderland]]
 * [[pod squad]]
 * [[Sad Slaad the Salad Lad]]
 * [[It is Dark and Hell is Hot]]
