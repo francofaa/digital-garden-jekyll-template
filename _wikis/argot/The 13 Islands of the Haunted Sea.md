@@ -4,6 +4,9 @@ title: The 13 Islands of the Haunted Sea
 # Aurochs 
 - [[Prelude to a Disappearance]]
 - [[A Medusa an Alchemist and a 10-bodied Eldritch Horror walk into a bar]]
+
+
+
 # Kinista
 - [[Grin and Bear It]]
 - [[Bless the Child]]
