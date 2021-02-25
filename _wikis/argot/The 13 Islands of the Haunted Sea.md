@@ -5,8 +5,6 @@ title: The 13 Islands of the Haunted Sea
 - [[Prelude to a Disappearance]]
 - [[A Medusa an Alchemist and a 10-bodied Eldritch Horror walk into a bar]]
 
-
-
 # Kinista
 - [[Grin and Bear It]]
 - [[Bless the Child]]
@@ -32,7 +30,7 @@ title: The 13 Islands of the Haunted Sea
 * [[the seer could swap itself with a hulk as a reaction so thanks a lot]]
 * [[mast cure wounds]]
 
-# Jolos (and side episodes)
+# Jolos 
 * [[The Damage Sluts Adventures in Wonderland]]
 * [[pod squad]]
 * [[Sad Slaad the Salad Lad]]
@@ -46,3 +44,6 @@ title: The 13 Islands of the Haunted Sea
 * [[bah gawd]]
 * [[she woke up like this]]
 * [[ok lets help them kill our sacred animal]]
+
+# Nistora
+- [[id like to eat something that tried to eat me]]
