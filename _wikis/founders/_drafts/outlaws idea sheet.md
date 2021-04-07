@@ -1,3 +1,45 @@
+# magic, items
+
+items as a card: random card is drawn , has inventory value, where it goes in your hand as well 
+
+arcane ward values
+
+miscasting: roll on a table, tells you each spell's unique miscasting situation
+
+magic (lore)
+
+cast bonus: lore + strength or lore + dex, etc 
+
+warnings should be obvious for different locations; lets look at it and i can tell what the difficulty will be and what it can do 
+
+bigger is stronger 
+
+objects for 
+
+wand / focus is a thing to protect you from magic 
+
+you find spell casting focuses , they all look weird : a focus with fire property adds fire to everything 
+
+sentience
+
+modify the spell with a word from the wand
+
+ancient tree people that were hunted for their wand stuff 
+
+wands are for young people, staffs are for old people and offer more safety and control, orbs are used for delicate magic casting  
+
+tattoos as magic modifiers to the heroes 
+
+the heroes level up by getting new tattoos or objects to make them starter 
+
+tattoo mutations 
+
+familiars: must be caught, must strike a bargain with, look like animals , come from another plane of existence , look like animals with deformities ; helps you with casting magic 
+
+upgrading weapon: unique weird weapons can be updated, add charms to the end or runes (like in the witcher)
+
+collaborative world building 
+
 # study mechanic 
 create a magical discipline; make a test to gain those spells; study every day ; checks increase in difficulty ; should take a year of in game time ; fibonacci scale of difficulty for 
 

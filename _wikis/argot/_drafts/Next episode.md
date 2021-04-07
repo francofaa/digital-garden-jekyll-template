@@ -1,21 +1,103 @@
+---
+title: 
+---
 
 
 
 
+
+Previous Episode: [[sirablood induced fantasy rabies]]
+Next Episode: [Next Episode]
+
+
+
+
+
+Shore --> waterfall --> bug bear cave
+Shore --> mines entrance --> mines
+Shore --> castle --> prison
+
+Rakshasa mining operation has leaked sirablood into the drinking water. Other civilizations have suffered the same on this island. 
+
+---
+
+Circled star : Bugbear mark 
+
+sea shell fascinator 
+
+Nahk and Sora have a heart to heart, cut ties when you have to survive; Sora gave diamond, bond over their bad mothers
+
+hobbes confers with alchemist 
+
+paloma and rho ride away on the skyswimmer
+
+arrival of abe and baltsaros
+
+alchemist starts two fires that abe has to put out 
+
+gets a water breathing cap 
+
+casimir makes a ring game for the others
+
+exploration of the ship yields not much 
+
+baltsaros hangs out with the alchemist 
+
+chased out by ships 
+
+spotted by rakshasa sailors with hespero's mark 
+
+covers up the well
+
+fights bugbears, disease seems fatal 
+
+you know thats how to get to hell (following a vein of devils ore), 
+
+
+
+---
+
+
+
+BAKASURA ENCOUNTER: 
+- mass suggestion: take everything off, gives them rusty swords 
+- begin combat: destructive wave, chromatic orb may replace one weapon attack 
+- zakya rakshasas will use superiority die every turn 
+
+Gerrik, leader of the bugbears, infected with rage virus
+
+Krump, (great dancer! sounds like snagglepuss) a lowly bugbear who is unaffected by the rage virus, says that there must be some cure but that they have not found it, that it has appeared very recently
+
+
+turns out it has started because the bugbears began drinking a sirablood contaminated water source
+
+The rakshasas had started mining and the sirablood leaked in there
+
+give them all what's happening on each of the islands in the next session:
+
+There is a monstrous creature on Dorost that has awakened and it is fiendish
+
+There is a fiendish creature in Nistora
+
+There are fiends and undead on Charatos. There is a disease run rampant on Charatos
+
+Move them along from the arguments, don't let them rehash it 
+
+If Rho decides to leave, have Nausicaa spot Abe and Baltsaros flying toward them, Baltsaros says "You guys kept flying back and forth, we kept losing you, is everything OK?"
+
+drop of pitch containing a devil that is keeping nistora afloat, set there by hespero, slaves also live on the island; devil inside that hates hespero and offers to help
+
+bugbears are infected with a rage virus, can be cured, turns them into undead but they can be brought back and healed
 
 the giants will be in a state of civil war until one side wins (until the heroes choose a side) 
 
-
 Charatos has a band of bugbears living on it! they are friendly and fun? or maybe they are monstrous; yeah fuck it they're all bad guys
 
+Malory becomes a boss monster, defeats the unspeakable one, not a great way unless he becomes sane 
 
+before giving charon a peach, he would have spent a long time tripping balls in his past lives, absorbing them all 
 
-
-victim of another injustice, paloma opens her eyes to the cruelties of her liege lord. 
-
-
-
-
+---
 
 The code is in all her letters (to open her soul box) 
 

@@ -45,6 +45,7 @@ title: The 13 Islands of the Haunted Sea
 * [[she woke up like this]]
 * [[ok lets help them kill our sacred animal]]
 
-# Nistora
+# Charatos
 - [[id like to eat something that tried to eat me]]
 - [[when party members become a pain we kill them and name a dog after them]]
+- [[sirablood]]

@@ -130,7 +130,7 @@ You have four solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for one full day.
 
 Previous Episode: [[id like to eat something that tried to eat me]]
-Next Episode: [Next Episode]
+Next Episode: [[sirablood induced fantasy rabies]]
 
 [^1]: From *Mother Night* by Kurt Vonnegut, Jr., which is about a spy!
 

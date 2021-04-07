@@ -37,3 +37,5 @@ Things that could be mentioned:
 - Hippodrome (theatre)
 - Cafes, bistros
 - Persian rug shop 
+- Wych elm (trapping a witch in a tree to keep her spirit from coming out, severing the left hand for other purposes)
+- gods being owed promises and stuff 
