@@ -48,4 +48,4 @@ title: The 13 Islands of the Haunted Sea
 # Charatos
 - [[id like to eat something that tried to eat me]]
 - [[when party members become a pain we kill them and name a dog after them]]
-- [[sirablood]]
+- [[sirablood induced fantasy rabies]]
