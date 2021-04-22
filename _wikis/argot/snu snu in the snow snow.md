@@ -76,6 +76,9 @@ One beast left: The Skyswimmer.
 
 You are on a demiplane, and Zulon is arriving on the material plane in four days. Malory is in hell.
 
-- Previous Episode [[Sad Slaad the Salad Lad]]
-- Solo Episode: [[It is Dark and Hell is Hot]]
-- Next Episode: [[those girls were actually digidestined to cure cancer so]]
+
+Previous Episode [[Sad Slaad the Salad Lad]]
+
+Solo Episode: [[It is Dark and Hell is Hot]]
+
+Next Episode: [[those girls were actually digidestined to cure cancer so]]

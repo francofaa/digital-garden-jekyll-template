@@ -1,62 +1,3 @@
----
-title: 
----
-
-
-
-
-
-Previous Episode: [[sirablood induced fantasy rabies]]
-Next Episode: [Next Episode]
-
-
-
-
-
-Shore --> waterfall --> bug bear cave
-Shore --> mines entrance --> mines
-Shore --> castle --> prison
-
-Rakshasa mining operation has leaked sirablood into the drinking water. Other civilizations have suffered the same on this island. 
-
----
-
-Circled star : Bugbear mark 
-
-sea shell fascinator 
-
-Nahk and Sora have a heart to heart, cut ties when you have to survive; Sora gave diamond, bond over their bad mothers
-
-hobbes confers with alchemist 
-
-paloma and rho ride away on the skyswimmer
-
-arrival of abe and baltsaros
-
-alchemist starts two fires that abe has to put out 
-
-gets a water breathing cap 
-
-casimir makes a ring game for the others
-
-exploration of the ship yields not much 
-
-baltsaros hangs out with the alchemist 
-
-chased out by ships 
-
-spotted by rakshasa sailors with hespero's mark 
-
-covers up the well
-
-fights bugbears, disease seems fatal 
-
-you know thats how to get to hell (following a vein of devils ore), 
-
-
-
----
-
 
 
 BAKASURA ENCOUNTER: 
@@ -66,7 +7,6 @@ BAKASURA ENCOUNTER:
 
 Gerrik, leader of the bugbears, infected with rage virus
 
-Krump, (great dancer! sounds like snagglepuss) a lowly bugbear who is unaffected by the rage virus, says that there must be some cure but that they have not found it, that it has appeared very recently
 
 
 turns out it has started because the bugbears began drinking a sirablood contaminated water source

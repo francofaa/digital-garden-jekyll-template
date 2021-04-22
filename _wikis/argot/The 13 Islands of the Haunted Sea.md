@@ -49,3 +49,4 @@ title: The 13 Islands of the Haunted Sea
 - [[id like to eat something that tried to eat me]]
 - [[when party members become a pain we kill them and name a dog after them]]
 - [[sirablood induced fantasy rabies]]
+- [[The Ballad of Stank Rankins and Tremors Bacon]]

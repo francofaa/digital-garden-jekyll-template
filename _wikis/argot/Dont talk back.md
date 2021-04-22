@@ -73,4 +73,5 @@ One beast left: The Skyswimmer.
 You are on a demiplane, and Zulon is arriving on the material plane in three days.
 
 Previous Episode: [[those girls were actually digidestined to cure cancer so]]
+
 Next Episode: [[Banish me once shame on - shame on you - banish me cant get banished again]]

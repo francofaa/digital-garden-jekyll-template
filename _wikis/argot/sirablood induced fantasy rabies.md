@@ -80,4 +80,5 @@ You have four solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for two full days.
 
 Previous Episode: [[when party members become a pain we kill them and name a dog after them]]
-Next Episode: [Next Episode]
+
+Next Episode: [[The Ballad of Stank Rankins and Tremors Bacon]]
