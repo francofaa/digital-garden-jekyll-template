@@ -1,3 +1,63 @@
+The heroes perp walk the rakshasa down into the mine to throw him in the pit 
+
+Joe Exotic I AM NEVER GOING TO FINANCIALLY RECOVER FROM THIS 
+
+he came back out easily through the portal 
+
+livius used his crown of stars to be able to see t hrough the darkness
+
+slaughtered two of the rakshasas
+
+bulotros is ok with you again and kind of has no choice in the matter 
+
+he got a dagger from sora 
+
+he's got skull dick 
+
+it's the last guy he skull fucked 
+
+i hope this doesnt awaken anything in me 
+
+livius is head in ass out , thats the way i like to meowth
+
+cas is a snack but not like that (whole damn meal)
+
+sora sets the table 
+
+temporary anime rules and hobbes turns into a maitre d 
+
+peoples elbow 
+
+why are you doing this to us i thought we had a deal 
+
+what is the key to a good meal : the thing is still alive 
+
+if they die in hell they die in real life 
+
+whales of the damned 
+
+8:30pm
+
+22 Cas
+19 Abe
+18 Rak 1 8hp
+15 Rak 2  16hp
+15 Rak 3 16hp HIS TURN
+14 Sora
+13 Hobbes
+12 KB
+10 Bakasura
+10 Rak 4 51hp
+10 Rak 5 16hp
+9 Nahk
+5 Livius
+5 Rak 6
+5 Rak 7
+
+
+
+
+
 
 
 BAKASURA ENCOUNTER: 

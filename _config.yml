@@ -1,8 +1,8 @@
 title:               Franco’s Wikis
 exclude:
-  - '/_wikis/**/_drafts/*'
+  - '/3_wikis/**/_drafts/*'
   - '*/obsidian.css'
-  - '_wikis/templates/'
+  - '3_wikis/templates/'
 
 permalink:           pretty
 relative_permalinks: false
@@ -25,6 +25,6 @@ defaults:
     values:
       layout: "default"
   - scope:
-      path: "_wikis/**/*.md"
+      path: "3_wikis/**/*.md"
     values:
       layout: "note"
