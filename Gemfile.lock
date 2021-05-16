@@ -68,8 +68,5 @@ DEPENDENCIES
   jekyll (~> 4.0)
   jekyll-last-modified-at
 
-RUBY VERSION
-   ruby 2.7.0p0
-
 BUNDLED WITH
    2.1.4
