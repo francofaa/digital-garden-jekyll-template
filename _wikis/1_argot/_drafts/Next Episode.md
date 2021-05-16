@@ -1,4 +1,3 @@
-<<<<<<< HEAD:3_wikis/1_argot/_drafts/Next Episode.md
 
 8:30pm
 
@@ -22,8 +21,6 @@
 
 
 
-=======
->>>>>>> parent of d14071d (folder rename):_wikis/argot/_drafts/Next episode.md
 
 
 BAKASURA ENCOUNTER: 
