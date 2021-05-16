@@ -107,4 +107,4 @@ You are on a demiplane, and Zulon has been on the material plane for three full 
 
 Previous Episode: [[sirablood induced fantasy rabies]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[My own little slice of hell]]
