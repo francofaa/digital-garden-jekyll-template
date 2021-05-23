@@ -59,4 +59,4 @@ You are on a demiplane, and Zulon has been on the material plane for three full 
 
 Previous Episode: [[The Ballad of Stank Rankins and Tremors Bacon]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[remind me never to make a handshake agreement with you guys]]

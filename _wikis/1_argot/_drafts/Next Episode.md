@@ -1,3 +1,47 @@
+My alchemical Necromance
+
+
+The sword Sora found on the dead paladin under Aurochs Island, which found its way into Nahk's paws, now is handed off to Livius. 
+
+Goremand
+
+
+
+Heroes are headed to Dorost 
+
+The bugbears under Krump (even!) form a warband and take out the rest of the Rakshasas. 
+
+ 
+ 
+ 
+ 
+rune of life stealing
+rune of 
+
+
+
+
+The heroes fight the rakshasa warriors until bakasura 
+
+suggestion 
+
+frieza v goku 
+
+kill them all and let god sora them out 
+
+livius forgot that he could cast fly 
+
+kb thought about throwing his sword 
+
+y ou didnt wait for me to drop my weapon 
+
+
+owie-licious
+
+the bug burier 
+
+
+
 
 8:30pm
 
@@ -271,4 +315,4 @@ https://www.dndbeyond.com/monsters/gold-forged-sentinel: Hespero's guardian beas
 
 
 
-https://www.dndbeyond.com/monsters/doomwake-giant: This giant maybe appears and fights alongside the invading Mineosi representing the fears of the people 
+https://www.dndbeyond.com/monsters/doomwake-giant: This giant maybe appears and fights alongside the invading Mineosi representing the fears of the people

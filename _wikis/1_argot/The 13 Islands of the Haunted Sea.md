@@ -51,3 +51,4 @@ title: The 13 Islands of the Haunted Sea
 - [[sirablood induced fantasy rabies]]
 - [[The Ballad of Stank Rankins and Tremors Bacon]]
 - [[My own little slice of hell]]
+- [[remind me never to make a handshake agreement with you guys]]
