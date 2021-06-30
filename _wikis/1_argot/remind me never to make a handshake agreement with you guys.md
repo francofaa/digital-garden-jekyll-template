@@ -65,4 +65,4 @@ You are on a demiplane, and Zulon has been on the material plane for four full d
 
 Previous Episode: [[My own little slice of hell]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[It is Hot and Not So Dark]]

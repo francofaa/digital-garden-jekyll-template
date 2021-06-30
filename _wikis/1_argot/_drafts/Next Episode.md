@@ -1,3 +1,45 @@
+
+
+there is a troop of giants on Osteros
+
+
+Rho and Paloma have successfully convinced the tibbits to join with them against the Duchess. 
+
+Natalya fell in love with Luigius 
+
+
+
+carrying the charm, 30 feet of movement 
+
+Abe best wizard, Luigius is the second best wizard
+
+Abe is holding the charm 
+
+enhance ability 
+
+Abe made it across 
+
+nahk cooking idea 
+
+forever 21, complimenting each other 
+
+abe and nahk are feeling themselves 
+
+abe immediately solves the puzzle as kb grabs the orb 
+
+
+
+crossbow attracts the alchemist to hobbes 
+
+what do we do with a headless giant ? 
+
+stay out of giant politics 
+
+thats very big of you 
+
+
+if i marry a bunch of giants its big of me 
+
 My alchemical Necromance
 
 
@@ -39,28 +81,6 @@ y ou didnt wait for me to drop my weapon
 owie-licious
 
 the bug burier 
-
-
-
-
-8:30pm
-
-22 Cas
-19 Abe
-18 Rak 1 8hp
-15 Rak 2  16hp
-15 Rak 3 16hp HIS TURN
-14 Sora
-13 Hobbes
-12 KB
-10 Bakasura
-10 Rak 4 51hp
-10 Rak 5 16hp
-9 Nahk
-5 Livius
-5 Rak 6
-5 Rak 7
-
 
 
 

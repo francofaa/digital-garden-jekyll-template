@@ -26,7 +26,7 @@ In life order, not in vision order:
 
 Whisperbottom 1
 
-> Natalya and Whisperbottom infiltrate the Hidimba's alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book and tells them to decipher it. 
+> Natalya and Whisperbottom infiltrate the Hidimba's alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make Aramestes into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book and tells them to decipher it. 
 > 
 > With their focus being finding the correct formula, Natalya and Whisperbottom are able to cobble together the [[Interpretations of the Many-Bodied]], but not without madness  slowly overtaking them. The two alchemists make an undeath pact, but even as they do Whisperbottom continues reading the book, obsessing more and more, until he makes a mistake, and the undeath formula on Natalya starts slowly sapping away her memory. She writes her final letters to her brother, and without her memory and with Whisperbottom's sanity slipping, Whisperbottom never escapes the Unspeakable One's grasp in undeath like Natalya does. He dies, gibbering and catatonic as Natalya as the skeletal alchemist takes up shop underneath Aurochs Island, just as the Hidimba starts up the Demiplane Engine. 
 

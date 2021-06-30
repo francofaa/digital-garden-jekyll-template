@@ -52,3 +52,6 @@ title: The 13 Islands of the Haunted Sea
 - [[The Ballad of Stank Rankins and Tremors Bacon]]
 - [[My own little slice of hell]]
 - [[remind me never to make a handshake agreement with you guys]]
+
+# Dorost
+- [[It is Hot and Not So Dark]]
