@@ -41,7 +41,7 @@ Following a trail of gold coins worth 25 gp into the caverns, the heroes run acr
 > Choose the lightest of the six
 > But beware and leave all affixed
 
-KB, while not paying attention to Nahk reading the riddle out loud, climbs one of the statues and swipes an orb, which promptly turns to dust along with the other orbs. The statue awakens and clobbers KB, knocking him off the statue. Abraham then says, "Oh yeah that's the seesaw riddle, I know how to solve that," as the room comes alive with rattling and shaking. 
+KB, while not paying attention to Nahk reading the riddle out loud, climbs one of the statues and swipes an orb, which promptly turns to dust along with the other orbs. The statue awakens and clobbers KB, knocking him to the ground. Abraham then says, "Oh yeah that's the seesaw riddle, I know how to solve that," as the room comes alive with rattling and shaking. 
 
 Meanwhile, Sora sails to the Nemmonis Clan on Osteros with newly minted Captain Winona Pona, and a small crew of Argotian sailors and Charatosi bugbears. She aims to recruit them into their new navy, hoping to fend off enemies foreign (Mineos) and domestic (the two giant factions).
 
@@ -61,7 +61,7 @@ The dogs are on the flagship.
 
 [[Rho]] is with Paloma and the Skyswimmer.
 
-[[Sora]] is on the PS Seaward heading to Osteros.
+[[Sora Nemmonis]] is on the PS Seaward heading to Osteros.
 
 You have four solid cubes with keyholes and a ring of seven keys:
 
