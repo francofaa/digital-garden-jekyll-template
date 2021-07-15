@@ -10,7 +10,6 @@ This is home to my wikis for role-playing campaigns and other realms of interest
 - [[index argot]]
 - [[index pbta outlaws]]
 - [[index cardamom town]]
-- [[Heretics]]
 
 # Ideas for other campaigns
 - **Coven**: A coven of witches attending university in North Central Florida in the early 2000's
