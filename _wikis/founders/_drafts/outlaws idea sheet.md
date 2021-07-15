@@ -171,17 +171,3 @@ strange
 
 
 renown
-
-
-
-
-
-Wilderness
-
-Underworld
-
-Common
-
-Professional
-
-Wealth-holder

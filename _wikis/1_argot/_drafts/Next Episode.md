@@ -1,56 +1,9 @@
----
-title: 
----
-
-Sora and the crew of the Seaward arrive in Osteros. Sora disembarks alone, seeking to add the dragonborn to the heroes' fleet. 
-
-The heroes keep trying to solve the puzzle that they already failed to solve and refuse to kill the triggered trap that would have let them enter the next room quietly. So they enter the next room loudly!
-
-The gang finds themselves in a big ole lava-filled room with a few priests trying to awaken
 
 
-
-
-
-[]()
-Montero 
-
-Nahk 
-
-rho and paloma arrive on a ship 
-
-call me by your name and ill call you by mine 
-
-Demeter 
-
-i'm a big cat now []()
-
-binders full of dead 
-
-Montero enters Livius's soul cage willingly, restoring 70hp for Livius. 
-
-
-
-salamander: 35hp
-casimir
-hobbes 
-priest
-kb
-nahk
-livius
-neothelid 97hp
-abe
-myrmidion
-
-
-
-there is a troop of giants on Osteros (embassy)
-https://www.dndbeyond.com/encounters/a1eae2a7-a59d-479f-9817-8c2aba964adf
+there is a troop of giants on Osteros
 
 
 Rho and Paloma have successfully convinced the tibbits to join with them against the Duchess. 
-
-
 
 Natalya fell in love with Luigius 
 
