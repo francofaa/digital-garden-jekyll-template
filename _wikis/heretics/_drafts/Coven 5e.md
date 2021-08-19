@@ -1,3 +1,10 @@
+- [ ] ![[Knave 1.0.pdf]]
+- [ ] ![[Maze Rats V4.3.pdf]]
+- [ ] ![[Alas GM Sheet.pdf]]
+- [ ] https://drive.google.com/file/d/1a2XfBGm9LHW9fgXV_riEg3wHW03bWkse/view
+- [ ] ![[mausritter-rules-2.1.pdf]]
+- [ ] ![[Ironsworn-Moves-Reference.pdf]] (hard moves in the oracles section)
+
 You must come up with a way that you all know each other: 
 - strings
 - debts
@@ -25,6 +32,7 @@ faceless god
 IDEAS
 https://www.youtube.com/watch?v=ltF0KuotA30&t=190s
 
+
 Making classes
 
 play style: things the character knows that they are good at; they are good at some things, worse at other things; some things are only available to certain classes
@@ -40,6 +48,7 @@ play style
 mechanics 
 niche protection 
 weaknesses
+
 
 
 City of Heroes
@@ -66,9 +75,13 @@ self <> ally <> enemy
 
 each class should have a way to interact in these different manners: 
 
-- self > ally
-- ally > enemy
-- self > enemy
+- self > ally (healer)
+- ally > enemy (tank)
+- self > enemy ()
+- self > friendly (face)
+- friendly > enemy ()
+- 
+
 
 ! crowd control ! (aspect of tanking)
 
@@ -95,6 +108,8 @@ economic elements
 - enemy
 - environment
 - economy
+- (friendlies?)
+
 
 planning ambushes
 
@@ -161,3 +176,24 @@ Read http://kotohi.com/ryuutama/ RYUUTAMA
 dungeon crawler https://mausritter.com/adventure-site/
 
 item card renderer : https://mausritter.com/item-card-studio/
+
+
+https://i.imgur.com/SYkvf63.jpeg Witch is dead 
+
+https://imgur.com/gallery/JvSKC Golden Sea 
+
+https://duckduckgo.com/?t=ffab&q=hitobashira+&atb=v115-1&ia=web 
+^ we got people buried alive inside of support pillars 
+
+https://digitalambler.com/rituals/writing-a-defixio/
+defixio (Curse tablets)
+
+contain / trick / starve 
+
+coven rpg: https://bethanyharvey.itch.io/wool-of-bat/download/eyJleHBpcmVzIjoxNjI1NTQ1MDEzLCJpZCI6Nzc4MjMyfQ%3d%3d%2eEgLmZJ%2fG3hASWGG2G%2bAplizojoQ%3d (no dice no masters game about witches)
+
+https://peachgardengames.itch.io/carta-srd/download/eyJleHBpcmVzIjoxNjI1NTQ1MTU2LCJpZCI6OTExNzI4fQ%3d%3d%2eFobx%2bCWU3bvn2LCNTLqukyooLh4%3d
+CARTA SRD 
+
+https://monster.makedatanotlore.dev/
+

@@ -20,3 +20,6 @@ title: 4100 Magic Items
 - red blindfold: lets you see heartbeats in splashes of red but otherwise your vision becomes black and white lines 
 - hex doll: stores a spell inside of it that you have cast. you need hair or blood from a living person. tear  off a limb  to cast the spell instantly. the spell always works but roll 2d6 + magic stat (?), fail: the hex doll's link is maimed in the same way as the doll. 
 - oubliette key: opening any door with this key leads you into a 10 x 10 stone room, which can only be opened from the outside. only has 24 hours of air 
+- rope that becomes rigid as steel on command 
+- a bell that makes a 10 foot bubble of silence 
+- 

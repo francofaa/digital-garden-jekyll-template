@@ -1,9 +1,43 @@
 
+[]()
+Montero 
 
-there is a troop of giants on Osteros
+Nahk 
+
+rho and paloma arrive on a ship 
+
+call me by your name and ill call you by mine 
+
+Demeter 
+
+i'm a big cat now []()
+
+binders full of dead 
+
+Montero enters Livius's soul cage willingly, restoring 70hp for Livius. 
+
+
+
+salamander: 35hp
+casimir
+hobbes 
+priest
+kb
+nahk
+livius
+neothelid 97hp
+abe
+myrmidion
+
+
+
+there is a troop of giants on Osteros (embassy)
+https://www.dndbeyond.com/encounters/a1eae2a7-a59d-479f-9817-8c2aba964adf
 
 
 Rho and Paloma have successfully convinced the tibbits to join with them against the Duchess. 
+
+
 
 Natalya fell in love with Luigius 
 

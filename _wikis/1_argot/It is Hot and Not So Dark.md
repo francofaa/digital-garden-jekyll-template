@@ -73,5 +73,5 @@ You are on a demiplane, and Zulon has been on the material plane for four full d
 
 Previous Episode: [[remind me never to make a handshake agreement with you guys]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[summon me by your name and ill haunt you by mine]]
 
