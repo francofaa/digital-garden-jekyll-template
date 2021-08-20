@@ -5,7 +5,7 @@ title: your worm has cats
 # Critical butt damage
 
 > I feel no compassion for the dead. They're the lucky ones.
->  - Casimir Flüf
+>  -- Casimir Flüf
 
 Casimir valiantly fights his way out of the neothelid, causing the beast to regurgitate it, only to walk away a little too far and get eaten once more. [First time as a tragedy, second time as a farce](https://youtu.be/ZQ7oqmikZDQ?t=46). Dressed in his finest, Cas is ready to die. 
 
