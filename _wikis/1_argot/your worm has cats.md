@@ -24,14 +24,23 @@ Hobbes decapitates the myrmidion, and Montero congratulates the gang on a job we
 Nahk tracks the fleeing fire priest to a lava tube. There in the darkness, just barely by a dim white light, he sees the priest lying prone, with strange white-flesh creatures, fangs covered in blood, devouring him. The priest does not scream. A second passes in total darkness and when the white glow returns, the kodama are there, as usual, offering their charm (which Nahk takes upon his polearm), and all that is left of the fire priest is a pile of robes. They chant once more, but this time the voices are strange and guttural:       
 
 > A world you must mend, one left to stitch
+> 
 > To keep us as friends, you scratch our itch:
+> 
 > Blood of the fiend, blood of the witch,
+> 
 > Blood of the beast, blood of the lich,
+> 
 > Blood of the sorrows, blood of the joys, 
+> 
 > Till the end of tomorrows, till the end of all noise,
+> 
 > Make this land pure, and hallow the ground,
+> 
 > Return this world to where it was found,
+> 
 > We gift you this charm, to keep you from harm
+> 
 > Now turn back the clock to where next you dock
 
 "What the fuck was that?" Nahk says.
