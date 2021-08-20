@@ -1,33 +1,33 @@
 
-[]()
-Montero 
+---
 
-Nahk 
+drop of pitch containing a devil that is keeping nistora afloat, set there by hespero, slaves also live on the island; devil inside that hates hespero and offers to help
 
-rho and paloma arrive on a ship 
+the heroes will have to witness the enslaved of other islands doing stuff (great works and the like)
 
-call me by your name and ill call you by mine 
+Almsbrood will tell them that long ago they captured a great fiend and placed him under the island to let it float. 
 
-Demeter 
+But note that the island is floating and the castle is floating on its own because it is made of magical clouds. They brought the island up in order to have some extra living space 
 
-i'm a big cat now []()
+Show that the castle is made out of clouds and that the island is just kind of underneath it
 
-binders full of dead 
+Rho and the talkers will go to announce their presence at the city 
 
-Montero enters Livius's soul cage willingly, restoring 70hp for Livius. 
-
+and the others will wait to see what happens before 
 
 
-salamander: 35hp
-casimir
-hobbes 
-priest
-kb
-nahk
-livius
-neothelid 97hp
-abe
-myrmidion
+
+
+1. salamander: 35hp
+1. casimir
+1. hobbes 
+1. priest
+1. kb
+1. nahk
+1. livius
+1. neothelid 97hp
+1. abe
+1. myrmidion
 
 
 
@@ -146,7 +146,6 @@ Move them along from the arguments, don't let them rehash it
 
 If Rho decides to leave, have Nausicaa spot Abe and Baltsaros flying toward them, Baltsaros says "You guys kept flying back and forth, we kept losing you, is everything OK?"
 
-drop of pitch containing a devil that is keeping nistora afloat, set there by hespero, slaves also live on the island; devil inside that hates hespero and offers to help
 
 bugbears are infected with a rage virus, can be cured, turns them into undead but they can be brought back and healed
 
