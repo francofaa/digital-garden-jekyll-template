@@ -56,4 +56,7 @@ title: The 13 Islands of the Haunted Sea
 # Dorost
 - [[It is Hot and Not So Dark]]
 - [[summon me by your name and ill haunt you by mine]]
+
+# Nistora
 - [[your worm has cats]]
+- [[one barrel extra wet]]

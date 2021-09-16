@@ -1,5 +1,22 @@
 
----
+
+
+
+
+the heroes must decide between killing the demonic presence who will be pathetic "please just free me, i will leave the demiplane, if you free me from these bonds i can regenerate my power in an instant and planeshift away forever, i swear it; they are just sapping my power; (if you kill me in this weakened state, i will not be able to survive--but he wouldnt tell them this necessarily) "
+
+
+
+
+- Livius's runestone for Goremond
+- The fiend in the black sphere: release me (does go away, Nistora still falls, kodama unhappy); kill me (is dead, kodama are happy, Nistora falls);
+- There have to be SOME underground monsters; otherwise it's no fun! But not too crazy, enough so that they could conceivably think that they would need to reserve resources for a final boss fight which never has to come
+- Come up with a fun rhyme for the spell that binds the fiend to Nistora that hints at the power the fiend puts into it (Stones and dirt do float as clouds); The names of giant heroes past that adventured to seal the demon away are written here (In great battle did fall such and such hero, other heroes survived, etc)
+
+
+
+
+
 
 drop of pitch containing a devil that is keeping nistora afloat, set there by hespero, slaves also live on the island; devil inside that hates hespero and offers to help
 
@@ -369,3 +386,16 @@ https://www.dndbeyond.com/monsters/gold-forged-sentinel: Hespero's guardian beas
 
 
 https://www.dndbeyond.com/monsters/doomwake-giant: This giant maybe appears and fights alongside the invading Mineosi representing the fears of the people
+
+# Planning for the last arc of Argot
+
+- Update the Deathless One. Make them uniquely capable of thwarting the heroes but them fight the deathless one first 
+- Plan what Hespero is going to do 
+- Plan what Natalya will do, see if you can wait until Nick is able to play as her because that will make it easier for me to not have to plan what she does depending on the heroes' actions 
+- Plan for what Zulon does
+- Have the heroes do a fate roll for their epilogue (Name a fear, name a desire; roll 2d6). Ask them their fear and desire before the final battle starts. They all start talking about it around the campfire maybe before they go into battle
+- There should be an ending thing where there is someone from the East who talks about how there are great monsters to be destroyed out there, they traverse the wastes but at times will come down on the towns and villages there
+
+
+
+- For when the kodama put an air bubble around the ship: Everyone just stares as the great shark flops helplessly on the deck
