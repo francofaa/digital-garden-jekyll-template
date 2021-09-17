@@ -59,5 +59,5 @@ You have four solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for six full days.
 
 - Previous episode: [[your worm has cats]]
-- Next episode: [[Next Episode]]
+- Next episode: [[tastes like clues]]
 

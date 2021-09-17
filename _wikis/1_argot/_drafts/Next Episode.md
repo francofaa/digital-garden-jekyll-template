@@ -3,6 +3,26 @@
 
 
 
+
+
+
+
+
+How long as it been? You cannot say. Centuries, they tell you, but you never tire, your mind sharp as always with knowledge and cleverness but empty of memories. You have been at this puzzle for days, or weeks, or maybe it's also been centuries. This puzzle is much like the others: a black box, unknown, but it has a simple solution. It must.
+
+But over the past few weeks, a different puzzle has tugged at you, one without a simple solution. And your heart, a pile of blackened ash, you feel it forming anew: not literally or materially but maybe somehow in the ether. Maybe. You were never much for metaphysics. You really only trusted the things you could touch and see. But you can touch and see them. Their furry and scaly and fleshy faces smiling at you, laughing with you. It seems to do something. 
+
+Even though you can't feel the box or the key in your skinless hands, your mind sharpens and you understand. You follow the pattern from the diagram: the seven keys with different numbered teeth, turning in the lock one after the other, until at last the box comes apart, the puzzle reveals itself in a blinding white light. 
+
+The box falls to the floor. Natalya, you awaken on a ship that is familiar to you, yet strange. You look at your hands and they are skin once more, and you touch your face and you are back. 
+
+The memories all rush back and you feel a pain in your head, a stabbing headache, as you think about the puzzle, the one without the simple solution: What to do about Aramestes?
+
+Roll a wisdom save. 
+
+
+
+
 the heroes must decide between killing the demonic presence who will be pathetic "please just free me, i will leave the demiplane, if you free me from these bonds i can regenerate my power in an instant and planeshift away forever, i swear it; they are just sapping my power; (if you kill me in this weakened state, i will not be able to survive--but he wouldnt tell them this necessarily) "
 
 
