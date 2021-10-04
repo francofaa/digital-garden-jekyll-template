@@ -18,18 +18,109 @@ The box falls to the floor. Natalya, you awaken on a ship that is familiar to yo
 
 The memories all rush back and you feel a pain in your head, a stabbing headache, as you think about the puzzle, the one without the simple solution: What to do about Aramestes?
 
+next time you eat a book i'm gonna eat your fingers off
+KB incinerates the book shreds 
+knowledge is power, power is money, money is pizza
+
+"All the answers are right on this" A floppy drive is ejected out of KB's mouth and smashes on the ground
+
+![](https://app.roll20.net/users/avatar/3635393/30)
+
+Nahk:hahaha
+
+I also blow into KB's mouth?
+
+KB-180:"Am I into this"
+
+?
+
+![](https://app.roll20.net/users/avatar/2275999/30)
+
+Casimir Flüf:roll for arousal
+
+KB-180:
+
+rolling d20
+
+(
+
+20
+
+)
+
+**=**
+
+20
+
+oh shit
+
+Livius, what are you up to later?
+
+![](https://app.roll20.net/users/avatar/5365066/30)
+
+Livius:No good, most likely
+
+mosht likley*
+
+
+
+
+
+nahk and cas: this time it's fursonal 
+
+i miss this time but it knows im gunning for it! 
+
+livius contemplates hitting sora to get some hp and knock her out of the stun 
+
 Roll a wisdom save. 
 
+dont wake daddy (hobbes / says casimir)
 
+livius knocks sora out to heal / leeches health : nature doc voice"crikey, here we see Livius is an opportunistic predator" > "Nature is amazing"
 
+rho explodes the steel predator 
+
+casimir cuts one into ribbons
+
+nahk sucks the souls of the wraiths into his glaive
+
+im not a necro boy , im a necro man, sir
 
 the heroes must decide between killing the demonic presence who will be pathetic "please just free me, i will leave the demiplane, if you free me from these bonds i can regenerate my power in an instant and planeshift away forever, i swear it; they are just sapping my power; (if you kill me in this weakened state, i will not be able to survive--but he wouldnt tell them this necessarily) "
+
+At the entrance to the space, the heroes see this: 
+
+In great battle did Ulstred, first-king, destroy the legions dreadful and demonic, with his companions who were so named: Almsbrood his son and Phia who was made Duchess over the Yagra Plain, and those who perished, Froeder, Istel, Taram, Yzek, Frem, and their small folk who are buried with them. Bound by his own name was the demon Charagat and the smallfolk necromancer did bind him in spells and the Master Mason Fulston bound him in stone. Here the demon is sealed eternally and none may pass.
+
+---
+
+Curse cut in blood and stone
+Demon by true name is bound
+Curse cut in flesh and bone
+Lifted skyward is the ground
+
+You delve into the pitch blackness of the sphere under Nistora. It is not magical darkness, but the walls of this sphere are completely black, and as you enter, you feel yourself begin to float. Nahk and anyone else with a light source, you are able to see your friends walk away from you, walking on the walls of the sphere without a sense of which way is up and which way is down. 
+
+A voice begins growling and a red glow emerges and by this you can all see. A creature in the center of the sphere begins moving against the walls. 
+
+On the floor / walls are written the words of the curse
+
+The demon Charagat is covered in the words of the curse. He is compressed into a tiny sphere, his limbs and wings and face contorted and pressed against the film of his sphere. It is translucent and appears to be 
+
+
+
+
+
+
+Clouds as 
+Earth as clouds
+
 
 
 
 
 - Livius's runestone for Goremond
-- The fiend in the black sphere: release me (does go away, Nistora still falls, kodama unhappy); kill me (is dead, kodama are happy, Nistora falls);
+- The fiend in the black sphere: release me (does go away, Nistora still falls, kodama unhappy); kill me (is dead, kodama are happy, Nistora falls); leave alone (kodama unhappy, Nistora does not fall, status quo)
 - There have to be SOME underground monsters; otherwise it's no fun! But not too crazy, enough so that they could conceivably think that they would need to reserve resources for a final boss fight which never has to come
 - Come up with a fun rhyme for the spell that binds the fiend to Nistora that hints at the power the fiend puts into it (Stones and dirt do float as clouds); The names of giant heroes past that adventured to seal the demon away are written here (In great battle did fall such and such hero, other heroes survived, etc)
 
