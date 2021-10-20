@@ -80,12 +80,32 @@ Based on your research and KB's physics modules,
    - You estimate the chance of surviving this catastrophe, supposing Nistora is at freefall, to be around 1% for any non-magic users--basically anyone that is lucky. 
    
 ## Table of Consequences
-| Action                | Potential Consequence                                                                                                                    | Benefit                                                             |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| Kill demon            | Island may fall, killing thousands.                                                                                                      | The Kodama are appeased. The deal with Duchess Serena is fulfilled. |
-| Let demon free        | Island may fall, killing thousands. Demon may betray the heroes. The deal with the Duchess is not fulfilled. The Kodama are angry        | Potential ally in the demon.                                        |
-| Return to the surface | The Kodama are angry. The deal with the Duchess is not fulfilled. Sunk cost ("Why the hell did we come here if not to kill this demon?") | No potential for a cataclysmic event.                               |
-
+<table>
+<thead>
+<tr>
+<th>Action</th>
+<th>Potential Consequence</th>
+<th>Benefit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kill demon</td>
+<td>Island may fall, killing thousands.</td>
+<td>The Kodama are appeased. The deal with Duchess Serena is fulfilled.</td>
+</tr>
+<tr>
+<td>Let demon free</td>
+<td>Island may fall, killing thousands. Demon may betray the heroes. The deal with the Duchess is not fulfilled. The Kodama are angry</td>
+<td>Potential ally in the demon.</td>
+</tr>
+<tr>
+<td>Return to the surface</td>
+<td>The Kodama are angry. The deal with the Duchess is not fulfilled. Sunk cost (&quot;Why the hell did we come here if not to kill this demon?&quot;)</td>
+<td>No potential for a cataclysmic event.</td>
+</tr>
+</tbody>
+</table>
 
 ## Known unknowns
 You still don't know 
