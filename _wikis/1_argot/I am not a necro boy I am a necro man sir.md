@@ -50,8 +50,11 @@ Elsewhere, Sora and KB find evidence to suggest that Hespero, in one of his guis
 Rho speaks to the demon under the island, suspended in a black sphere and trapped. Sora peeks in and, by the red light of the demon, reads the following etched on the walls of the sphere: 
 
 > Curse cut in blood and stone
+> 
 > Demon by true name is bound
+> 
 > Curse cut in flesh and bone
+> 
 > Lifted skyward is the ground
 
 Basically, you discover various things and come to various conclusions and have various open questions. You also decide to sleep on it while I summarize for you everything you discussed and may have reasonably discussed during an eight hour rest and we will resume at whatever point in that long rest you so desire: 
