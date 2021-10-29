@@ -1,101 +1,12 @@
 
-How long as it been? You cannot say. Centuries, they tell you, but you never tire, your mind sharp as always with knowledge and cleverness but empty of memories. You have been at this puzzle for days, or weeks, or maybe it's also been centuries. This puzzle is much like the others: a black box, unknown, but it has a simple solution. It must.
 
-But over the past few weeks, a different puzzle has tugged at you, one without a simple solution. And your heart, a pile of blackened ash, you feel it forming anew: not literally or materially but maybe somehow in the ether. Maybe. You were never much for metaphysics. You really only trusted the things you could touch and see. But you can touch and see them. Their furry and scaly and fleshy faces smiling at you, laughing with you. It seems to do something. 
+Almsbrood and his wife are still alive but are on the run; the Duchess starts gathering all the giants who survived to her. Only 20% of the giants died and all but 25 of the smallfolk survived. 
 
-Even though you can't feel the box or the key in your skinless hands, your mind sharpens and you understand. You follow the pattern from the diagram: the seven keys with different numbered teeth, turning in the lock one after the other, until at last the box comes apart, the puzzle reveals itself in a blinding white light. 
-
-The box falls to the floor. Natalya, you awaken on a ship that is familiar to you, yet strange. You look at your hands and they are skin once more, and you touch your face and you are back. 
-
-The memories all rush back and you feel a pain in your head, a stabbing headache, as you think about the puzzle, the one without the simple solution: What to do about Aramestes?
-
-
-
-I am not a necro boy I am a necro man sir
-
-
-
-the heroes must decide between killing the demonic presence who will be pathetic "please just free me, i will leave the demiplane, if you free me from these bonds i can regenerate my power in an instant and planeshift away forever, i swear it; they are just sapping my power; (if you kill me in this weakened state, i will not be able to survive--but he wouldnt tell them this necessarily) "
-
-
----
-
-
-
-You delve into the pitch blackness of the sphere under Nistora. It is not magical darkness, but the walls of this sphere are completely black, and as you enter, you feel yourself begin to float. Nahk and anyone else with a light source, you are able to see your friends walk away from you, walking on the walls of the sphere without a sense of which way is up and which way is down. 
-
-
-On the floor / walls are written the words of the curse
-
-The demon Charagat is covered in the words of the curse. He is compressed into a tiny sphere, his limbs and wings and face contorted and pressed against the film of his sphere. It is translucent and appears to be 
-
-
-
-
-
-
-Clouds as 
-Earth as clouds
-
-
-
-
-
-- Livius's runestone for Goremond
-- The fiend in the black sphere: release me (does go away, Nistora still falls, kodama unhappy); kill me (is dead, kodama are happy, Nistora falls); leave alone (kodama unhappy, Nistora does not fall, status quo)
-- There have to be SOME underground monsters; otherwise it's no fun! But not too crazy, enough so that they could conceivably think that they would need to reserve resources for a final boss fight which never has to come
-- Come up with a fun rhyme for the spell that binds the fiend to Nistora that hints at the power the fiend puts into it (Stones and dirt do float as clouds); The names of giant heroes past that adventured to seal the demon away are written here (In great battle did fall such and such hero, other heroes survived, etc)
-
-
-
-
-
-
-drop of pitch containing a devil that is keeping nistora afloat, set there by hespero, slaves also live on the island; devil inside that hates hespero and offers to help
-
-the heroes will have to witness the enslaved of other islands doing stuff (great works and the like)
-
-Almsbrood will tell them that long ago they captured a great fiend and placed him under the island to let it float. 
-
-But note that the island is floating and the castle is floating on its own because it is made of magical clouds. They brought the island up in order to have some extra living space 
-
-Show that the castle is made out of clouds and that the island is just kind of underneath it
-
-Rho and the talkers will go to announce their presence at the city 
-
-and the others will wait to see what happens before 
-
-
-
-
-1. salamander: 35hp
-1. casimir
-1. hobbes 
-1. priest
-1. kb
-1. nahk
-1. livius
-1. neothelid 97hp
-1. abe
-1. myrmidion
-
-
-
-there is a troop of giants on Osteros (embassy)
-https://www.dndbeyond.com/encounters/a1eae2a7-a59d-479f-9817-8c2aba964adf
-
-
-Rho and Paloma have successfully convinced the tibbits to join with them against the Duchess. 
 
 
 
 Natalya fell in love with Luigius 
 
-
-
-carrying the charm, 30 feet of movement 
-
-Abe best wizard, Luigius is the second best wizard
 
 Abe is holding the charm 
 
@@ -110,8 +21,6 @@ forever 21, complimenting each other
 abe and nahk are feeling themselves 
 
 abe immediately solves the puzzle as kb grabs the orb 
-
-
 
 crossbow attracts the alchemist to hobbes 
 

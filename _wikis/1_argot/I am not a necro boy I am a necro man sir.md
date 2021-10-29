@@ -25,6 +25,8 @@ At the entrance to the space, the heroes see this:
 
 > In great battle did Ulstred, first-king, destroy the legions dreadful and demonic, with his companions who were so named: Almsbrood his son and Phia who was made Duchess over the Yagra Plain, and those who perished, Froeder, Istel, Taram, Yzek, Frem, and their small folk who are buried with them. Bound by his own name was the demon Charagat and the smallfolk necromancer did bind him in spells and the Master Mason Fulston bound him in stone. Here the demon is sealed eternally and none may pass.
 
+^b1692f
+
 A glowing purple film covers the hole to what the heroes assume is the demon they must destroy. Steel guardians appear, alongside the ghosts of the enslaved humans who helped construct this hellish cage that holds the demon.
 
 # Don't wake Daddy
@@ -143,4 +145,4 @@ You have four solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for six full days.
 
 - Previous episode: [[tastes like clues]]
-- Next episode: [[Next Episode]]
+- Next episode: [[the real jet fuel was the friends we betrayed along the way]]

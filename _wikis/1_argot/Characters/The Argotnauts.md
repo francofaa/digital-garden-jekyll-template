@@ -7,19 +7,20 @@ title: The Argotnauts
 * [[Sora Nemmonis]]
 * [[Casimir Flüf]]
 
-# The Traitor
-* [[Malbec Riesling]]
-
-# The Ancient
-* [[Theo]]
-
-# The Banished
-* [[Malory Whisperbottom]]
-
 # The Wildboyz
 * [[Nahkulgart]]
 * [[Hobbes]]
 
+# The Ancients
+* [[Theo]]
+* [[Natalya]]
+
+# The Banished
+* [[Malory Whisperbottom]]
+
 # The Spirits of the Islands
 * [[Rho]]
 * [[KB-180]]
+
+# The Traitor
+* [[Malbec Riesling]]

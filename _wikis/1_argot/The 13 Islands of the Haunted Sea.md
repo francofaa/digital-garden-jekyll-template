@@ -56,9 +56,13 @@ title: The 13 Islands of the Haunted Sea
 # Dorost
 - [[It is Hot and Not So Dark]]
 - [[summon me by your name and ill haunt you by mine]]
+- [[your worm has cats]]
 
 # Nistora
-- [[your worm has cats]]
 - [[one barrel extra wet]]
 - [[tastes like clues]]
 - [[I am not a necro boy I am a necro man sir]]
+- [[the real jet fuel was the friends we betrayed along the way]]
+
+# Aurochs
+- [[Next Episode]]
