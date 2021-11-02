@@ -1,20 +1,48 @@
+Make sure that the stuff for the final battle is colorblind friendly
+
+the mindflayer lawyer
+
+Maybe just make different Deathless Ones?
+
+Deathless One can consume an enemy, engulfing it in a grapple, to teleport it elsewhere (like a meazel); maybe that is a lair action?
+
+https://www.dndbeyond.com/monsters/acererak
+https://www.dndbeyond.com/monsters/iggwilv-the-witch-queen
+https://www.dndbeyond.com/monsters/jarad-vod-savo
+https://www.dndbeyond.com/monsters/lich
+https://www.dndbeyond.com/monsters/oracs-the-enduring
+https://www.dndbeyond.com/monsters/lichen-lich
+https://www.dndbeyond.com/monsters/boneclaw
+https://www.dndbeyond.com/monsters/the-lonely
+https://www.dndbeyond.com/monsters/skull-lord
+https://www.dndbeyond.com/monsters/stone-golem
+https://www.dndbeyond.com/monsters/star-spawn-larva-mage
+https://www.dndbeyond.com/monsters/star-spawn-mangler
+
+
+
+
+
+payoff: the binder of the dead keeps absorbing undead creatures and stuff 
+
+
+KODAMA monsters
+
+Give them XP based levels
+
+
+From SORA:
+```ad-note
+Sora is still technically employed buy the Republic, which is looking to conquer. As soon as she's back in the MP, she'd like to immediately message her handler to give an update and set the Republic up to be the victors over the ashes of this little war.
+
+She will use everyone and everything to her advantage. In an ideal world, she'd dream of convincing the Republic that she be installed as vassal queen over Argot, after the dust settles. In a realistic world, she expects that she's going to work to set the dragonborn up as the power behind some other chosen leader, possibly the Giants, Hespero, or the humans.
+
+I'm torn between her outright sticking to the Republic and turning her back on the Republic for her friends. I'm goign to try to angle for a way that the friends "win," but Sora and the Republic win the most
 
 
 Almsbrood and his wife are still alive but are on the run; the Duchess starts gathering all the giants who survived to her. Only 20% of the giants died and all but 25 of the smallfolk survived. 
+```
 
-
-
-
-Natalya fell in love with Luigius 
-
-
-Abe is holding the charm 
-
-enhance ability 
-
-Abe made it across 
-
-nahk cooking idea 
 
 forever 21, complimenting each other 
 

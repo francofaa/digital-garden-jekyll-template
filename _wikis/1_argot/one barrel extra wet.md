@@ -12,7 +12,7 @@ Taking the perilous stairs down to the surface, Sora, Livius, and Rho are escort
 
 # Rug Stuffin'
 
-When the heroes arrive at the Duchess's estate for their audience, they find a small estate, constructed entirely of cloudstuff, with the surrounding land being vineyards and farmland. Once in the presence of Duchess Serena, Livius surreptitiously casts true sight, allowing him to see Serena in her true form as she disguises herself as Sora for a joke. Livius discovers that the duchess is just a giant who can shapeshift rather than something different. 
+When the heroes arrive at the Duchess's estate for their audience, they find a small manor, constructed entirely of cloudstuff, with the surrounding land being vineyards and farmland. Once in the presence of Duchess Serena, Livius surreptitiously casts true sight, allowing him to see Serena in her true form as she disguises herself as Sora for a joke. Livius discovers that the duchess is just a giant who can shapeshift rather than something different. 
 
 The Duchess returns the broom to Sora as a show of good faith. Sora negotiates better terms for the islanders on Osteros. The Duchess offers one even better: She would relieve the Osterosi of tribute entirely if the heroes were to assassinate King Almsbrood. Sora says she'll think about it. The heroes try to figure out what the fiendish presence on the island must be and the Duchess alludes to a creature living in the center of the island that is potentially what the kodama were referring to. 
 

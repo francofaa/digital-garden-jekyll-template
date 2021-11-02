@@ -18,11 +18,13 @@ Sora goes back down as the sun rises on Nistora one last time. In the streets sh
 
 # Eating small
 
-Sora reaches the Duchess's estate, a wide farmland with a long road leading to the estate, built completely of cloudstuff. Sora confronts the Duchess about the island's potential doom, surreptitiously activating the kenku-chatterbox. The Duchess tells Sora that the demon must be lying, and Sora, exhausted from sneaking and flying around and chatting people up, sees the incredulity plain on her face. "Do you really think we used a demon to prop up our entire island? That is Almsbrood's creature. He is deceitful and has told that creature to lie. He is using that demon's power for his own."
+Sora reaches the Duchess's estate, a wide farmland with a long road leading to the manor, built completely of cloudstuff. Sora confronts the Duchess about the island's potential doom, surreptitiously activating the kenku-chatterbox. The Duchess tells Sora that the demon must be lying, and Sora, exhausted from sneaking and flying around and chatting people up, sees the incredulity plain on her face. "Do you really think we used a demon to prop up our entire island? That is Almsbrood's creature. He is deceitful and has told that creature to lie. He is using that demon's power for his own."
 
 "How does the island stay up?"
 
 "We giants have our own magic." She taps the side of a column as dust and mist comes off it. "Cloudstuff. We build so much from it."
+
+Sora asks the Duchess how she became the duchess. 
 
 "Duchess Phia was my mother," Serena says, a name that sounds vaguely familiar to Sora. (Refer to [[I am not a necro boy I am a necro man sir]]).
 
@@ -50,9 +52,9 @@ The once rolling hills and valleys are crumpled, jagged. The proud stone buildin
 
 The Duchess wipes her mouth and invites Sora to the stoop. Sora sees before her nothing but sky. Below, the same scene, a broken island with waves rolling out like a massive impact crater. 
 
-"See? I told you. Giant magic." She taps the cloudstuff column of her estate. "Can't be beat. Almsbrood relied on his ancestral pact, but my mother knew better. It was more costly, but she knew cloud giant engineering was worth the price."
+"See? I told you. Giant magic." She taps the cloudstuff column of her manor. "Can't be beat. Almsbrood relied on his ancestral pact, but my mother knew better. It was more costly, but she knew cloud giant engineering was worth the price."
 
-Sora begins and the Duchess says, "I'll hold up my end of the bargain. The Osterosi will have full autonomy under my regime. Now, my dear friend, go get us out of this demiplane!"
+Sora begins to leave and the Duchess says, "I'll hold up my end of the bargain. The Osterosi will have full autonomy under my regime. Now, my dear friend, go get us out of this demiplane!"
 
 Sora heads back, feeling betrayed, duped. Though she knew this was a possibility, the fact that the Duchess knew exactly what would happen and used the heroes commitment to the kodama to her own ends, made it sting all the more.
 
@@ -108,7 +110,7 @@ As the fog parts, Abraham emerges, seeing KB-180 attacking his friends, hunting 
 
 KB-180 picks up his head and says, "Friends, we can work this out--DESTROY!"
 
-Hobbes stabs KB-180 in the stomach, a massive gash cutting straight through, and KB-180 says, "Tis but a scratch!" and clobbers Sora. Sora ducks, remembers she has a sword, and non-lethally decapitates KB-180 (with a rapier? whatever) and guts him once more. KB-180's head goes flying to the window, his eyes turning back to blue as he contemplates the beauty of the clear blue sky. The eyes turn dark. 
+Hobbes stabs KB-180 in the stomach, a massive gash cutting straight through, and KB-180 says, "Tis but a scratch!" and clobbers Sora. Sora ducks, remembers she has a sword, and non-lethally kicks KB-180's head off and guts him once (the key was you had to decapitate him *and* stab him at the same time). KB-180's head goes flying to the window, his eyes turning back to blue as he contemplates the beauty of the clear blue sky. The eyes turn dark. 
 
 Meanwhile, as Nahk and Casimir (oh Casimir ran back upstairs to help Nahk) battle valiantly against the Kodama Battalion units remaining, Livius lets out a sigh as Rho continues to lash out at him. Livius points a finger at Rho and mutters, "Disintegrate." As Rho's body starts turning to ashes, she says, "Y'all kept siding with the bad guys." Livius nods and realizes that nobody on the ship saw him defeat Rho with a really well-placed spell by the fourth-best wizard around (after Abraham, Mallory, and Luigius, RIP).
 
