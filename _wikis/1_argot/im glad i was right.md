@@ -65,7 +65,7 @@ It is day 40 (!) since the Battle of Aurochs Island, the first engagement in the
 
 [[The Argotnauts]] are underwater in the Demiplane Engine Room under what used to be Aurochs Island.
 
-[[Hobbes]] is on the ship, paralyzed.
+[[Hobbes]] is on the ship, unable to move.
 
 All islands completed.
 
@@ -73,15 +73,13 @@ All three keys have been retrieved and have been slotted into the Demiplane Engi
 
 [[Malory Whisperbottom]] is on the material plane with [[Hespero]].
 
-[[Rho]] and [[KB-180]] are dead.
-
 You have three solid cubes with keyholes and a ring of seven keys:
 
 -   One of the pine wood cubes is on the floor of the ship
 -   Livius has the cube made of bone found in Iskos Valley Village’s elders’ hut
 -   The Alchemist has one of the pine wood cubes and the ring of seven keys; she dropped the obsidian cube containing her heart into the ocean
 
-You are on a demiplane, and Zulon has been on the material plane for seven full days.
+You are on a demiplane, and Zulon has been on the material plane for ten full days.
 
 - Previous episode: [[the real jet fuel was the friends we betrayed along the way]]
 - Next episode: [[Next Episode]]
