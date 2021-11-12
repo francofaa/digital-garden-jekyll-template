@@ -1,3 +1,26 @@
+
+
+
+
+
+---
+
+
+modular dungeon 
+
+
+
+
+
+Deathless One 
+
+
+
+
+Hespero's casino, Oret's aid -- who is he betting on ? 
+
+
+
 Make sure that the stuff for the final battle is colorblind friendly
 
 the mindflayer lawyer
@@ -18,6 +41,7 @@ https://www.dndbeyond.com/monsters/skull-lord
 https://www.dndbeyond.com/monsters/stone-golem
 https://www.dndbeyond.com/monsters/star-spawn-larva-mage
 https://www.dndbeyond.com/monsters/star-spawn-mangler
+maybe try the elder oblex as a model as well>?
 
 
 

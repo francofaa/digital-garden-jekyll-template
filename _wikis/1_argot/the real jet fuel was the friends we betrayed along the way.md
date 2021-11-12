@@ -186,4 +186,4 @@ You have three solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for seven full days.
 
 - Previous episode: [[I am not a necro boy I am a necro man sir]]
-- Next episode: [[Next Episode]]
+- Next episode: [[im glad i was right]]

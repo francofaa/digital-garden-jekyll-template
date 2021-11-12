@@ -65,4 +65,5 @@ title: The 13 Islands of the Haunted Sea
 - [[the real jet fuel was the friends we betrayed along the way]]
 
 # Aurochs
+- [[im glad i was right]]
 - [[Next Episode]]
