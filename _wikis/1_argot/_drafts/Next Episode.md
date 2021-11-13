@@ -1,3 +1,6 @@
+The duchess would come to the heroes' aid and tell the people that they liberated the demiplane (as a way to convince them to join them against the Mineosi)
+
+
 
 
 

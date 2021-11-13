@@ -38,7 +38,7 @@ Hamiltonos tells Abraham as he dies: “A darkness follows you, son.”
 
 The labyrinth does a lot of strange things, moving corridors and making you lost. Eventually,
 
->     You enter a rough-hewn chamber, seemingly more crudely excavated than the rest of the labyrinth. An altar sits in the center of the room. On the platform, you recognize a figure with the face of an orc. A bull-headed statuette rises above the orc emitting a golden glow. As your eyes adjust to the dim light, you see a pair of horns coming out of the orc’s head. It writhes in agony as it gets to its feet, clutching at its head in pain. It collapses to its knees, huffing and groaning until it collapses onto its stomach. You realize it has a tail and hooves instead of feet.
+> You enter a rough-hewn chamber, seemingly more crudely excavated than the rest of the labyrinth. An altar sits in the center of the room. On the platform, you recognize a figure with the face of an orc. A bull-headed statuette rises above the orc emitting a golden glow. As your eyes adjust to the dim light, you see a pair of horns coming out of the orc’s head. It writhes in agony as it gets to its feet, clutching at its head in pain. It collapses to its knees, huffing and groaning until it collapses onto its stomach. You realize it has a tail and hooves instead of feet.
 
 Fighting off some quaggoths and minotaurs, the gang eventually makes it into the ruins below the labyrinth. 
 
