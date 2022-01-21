@@ -1,4 +1,11 @@
 The Siege of Argot
+
+https://www.gmbinder.com/share/-L39lqRMbP5f_V_74SG2
+
+https://slyflourish.com/running_wars.html
+
+https://www.gmbinder.com/share/-L39lqRMbP5f_V_74SG2
+
 - [[Narrative and Fog of War]]
 - [[Resource Points]]
 - [[Game Mechanics]]

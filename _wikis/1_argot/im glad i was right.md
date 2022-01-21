@@ -83,4 +83,4 @@ You are on a demiplane, and Zulon has been on the material plane for ten full da
 
 - Previous episode: [[the real jet fuel was the friends we betrayed along the way]]
 - Next episode: [[Next Episode]]
-- Mini Game: [[The 40 Days Campaign]]
+- Mini Game: [[The 40 Days Campaign Minigame Ruleset]]
