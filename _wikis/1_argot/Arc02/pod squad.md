@@ -48,6 +48,8 @@ The pod squad debuts! Sora, Hobbes, Casimir, our whalerogues singing all the son
 * Octopus's Garden
 
 
+<img src="/assets/podsquad.png"/>
+
 ![[podsquad.png]]
 
 Unchanged from last time, except you got one of the discs! Good job! No milestone, sorry! If it's not a disc, then what could it be? Maybe you just don't get one and life is meaningless!
