@@ -1,6 +1,14 @@
 ---
-title: a lively curbstomping
+title: 
 ---
+
+
+
+
+
+RULES: what is it? morale checks, resource checks artillery cant hit when it's too close
+
+
 
 Ask Shade more about Gary the star spawn, make him necessary for Mallory to fight 
 
@@ -12,40 +20,12 @@ If Nahk binds one of the Deathless Ones, the Deathless One will hear and see wha
 ---
 
 
-Nahk is twice engulfed by the Deathless One's engulfing void. When the second creature engulfs him, he sees all what the Deathless Ones see: The white void of the banished demiplane Livius sent one to; a Deathless One commanding a fleet; another commanding an army. As the darkness enters his nostrils and mouth and eyes and ears, he is unable to scream, or if he does, he cannot hear it.
-
-As the creature is busy consuming Nahk, Sora sees an opening and sinks an arrow into the Deathless One's body, breaking its concentration, allowing Livius to return to the material plane again. Boy, I get out but they pull me back in, amirite? Livius sinks a lightning bolt into the Deathless One and as its smoke starts trailing away into the air, it is suddenly sucked back into the Binder of the Dead.
-
-Much like Gaunter O'Dimm stepping down from the air
-
-
-
-Hespero tries to get a shot in there but is just slightly too late.
-
-"Yeah Sora seemed not too pleased with me last time I saw her."
-
-
-"I don't know you, bugbear."
-
-"Actually I've never heard of you."
-
-Hespero seems genuinely offended.
-
-
-
-
-
-
-
-
-
-
 
 
 
 Write copy for each of the different tags, interactions, etc
 
-
+Hespero has Oret automaton bodyguards
 
 ```ad-note
 I figured this would be a collaborative thing; i.e. if there's something you'd like, but wouldn't make sense for Hespero to have, maybe Oret provides it. However, I can say that Oret will only aid in exchange for the creation (or start of construction) of a temple/casino dedicated to his worship in Argot. As time was pretty crunched, and shit was soon to hit the fan, I think he'd also accept a contractual agreement, drafted by Oret, of course. He'd provide the workers to build the casino temple, and these workers would act as soliders. I'm at work, and I don't have the details handy, but they are constructs that are hearty and have some chance based things and a recharge move called "The House Always Wins" which turns a roll into a 20. You could determine how many you want. I also have a theory crafted champion who I was going to introduce this year during Icosahedrodome, similar to Terokles, but devoted to Oret. She's a level 20 character who will bail if she is overwhelmed (so that I may potentially use her sometime as a PC). But she would be on the table

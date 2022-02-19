@@ -66,4 +66,4 @@ title: The 13 Islands of the Haunted Sea
 
 # Aurochs
 - [[im glad i was right]]
-- [[Next Episode]]
+- [[a lively curbstomping]]

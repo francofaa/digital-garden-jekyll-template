@@ -82,5 +82,5 @@ You have three solid cubes with keyholes and a ring of seven keys:
 You are on a demiplane, and Zulon has been on the material plane for ten full days.
 
 - Previous episode: [[the real jet fuel was the friends we betrayed along the way]]
-- Next episode: [[Next Episode]]
+- Next episode: [[a lively curbstomping]]
 - Mini Game: [[The 40 Days Campaign Minigame Ruleset]]

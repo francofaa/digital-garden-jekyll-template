@@ -21,3 +21,7 @@ More drawing, add to the big book
 - the eyes of a child drowned by their parent
 - the tail of a snake for the tongue
 
+
+----
+
+Stickers for modular level advancement, spell cards to represent real objects (and object cards / weapon cards)

@@ -23,6 +23,29 @@ https://docs.google.com/spreadsheets/d/1Hh8Us46WqpM2xxWWbg6kr5Nfc6xIvOT_TgWQrAWx
    1. Treasurer Calantha Aran declares that the war has become too costly and distributes pamphlets to that effect. Meanwhile Odoacer, Leandro's rival general, privately confides with city councilors that he could be running the war better. Nestor Domorosi, city attorney who sympathized with the Mineosi, begins griping to anyone who will listen that the Mineosi invasion is the result of a personal squabble.
    2. Hespero's partisans underground start getting attacked by the Bargainer's partisans. The Bargainer, a vampire lord who lives in the Undercity, has seen this opportunity to take over the Undercity from the rakshasa. Meanwhile aboveground, Calantha's gang has begun clashing with Armand's partisans as well, looting shops owned by friends of Armand and Hespero, and starting a protection racket.
    3. Covered wagons start springing up at the edge of town as people begin to leave en masse. Fights start in the street, with deserters being called cowards.
+21. Needless raids into the hinterlands, causes massive unrest
+22. demobilizing the armies to cut costs. The army has resorted to eating their shoes, Kalens countryside has been pillaged 
+23. Great Sickle has been overrun by the Mineosi, Kalens is taken over, Sidicea countryside is pillaged by the Argoti
+24. Podana battles , Kalens battle , Battle of podana pass going into its third day 
+25. Kalens battles, Podana battles, ships got destroyed 
+26. Kalens battle starts looking bad, more ships , podana pass falls, the army at Kalens starts raiding the city stores as the siege becomes dire, telens falls
+27. siege at kalens holds, more local troops are raised in Grypsera and Sidicea 
+28. the people at sidicea are once more impressed , kalens is able to hold off the mineosi battles , great sickle siege continues, sidicea starts beefing up to fend off podana encroachment 
+29. amphibious landing at great sickle as the island is torn by war, sidicean and telensi people are once more pillaged , kalens's citizenry sees the army fall outside the walls and are defeated within the city 
+30. pillaging near grypsera , Kalens guard falls, strangers start drifting in and out of the city, collective health begins to collapse 
+31. the reaping of great sickle begins with a argoti victory , Kalens battle, Mineos, fleets start battling outside of Niahal
+32. argoti army outside telens is defeated, Sidicea army valiantly fighting off podana enemies, Niahal is still at a standstill as ships dart in and out among one another , the reaping battle continues 
+33. sidicea pillaged once more, telens siege fails
+34. Telens is retaken once more , great sickle stand off continues, attack on niahal fails and niahal stays on argot's side
+35. something happened? 
+36. the great reaping fails and great sickle remains in mineosi 
+37. argoti units start retreating as a sunrise sea fleet, a brave argoti army continues to fight the infernal legions invading argolos, the siege at sidicea continues 
+38. telens falls to the mineosi onslaught. Sidicea falls. The army hunting zulon falls. niahal falls
+39. 
+40. telens is abandoned as it is fully subsumed by 
+
+
+
 
 Sora's ends justify the means. Make an omelette. Hobbes is the egg that gets cracked
 
