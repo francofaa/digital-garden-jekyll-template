@@ -52,6 +52,9 @@ The Treasurer's clerk summons Hespero once more to negotiate a deal with a banke
 
 > [[Hespero]] enters carrying a bag of holding with a variety of riches, as collateral, one more extravagant than the next. He sets them each on a table. The banker nods appraisingly over the assortment of treasures and tells the clerk to shove off. "You heard him," Hespero said, "leave the adults alone to talk."
 
+![[Map.png]]
+
+
 Previous episode: [[Phase 2 - Strained Resources and Allies - Day 14-20]]
 
 Next episode: [[Phase 4 - The Fall of Kalens and the Arrival of Zulon - Day 31-36]]

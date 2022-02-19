@@ -49,6 +49,10 @@ But even as word of this victory begins making its slow way home, the home front
    
 > Covered wagons start springing up at the edge of town as people begin to leave en masse. Fights start in the street, with deserters being called cowards.
 
+![[Map.png]]
+
+
+
 Previous episode: [[Phase 1 - Emergency Powers and the Coalition - Day 1-13]]
 
 Next episode: [[Phase 3 - Desperation and Pillaging - Day 21-30]]

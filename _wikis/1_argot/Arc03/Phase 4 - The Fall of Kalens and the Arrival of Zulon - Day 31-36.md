@@ -25,6 +25,8 @@ On the same day, however, the Argoti home guard under General [[Beren]], an ally
 ## Operation Great Reaping (continued)
 Operation Great Reaping is a failure as the navies flee in a rout on day 36. General Simon escapes to return to Argot in shame, just on the heels of the news of Kalens and his failure to lift that siege as well. [[Calis]], commander of the Mineosi navy, sends word to [[The Deathless One]] to journey to Great Sickle to begin preparations for taking over the rest of the Sickle Islands.
 
+![[Map.png]]
+
 
 Previous episode [[Phase 3 - Desperation and Pillaging - Day 21-30]]
 
