@@ -4,6 +4,8 @@ title: those girls were actually digidestined to cure cancer so
 
 # I'm a dog I'm a dog I'm a dog
 
+<img src="/assets/sleddogs.png"/>
+
 ![Sled team](sleddogs.png)
 
 The good good doggos can do some pretty cool stuff. They're just like wolves but they 
@@ -32,7 +34,10 @@ Livius sets the hag on fire and she is super dead. He then drops concentration, 
 
 Also this gem happened:
 
-![Classic Sora](classicsora.png)
+<img src="/assets/classicsora.png"/>
+
+
+![Classic Sora](/assets/classicsora.png)
 
 7/7 dogs still alive, good job, but I'll get you next time, my pretty! Eh-heh!
 
