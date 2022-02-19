@@ -2,6 +2,7 @@
 title: 
 ---
 
+Sora's ends justify the means. Make an omelette. Hobbes is the egg that gets cracked
 
 
 

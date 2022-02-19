@@ -1,6 +1,8 @@
 ---
 title: The Argotnauts
 ---
+For non player characters, refer to [[NPCs]]
+
 # The Gang of Four
 * [[Abraham Washington]]
 * [[Livius Anastasius Cratius]]

@@ -18,7 +18,7 @@ In exchange for a joke, the ferryman agrees to take Malory to Zulon. Along the w
 
 These squishy fish like creatures, once dried off, are safe to touch, after a DC 10 charisma check to fend off feeblemind. The ferryman tells him that most reincarnated souls are just that: reincarnated. Very rarely are those souls duplicated and moreover, none of these souls have gone to the next life. They are trapped in the River Styx and the original Whisperbottom has been for 600 years! The ferryman suspects interference, but never has he met a living specimen so he agreed to help out of curiosity.
 
-Seeking to understand what is happening to him, what has happened to him in his past lives, what the Unspeakable One wants from him, how he became this way, whether he can escape this rebirth cycle, whether he should join the Unspeakable One or fight him, etc, Malory taps into the 12 spirits of his past self: 
+Seeking to understand what is happening to him, what has happened to him in his past lives, what [[The Unspeakable One]] wants from him, how he became this way, whether he can escape this rebirth cycle, whether he should join the Unspeakable One or fight him, etc, Malory taps into the 12 spirits of his past self: 
 
 The memories from these 12 past Whisperbottoms come to Malory and he retains a handful of them, for the Whisperbottoms' lives stretch before him like a set of  parchments and slip through his mind like a sieve, not wanting to be held for long: 
 
@@ -26,7 +26,7 @@ In life order, not in vision order:
 
 Whisperbottom 1
 
-> Natalya and Whisperbottom infiltrate the Hidimba's alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make Aramestes into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book and tells them to decipher it. 
+> Natalya and Whisperbottom infiltrate [[The Hidimba]]'s alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make Aramestes into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book and tells them to decipher it. 
 > 
 > With their focus being finding the correct formula, Natalya and Whisperbottom are able to cobble together the [[Interpretations of the Many-Bodied]], but not without madness  slowly overtaking them. The two alchemists make an undeath pact, but even as they do Whisperbottom continues reading the book, obsessing more and more, until he makes a mistake, and the undeath formula on Natalya starts slowly sapping away her memory. She writes her final letters to her brother, and without her memory and with Whisperbottom's sanity slipping, Whisperbottom never escapes the Unspeakable One's grasp in undeath like Natalya does. He dies, gibbering and catatonic as Natalya as the skeletal alchemist takes up shop underneath Aurochs Island, just as the Hidimba starts up the Demiplane Engine. 
 

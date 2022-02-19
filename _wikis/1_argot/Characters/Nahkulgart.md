@@ -14,7 +14,7 @@ Nahk, during his time in [[The 13 Islands of the Haunted Sea]], took the time to
 - The Sand Witch: The title he gives to Livius, as well as his creation.
 - Quebra Wood Smoked Fish: A recipe that really lifts the flavor out of the meat
 - Sealskin Wraps: Inspired by the Lighthouse of Quebra, this covers how to cook using coals on the beach and using soaked seafood skins as a wrap to cook meat and veggies.
-- Glub's Sharkmeat Skewers: A personal recipe from his buddy, Glub, and a recall of the Morodos adventures. 
+- [[Glub]]'s Sharkmeat Skewers: A personal recipe from his buddy, Glub, and a recall of the Morodos adventures. 
 - Bonebroth Soup: Nahk calls it "oste-nsibly the best soup you'll ever make." Inspired by Osteros. 
 - "Diet of Worms" (I loved our pun too much so I used it): A page that says "Don't go to Embara. Almost died twice. A place of dark reflection. 2 our of 5 stars."
 - "Ain't No Party Like a Fey Dancin' Party Because a Fey Dancin' Party Might Kill You." A warning not to party with the "Fair Folk." He covers the great booze, fantastic food, lively music, and the fact that they literally never end. Like you may dance until you die. Also, you'll get a killer hangover.  

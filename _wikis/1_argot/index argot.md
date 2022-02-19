@@ -5,10 +5,14 @@ title: index argot
 - [[Arcs]]
 - [[The Argotnauts]]
 - [[NPCs]]
+- [[Groups]]
+- [[Events]]
+- [[Places]]
+- [[Things]]
 
 # Setting for Arc 1: The Many-Bodied Shadow of War
 
-You live in the City State of Argot. It is a direct democracy, meaning that every citizen gets a vote in the Assembly and the legislative body is the size of everyone who can fit in the building for the vote. Officials are selected by lot (except for the generals and the city accountant who are elected).
+You live in the City State of Argot. It is a direct democracy, meaning that every citizen gets a vote in the Assembly and the legislative body is the size of everyone who can fit in the building for the vote. Officials are selected by lot (except for the [[Ten Generals]], the treasurer, and the city accountant who are elected).
 
 The city is very anti-magic and most people are superstitious of magic users. Those caught using magic are branded with symbols for the magic crime they committed. 
 
@@ -31,9 +35,9 @@ While Argot is a superstitious place, it cannot prevent the magic of the outside
 # Setting for Arc 2: The 13 Islands of the Haunted Sea
 
 
-> I thought it was a legend. In days of old, Aurochs Island was not the only island in the southern sea, south of the Sickle Islands. Have you heard of the  Wars of the Devils and the Dead? I know, it is an old story, some six hundred years past, but perhaps those stories came from somewhere. Some say the other 13 islands were destroyed, taken to the bottom of the sea. Others say that on misty days, unwary crews are sucked in through a whirlpool, taken down to the Haunted Seas, where the dead still live and devils torture them every day and night.
+> I thought it was a legend. In days of old, Aurochs Island was not the only island in the southern sea, south of the Sickle Islands. Have you heard of [[The War of the Devils and the Dead]]? I know, it is an old story, some six hundred years past, but perhaps those stories came from somewhere. Some say the other 13 islands were destroyed, taken to the bottom of the sea. Others say that on misty days, unwary crews are sucked in through a whirlpool, taken down to the Haunted Seas, where the dead still live and devils torture them every day and night.
 > 
->  -- Know-it-all Nausicaa, quartermaster of the P.S. Admirable Effort
+>  -- [[Know-it-all Nausicaa]], quartermaster of the P.S. Admirable Effort
 
  
 
