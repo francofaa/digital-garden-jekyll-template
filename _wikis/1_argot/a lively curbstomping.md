@@ -19,15 +19,17 @@ They fix their eyes on their sister Natalya, returned at last. They make a plea,
 
 - From Mallory, she learned to not obsess about knowledge and power to the detriment of others
 - From Rho, KB, and Sora, she learned about right and wrong, and that it's, uh, complicated
+- From Abe, she learned about the power of love to overcome all obstacles, even, um, torture and enslavement? Let's move on
 - From Hobbes and Nahk, she learned to stand up for others who are treated badly for their differences and that our differences make us unique 
 - From Livius, she learned that being undead is not so bad and that necromancy can be used for good, whatever that is, and also how to make a sandwich
 - From Casimir, she learned what damage alchemy can do, on a personal level, and to only use it for good, unless it means hurting people who are doing bad. It's, uh, complicated
 - From the officers and crew, she learned some great sea shanties
+- From Baltsaros, she learned how to be a good friend and support him through his cognitive dissonance and stirred tea and just said, "Oh honey" a lot, in her Spill the Tea circles with Teo Ramsen, the Argoti official and technically Livius's subordinate; Baltsaros; and the chef Hungry Hamboy Hugo 
 - From Luigius, she learned love, at least in my fanfic
 
-With the power of friendship, the heroes are able to--oh fuck, Nahk just got dragged into the ocean. It's so scary looking on the inside! Half of us are stunned! Oh fuck! Oh god, oh god, everyone relax! Calm down! I'm not screaming, you are!
+With the power of friendship, the heroes are able to--oh fuck, Nahk just got dragged into the ocean. It's so scary looking on the inside! Half of us are stunned! Oh fuck! Oh god, oh god, everyone relax! Calm down! I'm not screaming, you are! Livius in a panic banishes one of the Deathless Ones.
 
-They just banished Livius! 
+Oh shit, they just banished Livius right back! 
 
 Nahk is twice engulfed by the Deathless One's engulfing void. When the second creature engulfs him, he sees all what the Deathless Ones see: The white void of the banished demiplane Livius sent one to; a Deathless One commanding a fleet; another commanding an army. As the darkness enters his nostrils and mouth and eyes and ears, he is unable to scream, or if he does, he cannot hear it.
 
