@@ -38,7 +38,7 @@ On day 40, soldiers from the home guard unit arrive in the city, wild and crazed
 
 Hespero leaves for Aurochs Island as word reaches him that the Deathless One has returned to take over the island. As he arrives, so too do the 13 Islands and the heroes. Much like the hobbits, I mean halflings, at the end of *Lord of the Rings*, the Siege of Argot is truly like the Scouring of the Shire, for the heroes have returned wiser and more powerful than ever, but instead of Saruman it's Melkor (The Deathless One), but also Sauron (Zulon) is there too and he moved into your house instead of the Sackville-Bagginses. And I guess [[Malory Whisperbottom]] is like Gollum. 
 
-![[Map.png]]
+![Map of Argot and its Surroundings](/assets/Map.png)
 
 
 ---

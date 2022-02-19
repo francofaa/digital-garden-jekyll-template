@@ -2,7 +2,7 @@
 title: The 13 Islands of the Haunted Sea
 ---
 
-![[map.jpg]]
+![The 13 Islands of the Haunted Sea](/assets/map.jpg)
 
 Reference: [[13 Islands Lore]]
 

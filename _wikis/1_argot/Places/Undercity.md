@@ -6,4 +6,4 @@ The Argoti Undercity is a system of tunnels and burrows created during the ancie
 
 [[Hespero]] runs [[Hesperos Shop]] from here. 
 
-!![[argot_undercity.png]]
+![Argot Undercity](/assets/argot_undercity.png)

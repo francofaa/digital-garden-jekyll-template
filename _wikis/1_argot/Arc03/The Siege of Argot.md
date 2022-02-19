@@ -2,7 +2,7 @@
 title: The Siege of Argot
 ---
 
-![[Map.png]]
+![Map of Argot and its Surroundings](/assets/Map.png)
 
 
 Recounting the [[Argoti-Mineosi War]] and everything leading up to and including the inevitable Siege of Argot

@@ -49,7 +49,7 @@ But even as word of this victory begins making its slow way home, the home front
    
 > Covered wagons start springing up at the edge of town as people begin to leave en masse. Fights start in the street, with deserters being called cowards.
 
-![[Map.png]]
+![Map of Argot and its Surroundings](/assets/Map.png)
 
 
 

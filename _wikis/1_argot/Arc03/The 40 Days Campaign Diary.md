@@ -75,4 +75,4 @@ title: The 40 Days Campaign Diary
       - Mineosi capture all of the Golden League cities
 
 
-![[Map.png]]
+![Map of Argot and its Surroundings](/assets/Map.png)

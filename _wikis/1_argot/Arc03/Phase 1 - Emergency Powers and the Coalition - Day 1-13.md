@@ -44,7 +44,7 @@ Eager to enrich the war coffers and high off the early victories and alliances, 
 
 > "We are happy to come to your aid. Mineos is a bully and a threat to our way of life." The city councilors at the round table applaud as Kaolina rises and bows to leave. [[Calantha Aran]] and her cronies chatter in the corner and wonder loudly what this aid, given freely, will cost them one day. Leandro, the only office-holder of your triumvirate, stares her down and says, "We can't afford not to take this aid."
 
-![[Map.png]]
+![Map of Argot and its Surroundings](/assets/Map.png)
 
 Previous Episode: [[a lively curbstomping]]
 

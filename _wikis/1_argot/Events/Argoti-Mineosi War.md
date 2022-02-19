@@ -6,3 +6,4 @@ A proxy war between the [[Mineosi Empire]] and [[Werriadi Republic]] waged by th
 
 Refer to [[The Siege of Argot]] for more information 
 
+![Map of Argot and its Surroundings](/assets/Map.png)
