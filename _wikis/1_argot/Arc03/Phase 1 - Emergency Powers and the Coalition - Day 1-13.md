@@ -6,9 +6,9 @@ title: Phase 1 - Emergency Powers and the Coalition - Day 1-13
 
 ## The Battle of Aurochs Island
 
-*1st Summertide 1061*
+*1st Summertide 1061 FA*
 
-The first engagement **Battle of Aurochs Island** is won by the Argoti as they relieve the people of Aurochs Island from the Mineosi encroachment. [[The Deathless One]] departs after PS Admirable Effort is disappeared. [[Leandro Damaskenos]], now no longer facing the terrifying presence of the Deathless One, is able to fend off the Mineosi contingent that has arrived. He rushes back to Argot to confer with [[Hespero]] and [[Armand Colodrise]] to determine how to best wage this war. 
+The first engagement **Battle of Aurochs Island** is won by the Argoti as they relieve the people of Aurochs Island from the Mineosi encroachment. [[The Deathless One]] departs after [[PS Admirable Effort]] is disappeared. [[Leandro Damaskenos]], now no longer facing the terrifying presence of the Deathless One, is able to fend off the Mineosi contingent that has arrived. He rushes back to Argot to confer with [[Hespero]] and [[Armand Colodrise]] to determine how to best wage this war. 
 
 The three execute a soft coup, led primarily by Leandro, the only office-holder, and obtain emergency powers from the [[Citizen Assembly]] (hand-selected by Hespero) and the [[City Council]] (with favors called in by Armand). The result is 
 
@@ -44,7 +44,7 @@ Eager to enrich the war coffers and high off the early victories and alliances, 
 
 > "We are happy to come to your aid. Mineos is a bully and a threat to our way of life." The city councilors at the round table applaud as Kaolina rises and bows to leave. [[Calantha Aran]] and her cronies chatter in the corner and wonder loudly what this aid, given freely, will cost them one day. Leandro, the only office-holder of your triumvirate, stares her down and says, "We can't afford not to take this aid."
 
-![Map of Argot and its Surroundings](/assets/Map.png)
+![Phase 1 of 40 Days Campaign](/assets/phase1-13.png)
 
 Previous Episode: [[a lively curbstomping]]
 

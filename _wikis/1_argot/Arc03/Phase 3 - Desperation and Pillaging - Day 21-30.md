@@ -3,12 +3,12 @@ title: Phase 3 - Desperation and Pillaging - Day 21-30
 ---
 # Phase 3: Desperation and Pillaging (Day 21-30)
 
-*21 Summertide 1061*
+*21 Summertide 1061 FA*
 
-Needless raids into the Sidicea hinterlands cause massive unrest. The city council begins tightening the budget and demobilizing armies to cut cost. The army has resorted to eating their shoes. 
+Needless raids into the Sidicea hinterlands cause massive unrest. The [[Triumvirate]] begins tightening the budget and demobilizing armies to cut cost. The army has resorted to eating their shoes. 
 
 ## The Siege of Kalens (continued)
-The people of the Kalens countryside suffer from the army's requisitioning of resources. Commander [[Jason]], a young officer of Kalens, is the oldest officer left after disastrous sorties against the Mineosi. General [[Simon]] in the Sickle Islands continues skirmishes in the Great Sea to fend off even more trouble, but the people of Kalens are still in peril from the encroaching Mineosi infantries.
+The people of the Kalens countryside suffer from the army's requisitioning of resources. Sergeant [[Jason]], a young officer of Kalens, is the most senior officer left after disastrous sorties against the Mineosi and is promoted to Commander of the City Guard. General [[Simon]] in the Sickle Islands continues skirmishes in the Great Sea to fend off even more trouble, but the people of Kalens are still in peril from the encroaching Mineosi infantries.
 
 Great Sickle, long neglected by the coalition forces, has been infiltrated by the Mineosi under [[Calis]]'s command on day 23. They hold onto it with little resistance but General Simon begins mobilizing Sickle Island navies to liberate their ally. 
 
@@ -52,7 +52,7 @@ The Treasurer's clerk summons Hespero once more to negotiate a deal with a banke
 
 > [[Hespero]] enters carrying a bag of holding with a variety of riches, as collateral, one more extravagant than the next. He sets them each on a table. The banker nods appraisingly over the assortment of treasures and tells the clerk to shove off. "You heard him," Hespero said, "leave the adults alone to talk."
 
-![Map of Argot and its Surroundings](/assets/Map.png)
+![Phase 3 of 40 Day Campaign](/assets/phase21-30.png)
 
 
 Previous episode: [[Phase 2 - Strained Resources and Allies - Day 14-20]]
