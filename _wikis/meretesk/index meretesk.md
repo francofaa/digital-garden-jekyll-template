@@ -1,8 +1,12 @@
+---
+title: index meretesk
+---
+
 Meretesk is a small town subject to the King of Gomotesk and run by the [[Gomotesk Town Council]] and a mostly ceremonial rotating [[Mayor of Gomotesk]] chosen by lot. It spans the [[Merry River]] across a ford.
 
 The village itself is small and humble, dominated by a town square on the northern bank of the river. Market day occurs here once a week.  
   
-There is a wealthy sorcerer named [[Hespero (S)]] who lives in the nice part of town. He is known to be a collector of magical artifacts.
+There is a wealthy sorcerer named [[Hespero of Meretesk]] who lives in the nice part of town. He is known to be a collector of magical artifacts.
 
 It is a small town, population in the 5,000 to 10,000 range, no city walls to speak of, and is mostly single level homes, no apartment blocks. The tallest buildings would be religious buildings. There would be a few taverns, baths, temples, and other places of interest. Most people know each other.
 

@@ -3,6 +3,7 @@ exclude:
   - '/_wikis/**/_drafts/*'
   - '*/obsidian.css'
   - '_wikis/templates/'
+  - '/_wikis/_drafts/'
 
 permalink:           pretty
 relative_permalinks: false
