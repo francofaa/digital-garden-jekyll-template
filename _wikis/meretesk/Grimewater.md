@@ -1,0 +1,3 @@
+A slum on the southern bank of the [[Merry River]], the Grimewater is home to the seedy underbelly of [[Meretesk]], along with people trying to make an honest living from laundry, cleaning waste, and other unglamorous jobs.
+
+The location gets its name from the waste from laundries (which use urine and harsh chemicals) and waste from homes are dumped on this portion of the river. People of the Grimewater who cannot afford bathhouses also bathe themselves just upriver of where the dumping starts, but there are malicious classist rumors that the people there bathe in filth. 

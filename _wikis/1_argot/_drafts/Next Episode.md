@@ -2,6 +2,27 @@
 title: 
 ---
 
+Make maps for game - for different quadrants 
+
+Make missions in the Argot campaign: like 7 of them, each of them has worsening conditions based on if the heroes decide to act and they are all mutually exclusive outcomes
+
+Individual missions 
+
+Sora to murder Leandro 
+
+Hobbes to murder the bargainer 
+
+
+---
+
+
+
+Hespero recounts what’s been happening 
+
+---
+
+
+
 Sora's ends justify the means. Make an omelette. Hobbes is the egg that gets cracked
 
 
@@ -36,7 +57,6 @@ I figured this would be a collaborative thing; i.e. if there's something you'd l
 
 
 
-The duchess would come to the heroes' aid and tell the people that they liberated the demiplane (as a way to convince them to join them against the Mineosi)
 
 
 
