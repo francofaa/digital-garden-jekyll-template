@@ -2,6 +2,22 @@
 title: 20220412
 ---
 
+Npcs 
+
+Language teacher 
+
+Hespero takes them out to lunch to celebrate graduating from celestial school 
+
+Town guard captain kind of a jerk , takes the piss a lot but mikes char doesn’t notice 
+
+Shrine of the shadowbound
+
+Arcane guild, translators, lawyers, physicians, bounty hunters
+
+Festival of the sun, shadow bound, heroes of godbody ,
+
+
+
 session zero:
 - what do you want in a campaign
 - How are all your characters related
@@ -76,233 +92,10 @@ Here are some collaborative world-building questions:
 
 
 
-```ad-warning
-title: Secrets
-
-
-- Story takes place in ??? FA (founding of Argot). The year reckoning is GR Gomotesc Reckoning: 601 GR. But this takes place before or after the Argotnauts campaign.
-- One of Mallory Whisperbottom's past lives created this tower
-- Hespero is the same Hespero, either before or after the Argotnauts campaign (if Hespero survives Siege of Argot, he moves to Meretesk; otherwise, he is **more likely** just living in Meretesk ahead of time)
-- The Burr was based in Meretesk
-
-
-```
-
-
-
-Ideas: 
-- banshees
-- fey realm (dancing till you die)
-- trek into the mountains
-- hunting a beast 
-- uncovering an ancient laboratory 
-- festering woods with a spore monster 
-
-
-# Regions and their monsters
-## Road
-- https://www.dndbeyond.com/monsters/17035-thug  
-- https://www.dndbeyond.com/monsters/16798-bandit
-- https://www.dndbeyond.com/monsters/175769-soldier
-- https://www.dndbeyond.com/monsters/17045-veteran
-- https://www.dndbeyond.com/monsters/17007-scout
-- https://www.dndbeyond.com/monsters/16841-dire-wolf
-- https://www.dndbeyond.com/monsters/17062-wolf
-- https://www.dndbeyond.com/monsters/16799-bandit-captain **BOSS**
-## Snarlwood
-- https://www.dndbeyond.com/monsters/301414-swarm-of-insects-spiders
-- https://www.dndbeyond.com/monsters/16895-giant-spider
-- https://www.dndbeyond.com/monsters/17057-werewolf **BOSS**
-- https://www.dndbeyond.com/monsters/17466-ambush-drake
-- https://www.dndbeyond.com/monsters/744318-husk-zombie
-- https://www.dndbeyond.com/monsters/17095-twig-blight
-- https://www.dndbeyond.com/monsters/16841-dire-wolf
-- https://www.dndbeyond.com/monsters/17062-wolf
-- https://www.dndbeyond.com/monsters/17023-stirge
-- https://www.dndbeyond.com/monsters/17033-swarm-of-ravens
-- https://www.dndbeyond.com/monsters/16848-druid
-- https://www.dndbeyond.com/monsters/97003-meazel
-- https://www.dndbeyond.com/monsters/16911-green-hag **BOSS**
-
-### Feywild
-The feywild appears after completing a flower pattern in the meadow
-- https://www.dndbeyond.com/monsters/17192-pixie
-- https://www.dndbeyond.com/monsters/781675-satyr-variant
-- https://www.dndbeyond.com/monsters/909469-alseid
-- https://www.dndbeyond.com/monsters/17020-sprite
-
-## In town
-- https://www.dndbeyond.com/monsters/1528979-sage
-- https://www.dndbeyond.com/monsters/16966-noble
-- https://www.dndbeyond.com/monsters/17165-kenku
-- https://www.dndbeyond.com/monsters/17035-thug 
-- https://www.dndbeyond.com/monsters/16915-guard
-- https://www.dndbeyond.com/monsters/33262-tabaxi-minstrel
-- https://www.dndbeyond.com/monsters/95328-skulk (Hespero minion)
-
-## Abandoned Village
-- https://www.dndbeyond.com/monsters/17089-banshee **BOSS**: Hespero has stolen something of hers, she was once a crow-woman whose feather cloak was stolen. It can be retrieved from Hespero; she cannot be destroyed otherwise (returns)
-- https://www.dndbeyond.com/monsters/17261-gnoll-witherling The witherlings were sicced on the village by Hespero to obtain something from the village, some hidden treasure
-- https://www.dndbeyond.com/monsters/17077-zombie
-- https://www.dndbeyond.com/monsters/1680949-swarm-of-zombie-limbs
-- https://www.dndbeyond.com/monsters/744318-husk-zombie
-- https://www.dndbeyond.com/monsters/16871-ghost
-- https://www.dndbeyond.com/monsters/744317-husk-zombie-burster
-- https://www.dndbeyond.com/monsters/1680957-zombie-plague-spreader
-- https://www.dndbeyond.com/monsters/782427-ogre-skeleton
-
-## Mountains 
-- https://www.dndbeyond.com/monsters/909475-blood-toll-harpy
-- https://www.dndbeyond.com/monsters/1123114-mountain-goat
-- https://www.dndbeyond.com/monsters/16919-harpy
-- https://www.dndbeyond.com/monsters/909471-aphemia **BOSS**
-- https://www.dndbeyond.com/monsters/301476-troll-variant
-- Fomorians
-
-### Deep Mines
-- https://www.dndbeyond.com/monsters/17227-chitine
-- https://www.dndbeyond.com/monsters/17246-firenewt-warrior
-- https://www.dndbeyond.com/monsters/16909-gray-ooze
-- https://www.dndbeyond.com/monsters/301798-magma-mephit-summoner-variant
-- https://www.dndbeyond.com/monsters/16850-duergar
-- https://www.dndbeyond.com/monsters/273947-duergar-alchemist
-- https://www.dndbeyond.com/monsters/17386-duergar-soulblade
-- https://www.dndbeyond.com/monsters/96485-duergar-mind-master
-- https://www.dndbeyond.com/monsters/2059740-gem-stalker
-
-## Riverside
-- https://www.dndbeyond.com/monsters/16955-merfolk
-- https://www.dndbeyond.com/monsters/17003-sahuagin
-- https://www.dndbeyond.com/monsters/17008-sea-hag **BOSS**
-
-## Foothills
-- https://www.dndbeyond.com/monsters/1123114-mountain-goat
-- https://www.dndbeyond.com/monsters/16805-berserker
-- https://www.dndbeyond.com/monsters/16969-ogre 
-- https://www.dndbeyond.com/monsters/324280-hill-giant-variant **BOSS**
-- https://www.dndbeyond.com/monsters/16860-ettin
 
 ## Godsbody
-- https://www.dndbeyond.com/monsters/1123084-frost-giant-skeleton
-- https://www.dndbeyond.com/monsters/17015-skeleton
-- https://www.dndbeyond.com/monsters/744311-frost-giant-zombie **BOSS**
+
 
 ## Waterfalls
-- https://www.dndbeyond.com/monsters/94989-star-spawn-grue
-- https://www.dndbeyond.com/monsters/17196-revenant **BOSS** Man that was murdered by Mallory Whisperbottom
-- https://www.dndbeyond.com/monsters/17208-water-weird
 
 ### Lich's Chambers Behind the Waterfall
-- https://www.dndbeyond.com/monsters/286168-withers: Servant of the lich; a ruined version of a deathless one body
-
-# Quests
-Intro quest: There is a ghoul in a temple. 
-
-## 1 (CR 1-2): The Tower of Glass
-- glasswork golem https://www.dndbeyond.com/monsters/1979785-glasswork-golem
-   - Hespero hires you to enter the Glass Wizard's Tower
-   - Within: Notes about the Unspeakable One
-   - Find me the book that he was working on
-   - Glass Golem is defending it
-### Monsters
-- https://www.dndbeyond.com/monsters/1123136-yeti-tyke
-- https://www.dndbeyond.com/monsters/17096-yeti (Yetis are overpowered for the heroes)
-- https://www.dndbeyond.com/monsters/17035-thug The Alchemist is trapped in the wizard's tower. She asks the heroes to help her by breaking her bonds. She leaves and points them to where the books are that she is looking for 
-- 
-
-## 2 (CR 3): The Hunt of the Fleecemane Lion
-### Fleecemane Lion
-- Fleecemane Lion https://www.dndbeyond.com/monsters/909482-fleecemane-lion
-   - Retrieve the fleece of the Fleecemane lion
-   - meet the dusk hag
-   - People want the fleecelion killed so they can cut down the Snarlwood
-   - Hespero just wants the full mane of the fleecelion
-
-## 3 (CR 4): The Invasion of the Mine
-- Spore monster https://www.dndbeyond.com/monsters/17407-yestabrod found deep within the mines
-- People are complaining about a monster taking up residence in the mines
-- the military have shut it down, are investigating it 
-- Hespero says that the spores that people have come back with make him think that the beast is valuable and its spore glands should be retrieved and he will reward you handsomely for it 
-- The heroes can go deeper into the mines, into **Deep Mines**
-### Monsters
-- https://www.dndbeyond.com/monsters/17147-gas-spore
-- https://www.dndbeyond.com/monsters/17182-quaggoth-spore-servant
-- https://www.dndbeyond.com/monsters/17395-duergar-spore-servant
-- https://www.dndbeyond.com/monsters/17396-hook-horror-spore-servant
-- https://www.dndbeyond.com/monsters/17399-bridesmaid-of-zuggtmoy
-- https://www.dndbeyond.com/monsters/33277-yellow-musk-zombie
-- https://www.dndbeyond.com/monsters/17046-violet-fungus
-- https://www.dndbeyond.com/monsters/17227-chitine
-
-
-## 4 (CR 5): Devils Basin Sinkhole
-- https://www.dndbeyond.com/monsters/17044-vampire-spawn: A vampire that was buried on accident, has become feral 
-- Hespero says that the devils basin has been sealed off somehow and he wants to obtain the devils ore that is within, deep inside a crypt that had fallen in through the place
-   - There is a magical object that Hespero requires that was buried with the dead body
-- The surroundings of the devils basin sinkhole are an old cemetery
-- A monster that has invaded the devils basin. Hespero provides this to you as an opportunity. He says there are some treasures down in the sinkhole and that he wants the devils ore retrieved. 
-### Monsters
-- https://www.dndbeyond.com/monsters/94204-bulezau
-- https://www.dndbeyond.com/monsters/17015-skeleton
-- https://www.dndbeyond.com/monsters/17261-gnoll-witherling
-- https://www.dndbeyond.com/monsters/17077-zombie
-- https://www.dndbeyond.com/monsters/1680949-swarm-of-zombie-limbs
-- https://www.dndbeyond.com/monsters/744318-husk-zombie
-- https://www.dndbeyond.com/monsters/744317-husk-zombie-burster
-- https://www.dndbeyond.com/monsters/1680957-zombie-plague-spreader
-- https://www.dndbeyond.com/monsters/17226-cave-fisher
-- https://www.dndbeyond.com/monsters/17234-babau
-- https://www.dndbeyond.com/monsters/16872-ghoul
-- https://www.dndbeyond.com/monsters/16870-ghast
-- https://www.dndbeyond.com/monsters/17059-wight
-- https://www.dndbeyond.com/monsters/288142-diseased-giant-rat
-- https://www.dndbeyond.com/monsters/96514-oblex-spawn
-- https://www.dndbeyond.com/monsters/17010-shadow
-
-
-
-https://www.dndbeyond.com/monsters/1680955-vampiric-mind-flayer **BOSS**
-
-## CR 6
-- Kidnapping plot: Someone is body-snatched and this is how the PCs are introduced the the Mineosi threat as a threat: The kidnapping points to various possibilities 
-- Dusk Hag https://www.dndbeyond.com/monsters/486313-dusk-hag
-- **Thousand Teeth** appears in the river
-
-Werewolf clan https://www.dndbeyond.com/monsters/17057-werewolf
-
-
-GALLOWS SPEAKER https://www.dndbeyond.com/monsters/1680923-gallows-speaker: **BOSS** Starts haunting the military outpost, the soldiers want the heroes to destroy it 
-
-
-https://www.dndbeyond.com/monsters/1680956-zombie-clot
-
-## CR 7
-Oni! https://www.dndbeyond.com/monsters/16971-oni
-
-## CR 8
-https://www.dndbeyond.com/monsters/1680934-nosferatu NOSFERATU Feral vampire 
-
-## CR 9
-https://www.dndbeyond.com/monsters/1680930-jiangshi
-
-
-
-## CR 10 
-https://www.dndbeyond.com/monsters/1680921-dullahan headless horseman!
-
-# Treasures
-- A mirror. As an action, you can peer into the mirror to see a reflection of the ethereal plane. Recharges at midnight.
-- A goat's hoof. If you kill a king while wearing the hoof on your person, you can use it to cast wish one time.
-- Necklace of three skulls. A trio of skulls that bicker while you sleep. Only you can understand them. The necklace has 1 charge per skull which is expended forever and can be used to cast speak with dead.
-- Heartseeker Bow and Arrow.
-- Breaking Spear. If this spear is thrown as a missile, you can use a bonus action to recall it. If the spear hit when it was initially thrown and you use the bonus action to recall it, the spear inflicts its weapon damage as it removes itself from the target. 
-- Serpent Heart. ??
-- Blank book ??
-- Blood Lantern. Searches for secrets
-- Mummified arm. Always points to the nearest undead. 
-- Censer ??
-- Vertebrae Wand. A wand crafted from the vertebra of the Deadgod. ??
-- Resonance Blade. 
-- Skull of a vampire hunter
-- Feather pen. Write in the air with the pen and break it. Mending it will cause the pen to spell out the message. 
-- Blindfold. Lets you see invisible things but not visible things. 

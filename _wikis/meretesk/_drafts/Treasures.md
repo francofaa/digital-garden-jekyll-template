@@ -1,0 +1,16 @@
+# Treasures
+- A mirror. As an action, you can peer into the mirror to see a reflection of the ethereal plane. Recharges at midnight.
+- A goat's hoof. If you kill a king while wearing the hoof on your person, you can use it to cast wish one time.
+- Necklace of three skulls. A trio of skulls that bicker while you sleep. Only you can understand them. The necklace has 1 charge per skull which is expended forever and can be used to cast speak with dead.
+- Heartseeker Bow and Arrow.
+- Breaking Spear. If this spear is thrown as a missile, you can use a bonus action to recall it. If the spear hit when it was initially thrown and you use the bonus action to recall it, the spear inflicts its weapon damage as it removes itself from the target. 
+- Serpent Heart. ??
+- Blank book ??
+- Blood Lantern. Searches for secrets
+- Mummified arm. Always points to the nearest undead. 
+- Censer ??
+- Vertebrae Wand. A wand crafted from the vertebra of the Deadgod. ??
+- Resonance Blade. 
+- Skull of a vampire hunter
+- Feather pen. Write in the air with the pen and break it. Mending it will cause the pen to spell out the message. 
+- Blindfold. Lets you see invisible things but not visible things. 
