@@ -2,4 +2,4 @@
 title: The Larger World
 ---
 
-![The Region](assets/Map.png)
+![The Region](/assets/Map.png)
