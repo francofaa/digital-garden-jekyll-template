@@ -14,3 +14,4 @@
 - Skull of a vampire hunter
 - Feather pen. Write in the air with the pen and break it. Mending it will cause the pen to spell out the message. 
 - Blindfold. Lets you see invisible things but not visible things. 
+- Shadow Heart: Slaying Selawynn imbues your focus with Void energy: +1 casting focus, requires attunement, attunement can only be removed with greater restoration (behaves like a curse). Selawynn's grace: Once per long rest, when you would suffer damage, you may instead teleport 60 feet to a unoccupied square that is in darkness.

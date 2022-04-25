@@ -21,13 +21,13 @@ Meretesk also produces luxury fabrics and exclusively provides the royal family 
 ### Industry and Professional
 These neighborhoods mostly contain particular categories of businesses, but also include residences. 
 
-- [[Mudflats]]
-- [[Theatre District]]
-- [[Painted Ward]]
-- [[The Wefting]]
-- [[The Squeals]]
+- [[Mudflats]] (Harvesting of merry snails for dye)
+- [[Theatre District]] (Entertainment)
+- [[Painted Ward]] (Dye processing, dyeing)
+- [[The Wefting]] (Tailoring, sewing, weaving, silk spinning)
+- [[The Squeals]] (Tanning, butchering, meat packing)
 - [[South Market]]
-- [[The Wash]]
+- [[The Wash]] (Laundry)
    - [[Quiet Mercy Hospital]]
 
 ### Residential 
@@ -43,14 +43,14 @@ Residential neighborhoods are mixed used and also include taverns, grocers, bath
 ### Industry and Professional
 These neighborhoods mostly contain particular categories of businesses, but also include residences. 
 
-- [[Anvil Quarter]]
+- [[Anvil Quarter]] (Smelting, refining of all metals; smithing of all metals except silver)
    - [[Meretesk Ferry Docks]]
-- [[Flashcoin]]
+- [[Flashcoin]] (Gambling, prostitution, drugs, loan sharks)
    - [[Hippodrome]]
-- [[Silver Quarter]]
-- [[Silver Market]]
-- [[Jewelers Quarter]]
-- [[Guild Quarter]]
+- [[Silver Quarter]] (Silversmithing)
+- [[Silver Market]] 
+- [[Jewelers Quarter]] (Jewelry)
+- [[Guild Quarter]] (Guild halls, [[Bank of Meretesk]])
    - [[Bounty Hunters Guild]]
 
 

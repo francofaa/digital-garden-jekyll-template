@@ -1,6 +1,5 @@
 
 # Quests
-Intro quest: There is a ghoul in a temple. 
 
 ## 1 (CR 1-2): The Tower of Glass
 - glasswork golem https://www.dndbeyond.com/monsters/1979785-glasswork-golem
@@ -12,9 +11,15 @@ Intro quest: There is a ghoul in a temple.
 - https://www.dndbeyond.com/monsters/1123136-yeti-tyke
 - https://www.dndbeyond.com/monsters/17096-yeti (Yetis are overpowered for the heroes)
 - https://www.dndbeyond.com/monsters/17035-thug The Alchemist is trapped in the wizard's tower. She asks the heroes to help her by breaking her bonds. She leaves and points them to where the books are that she is looking for 
-- 
 
 ## 2 (CR 3): The Hunt of the Fleecemane Lion
+```ad-note
+Plan the hunt like it is a dungeon. 
+
+Add in locals, threats, encounters, weather, environment, unmarked ruins, portal into the fey wild (with the flower puzzle)
+
+```
+
 ### Fleecemane Lion
 - Fleecemane Lion https://www.dndbeyond.com/monsters/909482-fleecemane-lion
    - Retrieve the fleece of the Fleecemane lion

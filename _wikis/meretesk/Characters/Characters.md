@@ -6,11 +6,11 @@ title: Characters
 - [[Helewynn]], a halfling smuggler shadow magic sorcerer
 - [[Skadi]], a half-elf haunted ranger
 - [[Blikz]], a goblin bounty hunter artificer
-- [[Mike's character]], a fighter
+- [[Buck Dirtyhands]], a fighter
 
 # NPCs
 - [[Hespero of Meretesk]]
-- [[Muzzy]], language tutor
+- [[Muzmuzax]], language tutor
 - [[Dimitrios]], Captain of the Military Quarter
 - [[Bertrand]], Quartermaster of the Military Quarter
 - [[Hugo]], Captain of the Town Guard
@@ -18,3 +18,5 @@ title: Characters
 - [[Ariadne]], the cunning woman of the woods
 - [[Yanni]], the mayor
 - [[Selawynn]], grandmother of [[Helewynn]]
+- [[Prim]], [[Luger]], and [[Fisk]], three deadheads taking Celestial classes with Muzzy; they worship the [[deadgod]], the calcified god that fell on [[Godsbody Mountain]]
+- [[Gert]], town guard who looks down on [[Buck Dirtyhands]]

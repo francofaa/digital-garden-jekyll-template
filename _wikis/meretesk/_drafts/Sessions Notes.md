@@ -2,7 +2,7 @@
 title: Session 1
 ---
 
-# Session 1
+# Set-up for Quest 1: Tower of Glass
 ## Intros
 ### Helewynn
 Helewynn walks her Nan through town to the Shrine of the Shadowbound. Selawynn is well-respected, even by the town guards who pay her deference. She sings to the passersby and they stop and greet her, offering her food and copper coins. 
@@ -10,13 +10,15 @@ Helewynn walks her Nan through town to the Shrine of the Shadowbound. Selawynn i
 "To our ancestor who consumed the shadow that we wield today."
 
 ### Skadi and Mike
-Skadi and ??? are in celestial class (Hespero doesn't teach it, doesn't speak it, doesn't like it) but the tutor [[Muzzy]] has some other people in the class. 
+Skadi and ??? are in celestial class (Hespero doesn't teach it, doesn't speak it, doesn't like it) but the tutor [[Muzmuzax]] has some other people in the class. 
 
 (They are worshippers of the deadgod, call themselves deadheads but no one ever comes back alive, It is an honor to die as the god did). 5 page essay of your choice of topic, roll +int to get your grade, regardless you are fluent. 
 
 Fisk, Prim, and Luger are the three deadheads in the class. They are all from the Grimewater.
 
 On their way to meet Hespero, the two run into a military procession with a shipment to the mint (the soldier looks down on mikes char who is a simple town guard)
+
+Mike is confronted by a town guard [[Gert]] who calls him new meat even though he's been working for a year (he says that he spends too much time with Hespero who is a bad guy and thinks he's better than other people)
 
 *What kind of weapon do you wear and where did you get it?*
 
@@ -46,3 +48,6 @@ Walking up the road, at dusk, the heroes pass a group of miners going home. 3 Wo
 ### Southern Snarlwood
 On the outskirts of the abandoned village, the heroes are attacked by a single ghoul 
 
+
+# Tower of Glass
+Whenever the heroes decide to rest, they will see a parade of ghosts walking down past their campsite. 
