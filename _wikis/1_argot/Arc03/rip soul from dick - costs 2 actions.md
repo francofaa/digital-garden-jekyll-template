@@ -4,7 +4,7 @@ title: rip soul from dick - costs 2 actions
 
 # Left him on read
 
-Hespero regales the heroes with tales of the war thus far, which can all be found in [[The 40 Days Campaign]]. While he speaks, Abe eyes him closely and just before he decides whether or not to attack him, he realizes he is bleeding heavily and decides not to attack. Hespero stares him down and smirks. "Good choice."
+Hespero regales the heroes with tales of the war thus far, which can all be found in [[The 40 Days Campaign Diary]]. While he speaks, Abe eyes him closely and just before he decides whether or not to attack him, he realizes he is bleeding heavily and decides not to attack. Hespero stares him down and smirks. "Good choice."
 
 "The bugbear says he can hear your thoughts."
 
