@@ -1,5 +1,5 @@
 ---
-title: rip soul from dick - costs two actions
+title: rip soul from dick - costs 2 actions
 ---
 
 # Left him on read
