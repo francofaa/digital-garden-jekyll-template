@@ -53,4 +53,4 @@ The Damage Sluts and the 13 Islands have returned to the material plane.
 
 Previous episode: [[Phase 4 - The Fall of Kalens and the Arrival of Zulon - Day 31-36]]
 
-Next episode: [[Next Episode]]
+Next episode: [[rip soul from dick - costs two actions]]

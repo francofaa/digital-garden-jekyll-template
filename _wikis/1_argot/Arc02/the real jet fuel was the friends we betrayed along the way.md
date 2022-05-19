@@ -143,6 +143,8 @@ Livius decides to start training his flip-wizardry using Goremond. His many figh
 
 Natalya feels a sharp pain in her head, but she ignores it as she converses with her friends, finally able to speak again after 600 years. The heroes determine they must return to the material plane, unlock the demiplane and deal with the Duchess problem later, knowing she will likely use the cataclysm of Nistora to bolster her efforts to seize power--even though she was the one who did the 9/11.
 
+https://iasip.app/ftKjdla28UOoxZy0oU8zNg
+
 They have to get back home, fend off the Mineosi invasion, defeat the Deathless One, deal with Hespero, deal with Zulon, save their city, and free the people of the 13 Islands, like:
 
 - Bellamy, Constance, and their baby Amelie, who you saved from [[The Smiler]] Woman, and the other folks on Kinista

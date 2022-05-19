@@ -76,6 +76,6 @@ Previous Episode: [[im glad i was right]]
 
 Next Arc: [[The Siege of Argot]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[rip soul from dick - costs two actions]]
 
 While you were out: [[The 40 Days Campaign Diary]]

@@ -1,6 +1,32 @@
 ---
-title: 
+title: Next Episode
 ---
+
+
+
+Serena runs into sora  
+
+Bread lines 
+
+Dragon racism 
+
+
+(Next time: Krump should be at the dinner party too, along with Serena in a small form)
+
+
+should be day 45
+
+
+
+
+
+
+
+
+
+---
+
+
 
 Make maps for game - for different quadrants 
 
@@ -432,11 +458,13 @@ If the heroes take Hespero down into hell, they must fight Bel: https://www.dndb
 
 https://www.dndbeyond.com/monsters/erinyes: Hespero has three furies fighting for him 
 
+https://www.dndbeyond.com/monsters/gold-forged-sentinel: Hespero's guardian beasts
+
 https://www.dndbeyond.com/monsters/hundred-handed-one: another Hespero's employees, an artisan who is also his muscle 
 
 One of Hespero's allies, runs his casino, is facilitating the construction of Oret's temple: https://www.dndbeyond.com/monsters/adult-sapphire-dragon
 
-https://www.dndbeyond.com/monsters/gold-forged-sentinel: Hespero's guardian beasts
+
 
 
 

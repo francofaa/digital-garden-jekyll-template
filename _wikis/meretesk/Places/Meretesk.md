@@ -3,7 +3,7 @@ title: Meretesk
 ---
 
 
-Meretesk is a town subject to the King of Gomotesk and run by the [[Meretesk Town Council]] and a mostly ceremonial rotating [[Mayor of Meretesk]] chosen by lot. It spans the [[Merry River]] across three bridges.
+Meretesk is a town subject to the King of [[Kingdom of Gomotesk]] (who rules from [[Gomotesk]]) and run by the [[Meretesk Town Council]] and a mostly ceremonial rotating [[Mayor of Meretesk]] chosen by lot. It spans the [[Merry River]] across three bridges.
   
 There is a wealthy sorcerer named [[Hespero of Meretesk]] who lives in a nice part of town. He is known to be a collector of magical artifacts.
 

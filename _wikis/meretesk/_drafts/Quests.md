@@ -45,6 +45,7 @@ Add in locals, threats, encounters, weather, environment, unmarked ruins, portal
 
 
 ## 4 (CR 5): Devils Basin Sinkhole
+The heroes find a dead vampire that was staked. Later they find the vampire hunter who staked it, and he has been bitten and is beginning to turn. He implores the heroes to kill him. 
 - https://www.dndbeyond.com/monsters/17044-vampire-spawn: A vampire that was buried on accident, has become feral 
 - Hespero says that the devils basin has been sealed off somehow and he wants to obtain the devils ore that is within, deep inside a crypt that had fallen in through the place
    - There is a magical object that Hespero requires that was buried with the dead body
