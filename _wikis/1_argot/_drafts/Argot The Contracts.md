@@ -60,18 +60,22 @@ https://www.dndbeyond.com/monsters/2506152-eldritch-lich (MALLORY has the potent
 
 ## The Dinner Party (Same Night)
 You enter the villa and the clues are all there. The three headed mosaic featuring a panther leopard tiger 
-- Ralos (Ralos is explicitly served lobster).
-- Armand
-- Hespero
-- the Bakasura
-- the Duchess Serena
-- Leandro
-- Calantha
-- Nestor
+- Ralos (Ralos is explicitly served lobster)
 - Ambassador Kaolina
+- Nestor
 - Odoacer
 - the rest of the surviving Ten Generals
 - all of the City Council are present
+- Calantha
+
+
+- Armand
+- Leandro
+- Hespero
+
+- the Duchess Serena
+- the Bakasura
+
 
 Dinner is served. Greek salad , lobsters, skirt steaks, and risotto. The chef emerges , and he is a refugee from telens that hespero met 
 

@@ -130,7 +130,7 @@ Zulon has been on the material plane for 15 days.
 
 Previous episode: [[a lively curbstomping]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[we never did catch that guy who bound him naked to a table]]
 
 Previous Arc: [[The 13 Islands of the Haunted Sea]]
 
