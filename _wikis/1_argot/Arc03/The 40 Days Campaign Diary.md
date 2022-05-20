@@ -74,5 +74,10 @@ title: The 40 Days Campaign Diary
       - Mineosi Victory
       - Mineosi capture all of the Golden League cities
 
+---
+Previous Episode: [[a lively curbstomping]]
+
+Next Episode: [[rip soul from dick - costs 2 actions]]
+
 
 ![Map of Argot and its Surroundings](/assets/Map.png)
