@@ -1,7 +1,13 @@
 ---
-title: Next Episode
+title: 
 ---
 
+
+
+
+**IMPROVE THE BLADE +2 weapon**
+
+**MAKE THE SOULCAGE FOR THE DEATHLESS ONE**
 
 
 
@@ -23,6 +29,13 @@ should be day 45
 
 
 
+
+
+
+
+
+
+**Do you guys have anything on you that was made with sirablood?**
 
 
 ---

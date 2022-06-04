@@ -2,4 +2,5 @@
 title: Skadi
 ---
 
-half-elf ranger haunted one 
+
+Skadi is a half-elf ranger from the woods. 

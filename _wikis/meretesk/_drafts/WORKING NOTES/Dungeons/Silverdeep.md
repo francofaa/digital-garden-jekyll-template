@@ -7,6 +7,7 @@ The road lifts high up as you approach the entrance of the [[Silverdeep|Silver M
 
 *The description of Silverdeep is coterminal with the Silver Mines.*
 
+**Put devils ore in here somewhere**
 
 
 

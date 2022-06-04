@@ -4,7 +4,7 @@ title: The Countryside
 Near the town of [[Meretesk]] are a variety of points of interest. 
 
 # Mountains
-- [[Godsbody Mountain]]
+- [[09 Godsbody Mountains]]
    - [[The Godsbody]]
 - [[Glass Peak]]
    - [[Glass Falls]]
@@ -23,7 +23,7 @@ Near the town of [[Meretesk]] are a variety of points of interest.
    - [[Mineosi Embassy to Gomotesk]]
 - [[Road to Gomotesk]]
    - [[Military Outpost in Meretesk]]
-- [[Snarlwood]]
+- [[03 Snarlwood]]
    - [[Orphans Cemetery]]
 - [[North Snarlwood]]
 - [[Silk Farms of Meretesk]]

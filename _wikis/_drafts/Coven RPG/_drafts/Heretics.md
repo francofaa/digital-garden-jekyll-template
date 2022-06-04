@@ -6,7 +6,7 @@ title: Heretics
 - [[Relationships]]
 - [[Your God and You]]
 - [[Stats and Basic Moves]]
-- [[3_wikis/Coven RPG/_drafts/Magic]]
+- [[3_wikis/_drafts/Coven RPG/_drafts/Magic]]
    - [[Familiars]]
 - [[XP and Leveling]]
 

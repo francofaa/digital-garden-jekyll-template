@@ -43,4 +43,4 @@ The parishes of the church:
 - [[Maro Parish]]
 - [[The Wilderness Parish]]
 
-Other forces contend with the King of Gomotesk over the control of these lands, including the creatures of the Giants Reach, the pirates on the seas, the denizens of the [[Snarlwood]], the creatures in and under the mountains, and the raiders on the frontier.
+Other forces contend with the King of Gomotesk over the control of these lands, including the creatures of the Giants Reach, the pirates on the seas, the denizens of the [[03 Snarlwood]], the creatures in and under the mountains, and the raiders on the frontier.

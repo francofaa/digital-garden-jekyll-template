@@ -16,7 +16,7 @@ The creatures, Lampor and Dampor, tell Malory he can wait for the ferry. While h
 
 In exchange for a joke, the ferryman agrees to take Malory to Zulon. Along the way Malory just unloads on him and the ferryman agrees to help him retrieve memories from the spirits in the water who look like him. 
 
-These squishy fish like creatures, once dried off, are safe to touch, after a DC 10 charisma check to fend off feeblemind. The ferryman tells him that most reincarnated souls are just that: reincarnated. Very rarely are those souls duplicated and moreover, none of these souls have gone to the next life. They are trapped in the River Styx and the original Whisperbottom has been for 600 years! The ferryman suspects interference, but never has he met a living specimen so he agreed to help out of curiosity.
+These squishy fish like creatures, once dried off, are safe to touch, after a DC 10 charisma check to fend off feeblemind. The ferryman tells him that most reincarnated souls are just that: reincarnated. Very rarely are those souls duplicated and moreover, none of these souls have gone to the next life. They are trapped in the River Styx and the original Whisperbottom has been for 600 years! The ferryman suspects interference, but never has he met a living specimen so he agrees to help out of curiosity.
 
 Seeking to understand what is happening to him, what has happened to him in his past lives, what [[The Unspeakable One]] wants from him, how he became this way, whether he can escape this rebirth cycle, whether he should join the Unspeakable One or fight him, etc, Malory taps into the 12 spirits of his past self: 
 
@@ -26,9 +26,9 @@ In life order, not in vision order:
 
 Whisperbottom 1
 
-> Natalya and Whisperbottom infiltrate [[The Hidimba]]'s alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make Aramestes into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book and tells them to decipher it. 
+> Natalya and Whisperbottom infiltrate [[The Hidimba]]'s alchemy labs. They are unable to find the spells that Aramestes  desires, the one that will make Aramestes into the Deathless One. Natalya decides to go to the prosperous mining island of Embara to summon an extraplanar creature to help them. The creature gives them a book ([[Malorys spellbook]]) and tells them to decipher it. 
 > 
-> With their focus being finding the correct formula, Natalya and Whisperbottom are able to cobble together the [[Interpretations of the Many-Bodied]], but not without madness  slowly overtaking them. The two alchemists make an undeath pact, but even as they do Whisperbottom continues reading the book, obsessing more and more, until he makes a mistake, and the undeath formula on Natalya starts slowly sapping away her memory. She writes her final letters to her brother, and without her memory and with Whisperbottom's sanity slipping, Whisperbottom never escapes the Unspeakable One's grasp in undeath like Natalya does. He dies, gibbering and catatonic as Natalya as the skeletal alchemist takes up shop underneath Aurochs Island, just as the Hidimba starts up the Demiplane Engine. 
+> With their focus being finding the correct formula, Natalya and Whisperbottom are able to cobble together the [[Interpretations of the Many-Bodied]], but not without madness  slowly overtaking them. The two alchemists make an undeath pact, with Natalya entering undeath first, sealing herself away in a cube. Whisperbottom continues reading the book, obsessing more and more, until he makes a mistake: the undeath formula on Natalya starts slowly sapping away her memory. She writes her final letters to her brother, and without her memory and with Whisperbottom's sanity slipping, Whisperbottom never manages to reach undeath like Natalya and does not manage to escape the Unspeakable One. Natalya's self locked away in the cube protects her from the Unspeakable One. Malory dies, gibbering and catatonic. Natalya flees just as the Hidimba starts up the Demiplane Engine. 
 
 Whisperbottom 4
 
@@ -46,7 +46,7 @@ Whisperbottom 8
 
 Whisperbottom 11
 
-> Whisperbottom is reading by candlelight, a man in his twenties. He reads the book and the passage escapes him. As Malory in the future watches the memory, he is screaming at the young Whisperbottom, "It is obvious, can you not see?!" Just then the Unspeakable One, worms and all, appears, and echoes Malory's words. "It is obvious. Can you not see?" The young Whisperbottom, in fear, says, "Give me more time." But the Unspeakable One says, "The one before figured out this part by this time in his life." The worms from the creature's arm enter Whisperbottom's nostrils, penetrating his brain, until he dies. 
+> Whisperbottom is reading by candlelight, a man in his twenties. He reads the book and the passage escapes him. As Malory in the future watches the memory, he is screaming at the young Whisperbottom, "It is obvious, can you not see?!" Just then the Unspeakable One, worms and all, appears in the vision, and echoes present Malory's words. "It is obvious. Can you not see?" The young Whisperbottom, in fear, says, "Give me more time." But the Unspeakable One says, "The one before figured out this part by this time in his life." The worms from the creature's arm enter Whisperbottom's nostrils, penetrating his brain, until he dies. 
 
 Whisperbottom 12
 
@@ -56,7 +56,7 @@ Whisperbottom 12
 
 Malory and the ferryman become pals. Gain one bond. Malory decides to take his fish-souls with him, to set them to rest or maybe even to form some kind of game plan. 
 
-Malory arrives to meet Malbec Riesling, on his way to see Zulon. Malbec warns  Malory not to let Zulon see the fish souls he collected. Good looking out. Once Malbec reaches Zulon, Zulon instantly teleports him away in a puff of smoke. 
+Malory arrives to meet Malbec Riesling, on his way to see Zulon. Malbec warns Malory not to let Zulon see the fish souls he collected. Good looking out. Once Malbec reaches Zulon, Zulon instantly teleports him away in a puff of smoke. 
 
 "That guy keeps coming back trying to renegotiate. He better not try to weasel out of this. I'm trying to party! You better not be trying to renegotiate."
 
@@ -72,7 +72,7 @@ Malory says no and asks for help deciphering [[Malorys spellbook]]. Zulon tells 
 
 "What would you do if you were me?"
 
-"If I were you, I would kill this guy. Then maybe he would stop messing with your life. Or lives."
+"If I were you, I would kill this guy. Then maybe he would stop messing with your life."
 
 Malory thanks Zulon and politely turns down his offer to hang out with him for six days before Zulon's invasion of the material plane. Instead he decides to chill with the ferryman to await his friends' return on the material plane, after promising him the first orange of the harvest. 
 

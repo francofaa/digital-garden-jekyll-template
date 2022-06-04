@@ -103,7 +103,7 @@ Sora agrees, contemplating becoming ruler of Argot herself and killing Ralos as 
 
 # Bargain Basement
 
-Hobbes heads back home to his nice merchant apartment in the New City's South Ward (I think?) Well, it's completely ransacked, though no one has lingered here. He is on guard as he steps into his bedroom. Something clatters behind him. He spins around and points his fey blade at the figure emerging from the wardrobe: A young humanoid, a face he recognizes but cannot know who it is, but he's narrowed it down to three. The Dagger Siblings, Kris, Stiletto, and Falchion, share a rotation of faces, so likely any one of them. 
+Hobbes heads back home to his nice merchant apartment in the New City's South Ward (I think?) Well, it's completely ransacked, though no one has lingered here. He is on guard as he steps into his bedroom. Something clatters behind him. He spins around and points his fey blade at the figure emerging from the wardrobe: A young humanoid, a face he recognizes but cannot know who it is, but he's narrowed it down to three. The Knife Siblings, Kris, Stiletto, and Falchion, share a rotation of faces, so likely any one of them. 
 
 Hobbes asks what they want and they deliver a message from the boss: "Hespero wants you to kill the Bargainer. The vampire in the Undercity. He is making too much trouble. You do that and you're square with the boss. He'll even boost your weapon by plus one, whatever that means, and give you the Rakshasa's Absolution. He'll also need you to replace the Bargainer. Make it look to his minions that nothing's changed. And don't worry, we can give you a hand in it too."
 

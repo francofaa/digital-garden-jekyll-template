@@ -15,8 +15,7 @@ title: Characters
 - [[Bertrand]], Quartermaster of the Military Quarter
 - [[Hugo]], Captain of the Town Guard
 - [[Bourbon Maduro]], bounty hunter and rival to [[Blikz]]
-- [[Ariadne]], the cunning woman of the woods
 - [[Yanni]], the mayor
 - [[Selawynn]], grandmother of [[Helewynn]]
-- [[Prim]], [[Luger]], and [[Fisk]], three deadheads taking Celestial classes with Muzzy; they worship the [[deadgod]], the calcified god that fell on [[Godsbody Mountain]]
+- [[Prim]], [[Luger]], and [[Fisk]], three deadheads taking Celestial classes with Muzzy; they worship the [[deadgod]], the calcified god that fell on [[09 Godsbody Mountains]]
 - [[Gert]], town guard who looks down on [[Buck Dirtyhands]]

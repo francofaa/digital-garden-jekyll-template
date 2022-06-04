@@ -130,7 +130,9 @@ The gang reconvenes and discusses the contracts at hand. (They are available on 
 
 It is day 45 since the Battle of Aurochs Island, the first engagement of the [[Argoti-Mineosi War]]. 
 
-[[The Argotnauts]] are back in Argot, getting ready for dinner. 
+[[The Argotnauts]] are at Livius's house.
+
+[[Nahkulgart]] is with [[Baltsaros]] at Abraham's hut.
 
 [[Malory Whisperbottom]] is in jail.
 
@@ -139,9 +141,11 @@ You have two solid cubes and a ring of seven keys:
 - [[Livius Anastasius Cratius]] has the cube made of bone found in Iskos Valley Village’s elders’ hut
 - [[Natalya]] has one of the pine wood cubes and the ring of seven keys; she dropped the obsidian cube containing her heart into the ocean
 
-Zulon has been on the material plane for 15 days. 
+Zulon has been on the material plane for 20 days. 
+
+The Deathless One's invading military are expected to arrive in 15 days.
 
 Previous episode: [[rip soul from dick - costs 2 actions]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[im guy fieri and im making spicy rakshasa smothered cool ranch soulcage mukbang gusher bites deluxe a l orange]]
 

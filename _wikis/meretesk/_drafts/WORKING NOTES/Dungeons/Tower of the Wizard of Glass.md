@@ -1,6 +1,6 @@
 ---
 title: Tower of the Wizard of Glass
-aliases: [The Glass Tower]
+aliases: [The Glass Tower, Glass Tower]
 ---
 
 ```ad-history

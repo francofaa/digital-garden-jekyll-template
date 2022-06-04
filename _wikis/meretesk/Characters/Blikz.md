@@ -4,7 +4,7 @@ title: Blikz
 
 A Goblin from [[Goblin Town]] who works as a bounty hunter.
 
-Has a strong rivalry with [[Bourbon Maduro]], a dwarf with many mustaches.
+Has a rivalry with [[Bourbon Maduro]], a dwarf with many mustaches.
   
 > Blikz grew up in the mines, where his natural aptitude eventually got him hired as the official maintenance worker of the mines. Part of that was making and maintaining the traps that stopped thieves, as well as chasing those thieves down. He moved to the city about a year and a half back and starting hunting down people wanted by the law. He's worked with a few others when needed, but has a fondness for [[Helewynn]] because they seem to have the same ideals of doing (mostly) what's right and getting paid.
 

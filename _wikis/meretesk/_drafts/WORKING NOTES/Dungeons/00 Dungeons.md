@@ -3,3 +3,4 @@
 - [[Orphans Cemetery]]
 - [[Old Siblune Castle Ruins]]
 - [[Godsbody]]
+- [[Burial Mound of the First King of Siblune Dmitry]]

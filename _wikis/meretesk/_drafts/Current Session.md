@@ -1,3 +1,22 @@
+
+
+
+
+
+Returning to Hespero, on the way to turn in the book
+
+*Buck is confronted by a town guard [[Gert]] who calls him new meat even though he's been working for a year (he says that he spends too much time with Hespero who is a bad guy and thinks he's better than other people, and that he spends too much time with criminals).
+
+> Hey new meat. Where you going? 
+
+*Stefano, a nicer town guard, pushes Gert away and tells him to keep it down and assures Buck that he's just ribbing him.*
+
+have the barge back to me by the festival 
+
+------------
+
+
+
 # Set-up for Quest 1: Tower of Glass
 ## Intros
 ### Helewynn

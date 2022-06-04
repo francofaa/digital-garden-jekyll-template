@@ -2,6 +2,7 @@
 difficult: CR 9
 ---
 
+NOTE: Maybe this burial mound can be a burial mound complex; use cave-ins to create rooms 
 
 ```ad-history
 - The history of this location
