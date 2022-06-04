@@ -147,5 +147,5 @@ The Deathless One's invading military are expected to arrive in 15 days.
 
 Previous episode: [[rip soul from dick - costs 2 actions]]
 
-Next Episode: [[im guy fieri and im making spicy rakshasa smothered cool ranch soulcage mukbang gusher bites deluxe a l orange]]
+Next Episode: [[im guy fieri and im making spicy rakshasa smothered cool ranch soulcage mukbang gusher bites supreme a l orange]]
 
