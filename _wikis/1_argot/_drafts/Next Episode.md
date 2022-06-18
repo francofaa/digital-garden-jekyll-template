@@ -1,7 +1,20 @@
----
-title: 
----
+sora is on the end of day five after finding this stuff out and the others are on the end of day 6 (late at night now)
 
+DONT FORGET ABOUT GENERAL BEREN and the HECKERS
+
+DONT FORGET CALANTHA'S PLAN IS TO KILL THE TRIUMVIRS AND DESTROY THE PONTIA LEGION
+
+REMEMBER 
+
+**Do you guys have anything on you that was made with sirablood?**!!!! If they pick up any of that ichor, it would undo teh sirablood in the device 
+
+
+Sora could run into the Duchess in the streets
+- maybe the duchess wants to ask what else she can get her 
+
+DAY SIX: Ralos checks in on her; the legion shows up so Ralos sends a runner after her 
+
+HESPERO WOULD SUGGESTION + GEAS SORA: Saying nothing, leave Argot and never return and go far away from here, return to Werriad and speak nothing to anyone. 
 
 
 
@@ -35,7 +48,7 @@ should be day 45
 
 
 
-**Do you guys have anything on you that was made with sirablood?**
+
 
 
 ---

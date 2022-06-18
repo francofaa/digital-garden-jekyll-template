@@ -376,3 +376,5 @@ Each mission that requires skill checks requires 3 successes in a row. The hero 
 | Train Troops        | 5 x 4         | Argot Army unit upgrade. Will give the unit more HP and fighting power.                                                                                                        |
 | Fortify Defenses    | 5 x 5         | Gate upgrade. Will add an additional HP to a fortified gate. Fortifications provide a bonus to defending units. Gates do not need to be destroyed for enemies to pass through. | 
 | Defend Supply Lines | 2 x 4         | Allows for a supply train to reach the city. Supply trains have 10 resources but have to reach the city from friendly roads and can become targets.                            |
+
+

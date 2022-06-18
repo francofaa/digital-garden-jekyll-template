@@ -18,6 +18,11 @@ difficulty: 10
 
 The inside of the Godsbody is completely white and ashen. Breaking into the inside tissue releases a cold gas which inflicts 2d6 cold damage, after which the tissue repairs itself magically. 
 
+# The Approach
+When coming from the south, you see a goatherd. "I am happy to have just survived with my life. Zulon judged me without sin." He laughs a toothless laugh. Will give heroes information on which way to approach if they ask. 
+
+Gransom the Third
+
 # 1 Wing Ice Sheet
 There are 3 Frost Giant Skeletons (or Frost Giants, if running Meretesk) on the ground here. They will stand if people approach within 10 feet. The incline and iciness is difficult terrain without proper crampons. Any shove action will result in the target falling and slipping down the ice 30 feet. 
 

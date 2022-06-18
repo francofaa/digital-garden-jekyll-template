@@ -201,6 +201,6 @@ The Deathless One's invading military are expected to arrive in 9 days.
 
 Previous episode: [[we never did catch that guy who bound him naked to a table]]
 
-Next Episode: [[Next Episode]]
+Next Episode: [[gransoms wife is named greautiful go ahead ask me more i dare you]]
 
 Unlocked!: [[It is Dark and Hell is Hot]]
