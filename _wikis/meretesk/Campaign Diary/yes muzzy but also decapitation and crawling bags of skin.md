@@ -87,4 +87,4 @@ The heroes run outside, shutting the door for the skeletons and killing the bag 
 
 The heroes are outside the Tower of Glass, near their rented raft. They just fought off a bag of skin and there are multiple skeletons inside the tower's first floor. Through a hidden crack in the wall, the heroes had met a member of an expedition (which seems to have claimed the life of another member).
 
-Next Episode: [[Next Session]]
+Next Episode: [[so thats where all the glass is]]

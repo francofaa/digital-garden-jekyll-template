@@ -1,3 +1,41 @@
+
+
+
+
+
+
+
+THINGS I GOTTA DO FOR THIS CAMPAIGN: 
+
+1. flesh out the quests and monsters 
+2. nail down every single npc and their motivations
+3. flesh out the other dungeons 
+4. Set up the rumor mill as they continue to level up and have to spread out 
+5. find a way to work in the multiverse crossover stuff without having them go to the 13 islands or argot or whatever; make that all in their face and accessible 
+
+
+
+
+
+
+
+takes telescope 
+
+fleece 
+
+more research / books quest 
+
+
+
+Skeleton at the counter
+
+negotiated up to 240 
+
+hespero likes selawynn's cakes 
+
+
+-----
+
 Whenever the heroes decide to rest, they will see a parade of ghosts walking down past their campsite. 
 
 

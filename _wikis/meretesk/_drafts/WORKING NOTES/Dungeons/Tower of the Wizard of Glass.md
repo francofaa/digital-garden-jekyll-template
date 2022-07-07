@@ -120,7 +120,7 @@ Without water the tube is a difficult climb, and the player characters will have
 
 Swimming up can be done as well. 
 
-A **keystone 4** is at the end of the tube leading into the glassblowing workshop **9**.
+~~A **keystone 4** is at the end of the tube leading into the glassblowing workshop **9**.~~
 
 From the tube, the characters can see the underside of the hourglass where the door to **10** is. Viewing the workshop **9** from the tube, it appears to be an impossible space based on where it is in relation to the rest of the tower. 
 

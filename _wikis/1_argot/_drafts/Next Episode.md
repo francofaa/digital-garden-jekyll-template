@@ -1,3 +1,27 @@
+morning of day 7
+
+end of day 5 sora 
+
+"N and C have been dispatched. Ambassador witnessed and is on run. Look for skeletons in your closet."
+
+Your new suit is in the wardrobe
+
+Ralos. Nester and Calantha were treasonous conspirators with the Deathless One. They have been brought to justice, but I was seen.
+
+I remain in hiding. - S
+
+
+sora is tailing armand
+
+
+sora gets in touch carefully with leandro
+
+------
+
+
+doomwakers are going to spray their breath weapon and start breaking through the walls
+
+
 sora is on the end of day five after finding this stuff out and the others are on the end of day 6 (late at night now)
 
 DONT FORGET ABOUT GENERAL BEREN and the HECKERS
