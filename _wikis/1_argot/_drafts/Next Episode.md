@@ -1,20 +1,19 @@
-morning of day 7
-
-end of day 5 sora 
-
-"N and C have been dispatched. Ambassador witnessed and is on run. Look for skeletons in your closet."
-
-Your new suit is in the wardrobe
-
-Ralos. Nester and Calantha were treasonous conspirators with the Deathless One. They have been brought to justice, but I was seen.
-
-I remain in hiding. - S
 
 
-sora is tailing armand
 
 
-sora gets in touch carefully with leandro
+
+# To do before game and questions
+1. Plan for Hespero encounter
+2. Tell the gang how to play the war game 
+3. Suggest that they kill at least one of the Mineosi generals
+4. Do we have minis for everyone?
+5. Can we get minis for some monsters for the big game?
+6. Campfire game
+
+
+
+
 
 ------
 
@@ -42,7 +41,6 @@ HESPERO WOULD SUGGESTION + GEAS SORA: Saying nothing, leave Argot and never retu
 
 
 
-**IMPROVE THE BLADE +2 weapon**
 
 **MAKE THE SOULCAGE FOR THE DEATHLESS ONE**
 

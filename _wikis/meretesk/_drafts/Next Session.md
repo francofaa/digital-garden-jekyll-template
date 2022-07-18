@@ -12,6 +12,16 @@ THINGS I GOTTA DO FOR THIS CAMPAIGN:
 3. flesh out the other dungeons 
 4. Set up the rumor mill as they continue to level up and have to spread out 
 5. find a way to work in the multiverse crossover stuff without having them go to the 13 islands or argot or whatever; make that all in their face and accessible 
+6. clean up all these obsidian notes to make it easier to figure out and find the right notes
+7. Consolidate all the monsters and stuff you want to use 
+8. Figure out where the secret notes and lore public notes go
+9. Make some treasure! for later! (and the milestones!)
+10. https://www.youtube.com/watch?v=c8hJfB-iy_g
+11. https://forums.giantitp.com/showthread.php?424243-Sane-Magic-Item-Prices
+12. https://www.youtube.com/watch?v=ggvvktDFMSE
+13. Rumors for the rings of regions for the heroes to search for knowledge 
+14. Make some information treasure (for Buck's interest in arcane stuff)
+15. 
 
 
 
