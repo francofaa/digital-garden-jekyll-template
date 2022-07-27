@@ -1,12 +1,5 @@
 
 
-
-
-
-
-
-THINGS I GOTTA DO FOR THIS CAMPAIGN: 
-
 1. flesh out the quests and monsters 
 2. nail down every single npc and their motivations
 3. flesh out the other dungeons 

@@ -101,4 +101,4 @@ The heroes are in the Warped Pour with the contract to hunt the fleecemane lion 
 
 Previous Episode: [[so thats where all the glass is]]
 
-Next Episode: [[Next Session]]
+Next Episode: [[in the morning im making plus 1 waffles]]

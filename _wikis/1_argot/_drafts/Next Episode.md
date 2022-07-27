@@ -4,12 +4,19 @@
 
 
 # To do before game and questions
-1. Plan for Hespero encounter
-2. Tell the gang how to play the war game 
-3. Suggest that they kill at least one of the Mineosi generals
-4. Do we have minis for everyone?
-5. Can we get minis for some monsters for the big game?
-6. Campfire game
+1. At the beginning of the session, tell everyone to come up with a fear and a hope
+2. Plan for Hespero encounter
+3. Teach the gang how to play the war game 
+4. Suggest that they kill at least one of the Mineosi generals
+5. Do we have minis for everyone?
+6. Can we get minis for some monsters for the big game?
+7. Campfire game
+8. Level up at the campfire 
+9. Print off some stickers for the characters
+
+WHAT is the fallout of killing Hespero? Multiplanarly that is?
+
+Hobbes is hunted for violating a rakshasa's absolution
 
 
 
