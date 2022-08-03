@@ -6,4 +6,5 @@ title: Campaign Diary
 2. [[so thats where all the glass is]]
 3. [[salt is a useless ingredient you seasoned what you had to season the pepper grinds all]]
 4. [[in the morning im making plus 1 waffles]]
-5. [[Next Session]]
+5. [[i was so focused on skinning this lion that i forgot to skin these people]]
+6. [[Next Session]]

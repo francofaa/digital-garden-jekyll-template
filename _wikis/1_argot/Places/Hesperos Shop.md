@@ -33,11 +33,9 @@ Contains 1 unreplenishable charge of Entanglement cast at 2nd level.\
 Contains 1 unreplenishable charge of Mirror Image cast at 2nd level.
 
 ## QuickQuill
-
 The quill is sentient and knows 3 languages of the DM's choice and halves the amount of time it takes the bearer to copy any text, including spells into spellbooks.
 
 ## Tin horn
-
 Requires attuning\
 The bearer may cast Message once per day.
 
@@ -54,14 +52,11 @@ A creature you touch regains a number of hit points equal to 1d8 + your spellcas
 At dawn it regains 1d4 - 1 charges
 
 ## Taverner
-
 Requires attunement\
 Bearer and all their possessions are odorless. You always know the direction to the nearest tavern within 60 miles.
 
 ## Hat of Good Luck
-
 Requires attunement. When the bearer of this item rolls hit dice, they can choose to re-roll them and take the second result.
 
 ## Foolfeathers
-
 No attunement required. Contains 1d4 unreplenishable uses of feather fall. Spell done by flapping one’s arms in a silly way.

@@ -1,3 +1,34 @@
+# Fear/Dream
+## Abraham
+- Fear: divorce from baltsaros, be adrift without vengeance nor hubbu to guide him 
+- Dream: Open a b&b with Baltsaros in the 13 islands
+
+## Hobbes
+-   Hobbes’ greatest fear is falling under the control/servitude of some person/government/power like he’s endured under Hespero, and is desperate to make sure it never happens again. 
+- Therefore, his greatest dream is to be the master of his own fate. Whether he will attempt to accomplish this by joining Nahk on his travels or becoming the crime lord of the Argotti Underworld is yet to be determined.
+
+
+## Casimir 
+- If his band of adventurers succeeds in defeating all their foes, Casimir secretly dreams of retiring—shifting permanently into cat form and most importantly, being adopted by a fishmonger. He'd still visit his friends on occasion, but he'd hang up his scimitars unless great need arose.
+- I forgot to say a fear. TBH Cas is pretty numb to the bigger fears that would be the obvious ones. He's been through too much shit to expend energy worrying about battles that future Casimir will have to fight. His chief concern at the present time is that he might accidentally consume an overripe fish. He's seen it happen to Nahk too many times for comfort
+
+
+## Nakhulgart
+- Nahk fears that all this meddling will be for nothing -- remove one threat and another (Giants, Hespero, etc.) just lurks under the surface -- and wonders if it is ever worth it to intervene. 
+- Nahk hopes to get his culinary and travel book published and churn out a series of books highlighting the unique cultures of the 13 Islands.
+
+## Natalya
+- Natalya would hope to one day be able to open a public library where no one would have to go through what she did for the pursuit of knowledge, there she would collect and manage as many books she could get her hands on and help researchers who come there to learn. But before doing that she would travel around the world that is so unfamiliar to her so she could learn what it holds and bring back more knowledge for the library (edited)
+- Fear is being sent to the blood war I guess. Sorry that's so basic
+
+## Livius
+- Livius just hopes that a post war Argot will be a truly free city-state, where people are allowed to learn, study, and use magic, and it's people will also be free under a benevolent rule. Personally, he would like to retire and make fun drinks on the beach and accidentally invent tiny ~~umbrellas~~ parasols because he thinks the shade right over the glass will keep your beverage cooler for longer. 
+- blood war
+
+## Sora
+- Fear: She will be killed, or worse, imprisoned for the work she's been doing. 
+- Hope: She finds her way to a position of power, either on her own or at the Duchess's side
+
 
 
 

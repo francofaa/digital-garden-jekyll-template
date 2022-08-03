@@ -1,3 +1,16 @@
+# Most important
+1. Design the mine dungeon! This is abso-fruitly crucial
+2. Make the randomizer program!
+3. Plan out the rumor mill for each of the quests 
+4. Figure out loot, treasures, and milestones!!!
+
+
+
+Bourbon Maduro would be also contracted for the adventure 
+
+
+
+
 
 
 1. flesh out the quests and monsters 
@@ -14,7 +27,16 @@
 12. https://www.youtube.com/watch?v=ggvvktDFMSE
 13. Rumors for the rings of regions for the heroes to search for knowledge 
 14. Make some information treasure (for Buck's interest in arcane stuff)
-15. 
+15. make a duck themed magical weapon, add more Shop of Wonders magic items
+
+- Buck will go talk to the deadheads to get info
+- Blikz will talk to Johnny to figure out what he wants (refer to a contract from the king as well)
+- Helewynn, stops by the hospital in the Wash to help out, and then the next hospital
+- figure out what snallygaster's deal is 
+- dark shadows 
+
+
+
 
 
 

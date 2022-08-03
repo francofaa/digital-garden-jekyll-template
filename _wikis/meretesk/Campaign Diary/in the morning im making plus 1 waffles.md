@@ -1,4 +1,4 @@
----
+       -. -
 title: in the morning im making plus 1 waffles
 ---
 
@@ -36,4 +36,4 @@ They have four days to report back to Majordomo Dina, or not, it's a completely 
 
 Previous Episode: [[salt is a useless ingredient you seasoned what you had to season the pepper grinds all]]
 
-Next Episode: [[Next Session]]
+Next Episode: [[i was so focused on skinning this lion that i forgot to skin these people]]
