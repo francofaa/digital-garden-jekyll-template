@@ -1,4 +1,4 @@
-       -. -
+---
 title: in the morning im making plus 1 waffles
 ---
 

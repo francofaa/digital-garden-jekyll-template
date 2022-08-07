@@ -1,7 +1,7 @@
 This game will use a milestone system. A milestone is a significant achievement. 
 - Level 2 is reached in the first session
-- To reach levels 3 through 6, complete a milestone and return to Meretesk
-- To reach levels 7 through 10, complete 2 milestones and return to Meretesk
+- To reach levels 3 through 6, complete a milestone and return to Meretesk 
+- To reach levels 7 through 10, complete 2 milestones and return to Meretesk 
 - To reach levels 11 through 14, complete 3 milestones and return to a town
 - To reach levels 15 through 17, complete 4 milestones and return to a town
 - To reach levels 18 through 19, complete 5 milestones and return to a town
@@ -9,26 +9,55 @@ This game will use a milestone system. A milestone is a significant achievement.
 
 This is a total of 52 milestones
 
-Milestones are distributed throughout the map in the following way: 
-| CR  | Location                        | Achievement                                              |
-| --- | ------------------------------- | -------------------------------------------------------- |
-|     | Dmitry's Burial Mound 20        | Recover Dmitry's Blade                                   |
-|     | Old Siblune Castle R            | Retrieve Hilde's bones and bury them in the family crypt |
-|     | Silver Mines H                  | Cure the fungal infestation                              |
-|     | Godsbody 22                     |                                                          |
-|     | Lighthouse 3                    |                                                          |
-|     | Sabari Ruins in the Mountains 8 |                                                          |
-|     | Balaur's Lair 2                 |                                                          |
-|     | Solomnar's Castle A             | Uncover and expose the Duke Solomnar                     |
-|     | Salt King's Lair 25             |                                                          |
-|     | Tower of Glass 11               | Recover the Salt King's Book                             |
-|     | Lion's Lair 13                  | Recover the fleece                                       |
-|     | Orphans Cemetery 15             | Destroy the vampire                                      |
-|     | Sleeper Queen's Tomb 16         |                                                          |
-|     | Abbey in the Wilderness Q       | Destroy the Oni                                          |
-|     | Argoti Shipwreck 7              | Recover the treasure                                     |
-|     | Mineosi Shipwreck 18            | Recover the treasure                                     |
-|     | Ghost Ship O                    | Put the souls of the Ghost Ship to rest                  |
-|     | Sea Fury's Lair 4               |                                                          |
-|     | Ruins of Green Hall 6           |                                                          |
-|     | Blight Town S                   |                                                          |
+Milestones are distributed throughout the map per the table. 
+
+The loot is either
+- Summoning magic item
+- Pure wealth
+- Non-combat magic item
+- Combat magic item
+
+5 of each!
+
+Additional wandering monsters: 
+- Vampire Gnoll
+- Alhoon
+
+
+| CR  | Ring | Loot                                                                                                                                                                                                         | Location                                          | Gold Value | Boss                                                                                                            | Achievement                                                             |     |
+| --- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --- |
+| 02  | 1    | Cash (reward)                                                                                                                                                                                                | Tower of Glass 11                                 | 0-1500     | Glass Construct                                                                                                 | Recover the Salt King's Book                                            |     |
+| 03  | 1    | Cash (reward)                                                                                                                                                                                                | Lion's Lair 13                                    | 0-1500     | Fleecemane Lion                                                                                                 | Recover the fleece                                                      |     |
+| 04  | 2    | Breaking Spear, Blood Lantern                                                                                                                                                                                | Silver Mines H                                    | 0-1500     | Brooding Mother (Yestabrod)                                                                                     | Cure the fungal infestation                                             |     |
+| 05  | 2    | Gloves of Swimming and Climbing (2000), 3 chattering skulls, 100 gp worth of reliquaries and grave goods                                                                                                     | Orphans Cemetery 15                               | 1501-3000  | Vampire Spawn                                                                                                   | Destroy the vampire                                                     |     |
+| 06  | 2    | Sending Stones (2000), Ring of Warmth (1000), Gloves of Missile Snaring (3000), 250 gp of gemstones                                                                                                          | Old Siblune Castle R                              | 1501-3000  | Bodak (that is trapping the Banshee princess) (Gnoll Vampire is released during this time, but is not the boss) | Retrieve Hilde's bones and bury them in the family crypt                |     |
+| 06  | 3    | Sword of Sharpness (Dmitry's blade) (1700), 250 gp of artifacts (many had already been looted)                                                                                                               | Dmitry's Burial Mound 20                          | 1501-3000  | Dmitry + 2 guards (Ghostblade Eidolon + 2 Undying Soldiers)                                                     | Recover Dmitry's Blade                                                  |     |
+| 07  | 3    | Silver Raven (5000), Immovable Rod (5000), 400 gp of ancient artifacts (that require buyers, they may also provide a favor--maybe it is Muzmuzax who is the buyer)                                           | Sabari Ruins in the Mountains 8                   | 3001-5000  | Woe Strider (also use the dolgrims and dolgaunts)                                                               | Retrieve the artifact to reveal more secrets of the Sabari civilization |     |
+| 07  | 3    | Wand of the War Mage +2  (4800), Luckstone (found on the corpse of an unlucky adventurer who tried to kill Zburator) (4200), 400 gp worth of stolen goods from dead lovers                                   | Abbey in the Wilderness Q                         | 3001-5000  | Zburator, the Oni                                                                                               | Destroy the Oni                                                         |     |
+| 08  | 3    | Lantern of Revealing (5000), 500 gp worth of artifacts wielded by the Sleeper Queen's warriors (buried with her)                                                                                             | Sleeper Queen's Tomb 16                           | 3001-5000  | Coven of Hags (1 Night Hag + 2 Sea Hags)                                                                        | Awaken the Sleeper Queen                                                |     |
+| 08  | 4    | Four Ivory Goats of Traveling and the Kingslaying Hoof (Given by the Avarchi), 500 gp that can be stolen from the wealthy dead                                                                               | Blight Town S                                     | 3001-5000  | Obzedat Ghost (some kind of kingpin that is undead)                                                             | Lift the curse on the town                                              |     |
+| 09  | 4    | 5,000 gp worth of treasure                                                                                                                                                                                   | Argoti Shipwreck 7                                | 5001-9000  | Corrupted Giant Shark                                                                                           | Recover the treasure                                                    |     |
+| 09  | 4    | 5,000 gp worth of treasure                                                                                                                                                                                   | Mineosi Shipwreck 18                              | 5001-9000  | Slithering Bloodfin                                                                                             | Recover the treasure                                                    |     |
+| 10  | 4    | Cape of the Mountebank (8000), 1,000 gp worth of treasure (hidden cash)                                                                                                                                      | Lighthouse 3                                      | 5001-9000  | Dullahan, who rides out from the lighthouse every day                                                           | Free the ghost that haunts the lighthouse                               |     |
+| 10  | 4    | Silver Horn of Valhalla (5600), 1,000 gp contract                                                                                                                                                            | Ghost Ship O                                      | 5001-9000  | Crew of 30, led by a wraith with 3 specter officers and 13 skeletons and 13 zombies                             | Put the souls of the Ghost Ship to rest                                 |     |
+| 10  | 4    | Suite of items (only one can be chosen): Amulet of Health (8000), Gauntlets of Ogre Power (8000), Headband of Intellect (8000), 1,000 gp worth of treasure                                                   | Ruins of Green Hall 6                             | 5001-9000  | Daemgoth that is haunting the ancient hall (feeding off the misery of the forest)                               | Lift the curse on the Green Hall                                        |     |
+| 11  | 4    | Helm of Telepathy (knit together from the Elder Brain's gray matter; includes a curse: User hungers for brains and over the course a month becomes a mind flayer thrall) (12000), 2,000 gp worth of treasure | Godsbody 22                                       | 9001-18000 | Elder brain                                                                                                     | Retrieve the gods ichor                                                 |     |
+| 11  | 5    | Folding Boat (10000), Ring of Mind Shielding (16000), 2,000 gp worth of stolen treasures                                                                                                                     | Sea Fury's Lair 4                                 | 9001-18000 | Sea Fury                                                                                                        | Recover the Sea Fury's stolen treasure                                  |     |
+| 11  | 4    | Mirror of Life Trapping (18000), 2,000 gp worth of ducal possessions                                                                                                                                         | Solomnar's Castle A                               | 9001-18000 | Vampire                                                                                                         | Uncover and expose the Duke Solomnar                                    |     |
+| 12  | 5    | 15,000 gp worth of gold (in silver coins in the hoard)                                                                                                                                                       | Balaur's Lair 2                                   | 9001-18000 | Adult Topaz Dragon                                                                                              | Subdue the dragon                                                       |     |
+| 12  | 5    | Rod of Rulership (16000), 2,000 gp worth of ancient stolen goods                                                                                                                                             | Salt King's Lair 25                               | 9001-18000 | Eldritch Lich                                                                                                   | Destroy the Salt King                                                   |     |
+| 12  | X    |                                                                                                                                                                                                              | Reaching the door to the 13th Level of Silverdeep | 9001-18000 |                                                                                                                 | Reach the door to the 13th Level of Silverdeep                          |     |
+
+Best loot is found in Silverdeep. They are always weapons.
+
+| Treasure in Gold | CR  | Boss                                                                | Loot                                                             | For Whom is the Loot? |
+| ---------------- | --- | ------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------- |
+| 1,000 gp         | 5   | Wraith                                                              | Circlet of Blasting, bracers of archery                          | Sorcerer              |
+| 2,000 gp         | 6   | Bloodfray Giant                                                     | Sword of Wounding (Glaive)                                       | Fighter               |
+| 3,000 gp         | 7   | Nosferatu                                                           | Oathbow, mummified arm (always points to nearest undead)         | Ranger                |
+| 4,000 gp         | 8   | (Temple to the Unborn Mother) Theran Medusa and Gorgon; Tomb Tapper | Rope of Entanglement                                             | Artificer             |
+| 5,000 gp         | 9   | Gearkeeper Construct / The Hungry                                   | Arrow-Catching Shield                                            | Artificer             |
+| 9,000 gp         | 10  | Winter Eladrin (Cold Prince)                                        | Giant Slayer (Scimitar)                                          | Ranger                |
+| 12,000 gp        | 11  | Balhannoth                                                          | Rune of +3 weapon (that can only be affixed to a polearm weapon) | Fighter               |
+| 15,000 gp        | 12  | Alyxian Aboleth                                                     | Wand of Paralysis                                                | Sorcerer              |
+| 0 gp             | 13  | Crokek'toeck                                                        | 4 Custom Items                                                   | 4 Treasures           |

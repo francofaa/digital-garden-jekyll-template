@@ -6,11 +6,52 @@
 
 
 
+Loose threads: 
+- The deadheads (what would they tell Buck?)
+- The telescope: What is Hespero doing with it?
+- The Elves: Will they be hunting down the heroes? 
+- Snallygaster: She is haunting Helewynn (maybe the only way to get rid of the curse is to get help from Brangwen but this transfers it to Selawynn)
+
+
+
 Bourbon Maduro would be also contracted for the adventure 
 
 
 
+UNCOMMON magic items at 4+
+RARE magic items at 7+
+VERY RARE magic items at 11+
+LEGENDARY magic items at 17+
 
+For consumables:  
+Level required|Cost of item  
+1|0-90  
+3|91-180  
+5|181-300  
+7|301-500  
+9|501-1000  
+11|1001-2000  
+13|2001-5000  
+15|5001-9000  
+17|9001+  
+  
+For permanent items:  
+Level required|Cost of item  
+3|0-1500  
+- +1 weapons
+5|1501-3000  
+- bracers of archery
+- Sword of life stealing 
+- Frost Brand
+- Gloves of Missile Snaring
+
+
+7|3001-5000  
+9|5000-9000  
+11|9001-18000  
+13|18001-30000  
+15|30001-79999  
+17|80000+
 
 
 1. flesh out the quests and monsters 

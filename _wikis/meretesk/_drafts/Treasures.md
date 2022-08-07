@@ -3,15 +3,13 @@
 - A goat's hoof. If you kill a king while wearing the hoof on your person, you can use it to cast wish one time.
 - Necklace of three skulls. A trio of skulls that bicker while you sleep. Only you can understand them. The necklace has 1 charge per skull which is expended forever and can be used to cast speak with dead.
 - Heartseeker Bow and Arrow.
-- Breaking Spear. If this spear is thrown as a missile, you can use a bonus action to recall it. If the spear hit when it was initially thrown and you use the bonus action to recall it, the spear inflicts its weapon damage as it removes itself from the target. 
 - Serpent Heart. ??
 - Blank book ??
-- Blood Lantern. Searches for secrets
 - Mummified arm. Always points to the nearest undead. 
 - Censer ??
 - Vertebrae Wand. A wand crafted from the vertebra of the Deadgod. ??
 - Resonance Blade. 
 - Skull of a vampire hunter
 - Feather pen. Write in the air with the pen and break it. Mending it will cause the pen to spell out the message. 
-- Blindfold. Lets you see invisible things but not visible things. 
+- Blindfold. If a creature is wearing this item over their eyes, they see invisible things but not visible things. As a bonus action, if the creature is wearing this item on their head, they may lift or pull down the blindfold. Otherwise, it requires an action to put on the blindfold. 
 - Shadow Heart: Slaying Selawynn imbues your focus with Void energy: +1 casting focus, requires attunement, attunement can only be removed with greater restoration (behaves like a curse). Selawynn's grace: Once per long rest, when you would suffer damage, you may instead teleport 60 feet to a unoccupied square that is in darkness.
