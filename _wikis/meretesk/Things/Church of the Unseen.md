@@ -25,7 +25,7 @@ The Church followers believe that the planet was created from a void of chaos an
 
 They do not believe in an afterlife and believe that the supernatural is to be feared and shunned, that they are abominations. 
 
-The [[Hall of Vanquished Lies]] is in [[The Wilderness Parish]]. It contains totems, idols, and holy symbols of religions long destroyed by the Church. The meanings of some of the symbols are lost to time. 
+The [[Hall of Vanquished Lies]] is in [[Abbey in the Wilderness]]. It contains totems, idols, and holy symbols of religions long destroyed by the Church. The meanings of some of the symbols are lost to time. 
 
 # Culture
 They exalt piety, chastity, abstinence, loyalty and condemn blasphemy and cowardice. Followers who commit blasphemy or cowardice are judged by the Church's courts and sentenced to have their eyes removed (in order to become closer to the Unseen and learn their lesson.)

@@ -1,6 +1,18 @@
 ---
 difficulty: 10
 ---
+RING 4
+CR 11
+
+Helm of Telepathy (knit together from the Elder Brain's gray matter; includes a curse: User hungers for brains and over the course a month becomes a mind flayer thrall) (12000), 2,000 gp worth of treasure
+
+
+Elder brain
+
+
+Retrieve the gods ichor HESPERO SENDS YOU TO RETRIEVE  IT (milestone)
+
+
 
 
 ```ad-history
@@ -81,7 +93,7 @@ Corpses are here, wearing the cloaks of cultists of the deadgod. They wear black
 
 
 ```ad-loot
-- God ichor which reacts to sirablood and disables both. 
+- God ichor which reacts to sirablood and disables both. **Helewynn is allergic to god ichor.**
 
 
 ```

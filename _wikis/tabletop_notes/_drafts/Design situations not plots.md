@@ -66,4 +66,29 @@ https://thealexandrian.net/wordpress/37903/roleplaying-games/5-node-mystery
 
 Five node mysteries 
 
+# Overworld Map Design
+Information that the heroes have about the world is imperfect. 
+
+- River communities (rivers systems are transpo highways)
+- Aquifers and water sources
+- Mining, ores
+- Fossil fuels
+- Leyline intersections
+- Mana crystal mines
+- Magic mushroom forests
+
+How do these interact? For instance, a wizard builds a tower that threatens a druid's grove 
+
+Add adventure sites and settlements in equal numbers. For each settlement, consider 
+- trade 
+- craft 
+- commodity 
+- unusual beliefs 
+- unique things 
+
+Examples would include tulip / orchid market, people taking a siesta every day. 
+
+With each location, start with a bad status quo. 
+
+
 Source: [[The Alexandrian]]

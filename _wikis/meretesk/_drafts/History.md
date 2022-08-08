@@ -1,11 +1,11 @@
 # History
 2000 years ago the god fell on the mountain, disturbing the giants who lived there. They began being born and the giants that live there believe that they arrived on the godsbody. 
 
-1400 years ago the Vampire Lord tricked the dragon Balaur into sleep and he maintains this sleeping spell. The Salt King sought to end the spell. 
+1400 years ago the Vampire **Lord Duke Solomnar** tricked the dragon **Balaur** into sleep and he maintains this sleeping spell. The **Salt King** sought to end the spell. 
 
 Meretesk is founded 1000 years ago
 
-700 years ago: the Salt King and Sleeper Queen reigned their regions (south of Taruna and Taruna respectively). The Salt King waged a war against the Sleeper Queen who reigned over Taruna. The Sleeper Queen was an ancient sapphire dragon who was also a shape-changer 
+700 years ago: the **Salt King** and **Sleeper Queen** reigned their regions (south of Taruna and Taruna respectively). The Salt King waged a war against the Sleeper Queen who reigned over Taruna. The Sleeper Queen was an ancient sapphire dragon who was also a shape-changer 
 
 Adventurers were summoned from around the known world to the Sleeper Queen's aid. A band of powerful adventurers arrived after the death of the Sleeper Queen in her tomb. They trapped the Salt King in a tomb and turned his realm to salt using magic. 
 
@@ -24,6 +24,8 @@ Taruna underwent a tumultuous time.
 100 years ago the giants came down into the valley to overrun it after the Frost Giants finally dominated the Stone Giants, due to something awakening in the Godsbody. This is when the Cult of the Deadgod began.
 
 Siblune Kingdom is absorbed 400 years ago. Visigoara's union with Gomotesk was the beginning of the Kingdom (600 years ago). 
+
+300 years before, the goblins delved too deep into Silverdeep, and closed the gates. As their wealth slowly fell apart and they were unable to meet quotas set by the Gomoteski, they accepted kneeling to the crown and were absorbed into the kingdom.
 
 100 years before, a large army of gnolls overran Siblune Castle and conquered it. Ghosts haunt it now after infighting led the gnolls to abandon it. 
 

@@ -1,6 +1,15 @@
 ---
-difficult: CR 9
+difficulty: CR 6
+ring: 3
 ---
+
+Dmitry's Burial Mound 20
+
+Dmitry + 2 guards (Ghostblade Eidolon + 2 Undying Soldiers)
+
+Recover Dmitry's Blade
+
+Sword of Sharpness (Dmitry's blade) (1700), 250 gp of artifacts (many had already been looted)
 
 NOTE: Maybe this burial mound can be a burial mound complex; use cave-ins to create rooms 
 

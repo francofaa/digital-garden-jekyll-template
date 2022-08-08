@@ -1,8 +1,23 @@
+When the heroes clear everything in a ring, tell them rumors / explicit information about everything that is in the ring
+
+[[Rumors]]
+
+[[Townies]]
+
+
+file:///Users/franco/Dropbox/RandoTable.html
+
+
+
+- The cargo that Helewynn and Blikz recovered was devils ore. The soldier was convinced by the deathless one to bring it to him but this was necromantic material that was recovered from the mines that the military wanted to investigate to see if it had any military application. 
+- HOOK: The captain gets corrupted by the devils ore! The heroes have to cure him!
+
 # Most important
-1. Design the mine dungeon! This is abso-fruitly crucial
-2. Make the randomizer program!
-3. Plan out the rumor mill for each of the quests 
-4. Figure out loot, treasures, and milestones!!!
+- [x]  Design the mine dungeon! This is abso-fruitly crucial
+- [ ] Design Abandoned Goblin Mine
+- [ ] Make the randomizer program!
+- [ ] Plan out the rumor mill for each of the quests 
+- [ ] Figure out loot, treasures, and milestones!!!
 
 
 
@@ -11,60 +26,13 @@ Loose threads:
 - The telescope: What is Hespero doing with it?
 - The Elves: Will they be hunting down the heroes? 
 - Snallygaster: She is haunting Helewynn (maybe the only way to get rid of the curse is to get help from Brangwen but this transfers it to Selawynn)
+   - Snallygaster is looking for Helewynn because **she is haunting Snallygaster too!** Due to Helewynn's void curse
 
 
 
-Bourbon Maduro would be also contracted for the adventure 
-
-
-
-UNCOMMON magic items at 4+
-RARE magic items at 7+
-VERY RARE magic items at 11+
-LEGENDARY magic items at 17+
-
-For consumables:  
-Level required|Cost of item  
-1|0-90  
-3|91-180  
-5|181-300  
-7|301-500  
-9|501-1000  
-11|1001-2000  
-13|2001-5000  
-15|5001-9000  
-17|9001+  
-  
-For permanent items:  
-Level required|Cost of item  
-3|0-1500  
-- +1 weapons
-5|1501-3000  
-- bracers of archery
-- Sword of life stealing 
-- Frost Brand
-- Gloves of Missile Snaring
-
-
-7|3001-5000  
-9|5000-9000  
-11|9001-18000  
-13|18001-30000  
-15|30001-79999  
-17|80000+
-
-
-1. flesh out the quests and monsters 
-2. nail down every single npc and their motivations
-3. flesh out the other dungeons 
-4. Set up the rumor mill as they continue to level up and have to spread out 
 5. find a way to work in the multiverse crossover stuff without having them go to the 13 islands or argot or whatever; make that all in their face and accessible 
-6. clean up all these obsidian notes to make it easier to figure out and find the right notes
-7. Consolidate all the monsters and stuff you want to use 
-8. Figure out where the secret notes and lore public notes go
-9. Make some treasure! for later! (and the milestones!)
 10. https://www.youtube.com/watch?v=c8hJfB-iy_g
-11. https://forums.giantitp.com/showthread.php?424243-Sane-Magic-Item-Prices
+
 12. https://www.youtube.com/watch?v=ggvvktDFMSE
 13. Rumors for the rings of regions for the heroes to search for knowledge 
 14. Make some information treasure (for Buck's interest in arcane stuff)
@@ -123,20 +91,3 @@ have the barge back to me by the festival
 
 At the barracks, he sees the soldier hanged. "The Void! It will come for us all!"
 
-
-
-## Diverging Paths
-### Upriver
-Traveling upriver, you can observe three bandits (2 bandits, 1 thug) on the shore. They are wearing the same stolen armor that the bounty Blikz found was wearing. 
-
-### Through the Snarlwood
-Two Satyrs approach the heroes, asking if they want to get drunk with them. If the heroes accept, they start playing target practice with them. 
-
-### By the Silver Mines Road
-Walking up the road, at dusk, the heroes pass a group of miners going home. 3 Wolves attack the heroes
-
-### Southern Snarlwood
-On the outskirts of the abandoned village, the heroes are attacked by a single ghoul 
-
-
-# Tower of Glass

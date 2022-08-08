@@ -2,7 +2,6 @@
 ## Ring 1
 - [[Tower of the Wizard of Glass]]
 
-
 ## Ring 2
 - [[Silver Mine]] (Entrance to Silverdeep)
 - [[Orphans Cemetery]]
@@ -15,13 +14,14 @@
 - [[Tomb of the Sleeper Queen]]
 
 ## Ring 4
-- [[Blight Town]]
+- [[Blight Town Dungeon]]
 - [[Argoti Shipwreck]]
 - [[Mineosi Shipwreck]]
 - [[The Old Lighthouse]]
 - [[Godsbody]]
 - [[Ruins of Green Hall]]
 - [[Castle of Duke Solomnar]]
+- [[Ghost Ship]]
 
 ## Ring 5
 - [[Lair of the Sea Fury]]
@@ -30,6 +30,8 @@
 
 
 # Dungeons of Silverdeep
+More information at [[Silverdeep]]
+
 5. [[Abandoned Goblin Mine]]
 6. [[Abandoned Prison and Barracks]]
 7. [[Ancient Royal Goblin Tombs]] (Entrance to [[Sabari Ruins in the Silver Mountains]])
@@ -39,3 +41,9 @@
 11. [[Living Tunnels]]
 12. [[Ancient Aquifer]]
 13. [[The Veins of Hell]]
+
+# Other Available Milestones
+- Killing **Akeer**
+- Killing **Hespero**
+- Retrieving the mane of the **fleecemane lion**
+- Brokering peace between the **Princess of the Silverdew Court and the Cold Prince**

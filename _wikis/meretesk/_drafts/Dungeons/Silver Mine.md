@@ -49,6 +49,9 @@ The fungal infestation began in the level below after a delve into the mine orde
 **Reward**
 - 3,000 gp from the military outpost 
 - 200 gp from the citizens of Goblin Town
+
+**Milestone**
+Curing the brooding spores.
 ```
 
 ```ad-note
@@ -81,6 +84,10 @@ Once the heroes enter the dungeon, the goblins will shut the way back up to the 
 The gate is etched with silver runes declaring the identity of the king who commissioned this gate: 
 
 > I, King Ragrat the Mighty, Ordered the Making of these Nine Gates of Silverdeep and the Making of the Great Lift
+
+The ninth gate opens into the [[Ancient Lab]] while the first gate opens out into the Silver Mountains.
+
+An ancient gravitational magic powers the elevator.
 
 ```
 

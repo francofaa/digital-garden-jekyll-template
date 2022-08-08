@@ -1,6 +1,7 @@
 ---
 title: Tower of the Wizard of Glass
 aliases: [The Glass Tower, Glass Tower]
+difficulty: level 1
 ---
 
 ```ad-history
@@ -180,6 +181,10 @@ If somehow the sand in the hourglass completes a full hour, the room will flip u
 - Book about Devils
 - Book about Vampires
 - Rock of devils ore
+
+**Milestone**
+
+Retrieving the notebook of the Salt King
 ```
 
 Opening any of Malork's notebooks reveals the following phrases obsessively written over and over (among variously incoherent and esoteric notes): 
