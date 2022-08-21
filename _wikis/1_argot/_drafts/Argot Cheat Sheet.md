@@ -1,14 +1,25 @@
+---
+geometry:
+- top=20mm
+- left=20mm
+- bottom=20mm
+...
+
+
 # What is this game?
 This is a war game of the Siege of Argot. The turns take place over the span of a few minutes. 
 
 # What am I trying to do?
+
 - Stop Mineos from reaching the Sanctuary.
 - Kill the Deathless One.
 - Kill the Deathless One's generals.
 
 # How do we start?
+
 ## Initiative
 Start with initiative: A single card is drawn to determine Player 1 for the round: 
+
 - Black for Argot
 - Red for Mineos
 
@@ -62,6 +73,7 @@ Some blocks have special abilities.
 ## Any other special combat rules? 
 
 Up to five Argot units have **range**: A unit may hit a target from a range equal to the number next to the target icon. This is triggered during combat phase. 
+
 - Hama Slingers (range 2)
 - 2 sets of Argot Rangers (range 2)
 - 2 sets of Nistora Raiders (range 1)

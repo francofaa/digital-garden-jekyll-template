@@ -1,3 +1,11 @@
+---
+geometry:
+- top=20mm
+- left=20mm
+- bottom=20mm
+...
+
+
 # 0 Introduction
 The Siege of Argot is played between 2 factions with 3rd party factions acting separately. The Argot side seeks to eliminate the Mineosi side. The Mineosi side seeks to enter the Old Town sector of the board and keep it.
 
@@ -12,7 +20,7 @@ The game is played in phases:
 
 ## 1.1 Argot Placement
 
-Argot units are placed anywhere on the **pink** city squares, except for the Pontia legions, which must be placed on the road from Pontia (unless the mission "**Kill Hespero and Armand**" is completed, in which case they may be placed within the city); the Nistora units, which can be placed anywhere outside the city; and the friendly Zulon unit (if during "**Parley with Zulon**" Zulon agrees to help)
+Argot units are placed anywhere on the **pink** city squares, except for the Pontia legions, which must be placed on the road from Pontia (unless the mission "**Kill Hespero and Armand**" is completed, in which case they may be placed within the city); the Nistora units, which can be placed anywhere outside the city; and the friendly Zulon unit (if during "**Parley with Zulon**" Zulon agrees to help) which should be placed outside the city.
 
 Argot supply trains can be placed on any of the supply train starting squares. 
 
@@ -34,13 +42,16 @@ The Mineos side has 26 blocks with a potential for 3 additional Argot defector b
 The Bargainer has 4 blocks which are co-belligerent with Mineos against Argot. These are only present if the Bargainer is not killed in the mission "**Kill the Bargainer**".
 
 The Argot side has 18 blocks 
+
 - with the potential to lose 3 Argot blocks as defectors (if  "**Undermine Calantha's Faction**" is not undertaken or is failed) or for 1 to be destroyed (if "**Kill Hespero and Armand**" succeeds). 
 - Pontia contributes 3 additional blocks. 
 - The Duchess (Nistora) can contribute 2 additional blocks of the player's choice.
 - Zulon can contribute 1 additional block, depending on the outcome of "**Parley with Zulon**"
 - An additional Argot block the Heckers can be unlocked as well and swapped for another unit with the success of "**Parley with Zulon**". 
-- With the success of "**Train Troops**", 4 Argot blocks can be upgraded. 
-- There are also 4 supply train Argot blocks, 2 of which are available by default and 2 of which are available only with the success of **"Defend Supply Lines"** mission.
+- At the cost of resources, upgrades can be made: 
+   - 4 Argot blocks can be upgraded
+   - 2 additional supply train Argot blocks can be unlocked
+   - Defender gate strength can also be upgraded
 
 Hespero has 4 blocks which are co-belligerent with Argot against Mineos, unless the mission "**Undermine Calantha's Faction**" is not undertaken or is failed.
 

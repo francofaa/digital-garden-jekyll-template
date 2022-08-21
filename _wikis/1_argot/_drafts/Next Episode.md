@@ -5,6 +5,7 @@
 
 ## Hobbes
 -   Hobbes’ greatest fear is falling under the control/servitude of some person/government/power like he’s endured under Hespero, and is desperate to make sure it never happens again. 
+   - Getting hunted down by rakshasas
 - Therefore, his greatest dream is to be the master of his own fate. Whether he will attempt to accomplish this by joining Nahk on his travels or becoming the crime lord of the Argotti Underworld is yet to be determined.
 
 

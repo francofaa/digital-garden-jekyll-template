@@ -1,3 +1,8 @@
+
+
+
+
+
 When the heroes clear everything in a ring, tell them rumors / explicit information about everything that is in the ring
 
 [[Rumors]]
@@ -5,7 +10,7 @@ When the heroes clear everything in a ring, tell them rumors / explicit informat
 [[Townies]]
 
 
-file:///Users/franco/Dropbox/RandoTable.html
+file:///Users/franco/Dropbox/TodayChecks/RandoTable.html
 
 
 
@@ -14,10 +19,10 @@ file:///Users/franco/Dropbox/RandoTable.html
 
 # Most important
 - [x]  Design the mine dungeon! This is abso-fruitly crucial
-- [ ] Design Abandoned Goblin Mine
-- [ ] Make the randomizer program!
+- [x] Design Abandoned Goblin Mine
+- [x] Make the randomizer program!
 - [ ] Plan out the rumor mill for each of the quests 
-- [ ] Figure out loot, treasures, and milestones!!!
+- [x] Figure out loot, treasures, and milestones!!!
 
 
 

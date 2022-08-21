@@ -6,7 +6,7 @@ aliases: [Silver Mines, Silver Mine]
 The road lifts high up as you approach the entrance of the [[Silver Mine|Silver Mines]] and [[Silver Town]]
 
 # Hook
-Blikz's cousin **Johnny** tells Blikz that there is something going on in the mines, that people have been coming back changed. The goblins are refusing to go back to work and some of them have gone feral, lashing out and attacking people.
+Blikz's cousin **Johnny** Jutran tells Blikz that there is something going on in the mines, that people have been coming back changed. The goblins are refusing to go back to work and some of them have gone feral, lashing out and attacking people.
 
 When the heroes arrive, Johnny takes them up the path to go to the goblin town first, via a footpath above the mine entrance. 
 
@@ -23,8 +23,6 @@ A goblin alchemist named **Morgamelly** says that she can find a cure but the **
 **Grayjaw**, the goblin chieftain, says that there is a curse on the mine because king's people have delved too deep. 
 
 **Bourbon Maduro** is also down here in the mines, having taken a military contract to investigate and determine what the goblins have done: "They told me that the goblins had something to do with this spreading fungus, that they summoned this creature to take it over and kill the kings' men. All I want is the cash and if the commander wants her criminal, I'll hand it over."
-
-
 
 ```ad-history
 
@@ -187,10 +185,8 @@ There is a silver vein in the back of the room.
 
 Otherwise, the room is empty. 
 
-
 # 7 Water Cavern
 A **cave fisher** hunts prey here. Heroes coming up for air will be attacked by the creature hanging from the ceiling above.
-
 
 # 8 Open Cavern Gallery
 The newest part of the mine, beginning in an open cavern. There are five **chitines** posted up here, and there is webbing everywhere, causing a difficult terrain. 

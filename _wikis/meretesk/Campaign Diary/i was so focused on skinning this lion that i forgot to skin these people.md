@@ -48,4 +48,4 @@ The heroes are in Meretesk, looking for leads from family, friends, and acquaint
 
 Previous Episode: [[in the morning im making plus 1 waffles]]
 
-Next Episode: [[Next Session]]
+Next Episode: [[shoot first ask questions never]]
