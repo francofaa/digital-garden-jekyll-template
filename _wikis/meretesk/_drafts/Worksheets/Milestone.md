@@ -47,4 +47,4 @@ This is a total of 52 milestones
 | 10  | Caverns of Cold               | 9,000 gp         | Giant Slayer (Scimitar)                                          | Ranger                |
 | 11  | Living Tunnels                | 12,000 gp        | Rune of +3 weapon (that can only be affixed to a polearm weapon) | Fighter               |
 | 12  | Ancient Aquifer               | 15,000 gp        | Wand of Paralysis                                                | Sorcerer              |
-| 13  | The Veins of Hell             | 0 gp             | 4 Custom Items                                                   | 4 Treasures           |
+| 13  | The Veins of Hell             | 0 gp             | 5 Custom Items                                                   | 4 Treasures           |

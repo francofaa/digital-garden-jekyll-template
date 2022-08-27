@@ -1,4 +1,32 @@
 
+# Bourbon and his team 
+
+Bourbon comes to the team very Sick with his companions also sick. He says they were sent by someone to retrieve a note and destroy and that was it. Nothing about a fungus. He thinks he was slick using a servant but I recognized the man. The nobles think we don’t notice things. It was a servant I have seen with insert noble name here ice things. It was a servant I have seen before serving the man
+
+If Bourbon reads the letter, he realizes that they would never have gotten the money and would have been killed. 
+
+gives a hook on the nobles being shitty
+
+# The fairy in the 10 miner cave
+fairy in the caverns says we know what you did skadi (or he has a charm or a note that reads "Skadi" with a crude sketch of her)
+
+# Loose Ends and Rumors
+Dont forget about the elves hunting the heroes for killing the lion; also think about how the hunters in the woods are going to become more brazen and hunt more in the snarlwood 
+
+Don’t forget about helewynn being haunted by the dusk hag 
+
+buck not being there means that the vampire thing started happening 
+
+
+
+
+
+
+- [x] **HOW DOES BUCK GET TO THE DUNGEON???** 
+- [ ] Boss battles need to have minions!!!
+
+
+
 
 
 

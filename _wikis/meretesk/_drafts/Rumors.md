@@ -11,12 +11,16 @@ Hidden:
 # Ring 2
 - Silver Mine
 - Goblin Town
-- Fort Arvana
+- Fort Arnava
+   - Very corrupt place, protection rackets abound, walled villas all over the countryside, and the countess runs the tax collections in the Crownlands
 - Maro Abbey
+   - Abbess Maria Giantslayer might know more about the giants in the Giants Reach and how to deal with them
 - Stilt Town
+   - A deep swamp town with many gators. It's a good place to pass through if you are trying to head out on the open sea. 
 - Mineosi Embassy
-- Orphans Cemetery 
+- Orphans Cemetery
 - Old Siblune Castle
+   - a place fallen into ruin, beyond the giants reach, once known as bright reach 
 - Source of the Merry River
 
 # Ring 3

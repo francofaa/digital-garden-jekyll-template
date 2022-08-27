@@ -8,4 +8,5 @@ title: Campaign Diary
 4. [[in the morning im making plus 1 waffles]]
 5. [[i was so focused on skinning this lion that i forgot to skin these people]]
 6. [[shoot first ask questions never]]
-7. [[Next Session]]
+7. [[moldene moldene moldene moldene im beggin you moldene dont take my man]]
+8. [[Next Session]]

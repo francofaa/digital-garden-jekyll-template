@@ -68,4 +68,4 @@ Buck is back in Meretesk, on duty.
 
 Previous episode: [[i was so focused on skinning this lion that i forgot to skin these people]]
 
-Next episode: [[Next Session]]
+Next episode: [[moldene moldene moldene moldene im beggin you moldene dont take my man]]
