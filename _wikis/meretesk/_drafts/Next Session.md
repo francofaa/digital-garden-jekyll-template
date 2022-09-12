@@ -7,6 +7,9 @@ If Bourbon reads the letter, he realizes that they would never have gotten the m
 
 gives a hook on the nobles being shitty
 
+# Choldrith's spouse
+Since the heroes have been chilling for an hour, the mourning choldrith has come up from the depths and is keening, will come for the heroes 
+
 # The fairy in the 10 miner cave
 fairy in the caverns says we know what you did skadi (or he has a charm or a note that reads "Skadi" with a crude sketch of her)
 
@@ -17,6 +20,23 @@ Don’t forget about helewynn being haunted by the dusk hag
 
 buck not being there means that the vampire thing started happening 
 
+Don’t forget that blikz is getting robbed —— his house is getting robbed maybe connect it with the vampire stuff 
+
+
+# Buck's obsession
+Let's flesh out the cult!
+
+Their objective: To awaken the deadgod.
+
+The Interpreter, a human woman: https://www.dndbeyond.com/monsters/1680927-inquisitor-of-the-sword
+
+The Speaker, an orcish woman https://www.dndbeyond.com/monsters/1680926-inquisitor-of-the-mind-fire
+
+The Reader, a tiefling man https://www.dndbeyond.com/monsters/1680928-inquisitor-of-the-tome
+
+> They are working with the illithids to grow the elder brain to control the dead celestial's body
+> 
+> The cult leaders send their followers to die and have their brains slurped up by the mind flayers
 
 
 
