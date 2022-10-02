@@ -14,7 +14,7 @@ Arriving in Silver Town, the heroes will hear of a contract on finding the sourc
 
 When the heroes arrive, there will be a human miner who has fallen victim to this, and the goblins claim that it is a curse. The military officer here who rules over Silver Town, Commander **Tenfa**, has finally started to take it seriously. 
 
-The heroes will be able to enter the dungeon either through the front entrance of the mine via Silver Town, or down via the elevator (which closes above you, a **sophisticated metal gate** that closes like a camera shutter.)
+The heroes will be able to enter the dungeon either through the front entrance of the mine via Silver Town, or down via the elevator (which closes above you, a **sophisticated metal gate** that closes like a camera shutter.) 
 
 The goblins will be excited to see Blikz. 
 
@@ -91,7 +91,7 @@ An ancient gravitational magic powers the elevator.
 
 > A large elevator is in the center of this chamber. The way up is open but you can see goblin guards patrolling up there. Below, the elevator descends further into a pit. 
 
-In the crevices of the cavern, there are pick axes left discarded and weary workers ready to go home. 
+In the crevices of the cavern, there are pick axes left discarded and weary workers ready to go home.
 
 When the heroes enter here, two of the workers become **spore servants** and begin to attack, starting with the other workers, who try to flee. 
 
@@ -179,7 +179,7 @@ Four dwarvish miners are packing up, getting ready to leave. Two of them have ye
 
 # 6 Hook Cavern
 
-Baby cave fishers dwell here, zooming around the ground, skittering into **7** when people approach. 
+Baby cave fishers dwell here, zooming around the ground, skittering into **7** when people approach.
 
 There is a silver vein in the back of the room.
 

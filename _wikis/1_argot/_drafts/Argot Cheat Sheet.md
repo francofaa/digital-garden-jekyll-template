@@ -11,7 +11,7 @@ This is a war game of the Siege of Argot. The turns take place over the span of 
 
 # What am I trying to do?
 
-- Stop Mineos from reaching the Sanctuary.
+- Stop Mineos from reaching the Sanctuary and occupying Old Town.
 - Kill the Deathless One.
 - Kill the Deathless One's generals.
 
@@ -26,7 +26,7 @@ Start with initiative: A single card is drawn to determine Player 1 for the roun
 When the cards are expended, a **day** has passed and **the heroes take a long rest.** Reshuffle and start a new day.
 
 ## Movement
-Player 1 does all their movement, followed by Player 2. Then the neutral factions go (controlled by the DM). A neutral black block facing you means that it is controlled by Argot. 
+Player 1 does all their movement, followed by Player 2. 
 
 ### What gets to move?
 Put an action token on the group of units (on a single hex) that you want to activate. You have 10 of these. The units can split up and everything, but they have to be activated. Mainly to keep track of what's moved.
@@ -45,9 +45,8 @@ All units move a number of spaces indicated in the hex in the corner of their bl
       - ford
       - hill
       - crossing into a tunnel hex onto the other map
-      - next hex after a ford (representing river crossing)
       - enemy hex
-  - They get +1 to movement if all movement is along a road (and ignore any terrain penalty, like city)
+  - They get +1 to movement if all movement is along a road 
 
 # How do we fight?
 After movement is over, combat starts with every contested hex where Player 1 is the attacking player. 
@@ -64,9 +63,9 @@ Your unit can retreat on its turn or be retreated if it loses a fight. If it is 
 The enemy retreats and the victor gets to spread out, if they choose to: They may move any units from the victory hex to an adjacent non-enemy hex or bring in units from adjacent hexes into the victory hex. 
 
 # What are the symbols in the top left corner of the blocks? 
-Some blocks have special abilities. 
+Some blocks have special abilities. These are the Argoti special powers:
 
-- **Nistora Raiders, Hespero's Rakshasas:** Resilient: Ignores the first hit in combat. 
+- **Nistora Raiders:** Resilient: Ignores the first hit in combat. 
 - **Any Zulon unit:** Intimidating: On the first hit in combat, the enemy must success on a d6+0 morale check versus DC5 or be retreated.
 - **Charatos Bugbears:** Berserker: At the cost of 1 strength, the unit may roll double the amount of dice. 
 

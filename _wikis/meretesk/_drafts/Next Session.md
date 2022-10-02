@@ -13,6 +13,10 @@ Since the heroes have been chilling for an hour, the mourning choldrith has come
 # The fairy in the 10 miner cave
 fairy in the caverns says we know what you did skadi (or he has a charm or a note that reads "Skadi" with a crude sketch of her)
 
+Shadow Elf 
+
+Has a seal 
+
 # Loose Ends and Rumors
 Dont forget about the elves hunting the heroes for killing the lion; also think about how the hunters in the woods are going to become more brazen and hunt more in the snarlwood 
 

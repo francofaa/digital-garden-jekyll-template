@@ -7,13 +7,13 @@ geometry:
 
 
 # 0 Introduction
-The Siege of Argot is played between 2 factions with 3rd party factions acting separately. The Argot side seeks to eliminate the Mineosi side. The Mineosi side seeks to enter the Old Town sector of the board and keep it.
+The Siege of Argot is played between 2 factions with 3rd party factions acting separately. The Argot side seeks to eliminate the Mineosi side. The Mineosi side seeks to enter the Old Town sector of the board and hold it.
 
 The game is played in phases: 
 
 1. Initiative: A card is drawn to determine initiative and action points (with 3rd party factions always acting last and always activating all units). 
 2. Movement: In initiative order, each side will activate unit groups using their action tokens. Each unit in the group may move up to its full movement, after accounting for terrain restrictions and road bonuses.
-3. Combat: Once all factions have moved, battles are fought one at a time. Start with battles where 1st player is the attacker and then where the 2nd player is the attacker. Finally, resolve battles where the 3rd party factions are the attackers. 
+3. Combat: Once all factions have moved, battles are fought one at a time. Start with ranged attacks from ranged units, with 1st player followed by 2nd player. Then proceed to battles where 1st player is the attacker and then where the 2nd player is the attacker. 
 4. Rally: After all battles are resolved, any Argot units within Argot or adjacent to a supply train may spend resource points to increase their strength. Note that the supply trains must spend resources equal to the steps available. 
 
 # 1 Set Up
@@ -24,40 +24,14 @@ Argot units are placed anywhere on the **pink** city squares, except for the Pon
 
 Argot supply trains can be placed on any of the supply train starting squares. 
 
-Argot naval units must start in a city dock square.
+Argot naval units must start in a city dock square or river square.
 
 ## 1.2 Mineos Placement
 
 Mineos units start on the road from Kraikos and off the coast of Lighthouse Point.
 
-## 1.3 Third Parties Placement
-
-Hespero's partisans start in the Casino Ward of the Undercity. The Bargainer's partisans start in Burrowtown in the Undercity if "**Kill the Bargainer**" is failed or not attempted. Zulon, if "**Parley with Zulon**" is failed or not attempted, starts in the woods beside the river. 
-
 # 2 Armies
 Each block represents a group of fighters. 
-
-The Mineos side has 26 blocks with a potential for 3 additional Argot defector blocks, if the mission "**Undermine Calantha's Faction**" is not undertaken or is failed. 
-
-The Bargainer has 4 blocks which are co-belligerent with Mineos against Argot. These are only present if the Bargainer is not killed in the mission "**Kill the Bargainer**".
-
-The Argot side has 18 blocks 
-
-- with the potential to lose 3 Argot blocks as defectors (if  "**Undermine Calantha's Faction**" is not undertaken or is failed) or for 1 to be destroyed (if "**Kill Hespero and Armand**" succeeds). 
-- Pontia contributes 3 additional blocks. 
-- The Duchess (Nistora) can contribute 2 additional blocks of the player's choice.
-- Zulon can contribute 1 additional block, depending on the outcome of "**Parley with Zulon**"
-- An additional Argot block the Heckers can be unlocked as well and swapped for another unit with the success of "**Parley with Zulon**". 
-- At the cost of resources, upgrades can be made: 
-   - 4 Argot blocks can be upgraded
-   - 2 additional supply train Argot blocks can be unlocked
-   - Defender gate strength can also be upgraded
-
-Hespero has 4 blocks which are co-belligerent with Argot against Mineos, unless the mission "**Undermine Calantha's Faction**" is not undertaken or is failed.
-
-Zulon has 3 blocks, 1 of which can be contributed to Argot based on the outcome of "**Parley with Zulon**".
-
-The Argot side has a potential maximum unit count of 24 and a potential minimum of 15.
 
 ## 2.1 Data on Blocks
 The symbols on the block indicate movement, initiative, strength, combat rating, and any special abilities. 
@@ -70,7 +44,7 @@ The triangles along the edges of the unit represent the combat strength. This is
 
 The letter and number at the top right of the block represents the initiative and to-hit modifier for the block. Blocks with letter A go before blocks with B, which go before C, which go before D (being the lowest). 
 
-The number indicates the modifier applied to each d6 when rolled by a block. A 6 is a hit. Blocks with +0 modifiers only hit on a 6 while blocks with +1 hit on 5 and 6, +2 hit on 4, 5, and 6. Blocks with +3 modifiers are rare and the modifiers are often conditional. 
+The number indicates the modifier applied to each d6 when rolled by a block. A 6 is a hit. Blocks with +0 modifiers only hit on a 6 while blocks with +1 hit on 5 and 6, +2 hit on 4, 5, and 6. Blocks with +2 modifiers are rare and the modifiers are often conditional. 
 
 ### 2.1.3 Movement
 
@@ -86,39 +60,27 @@ Some blocks have special abilities which are placed in the top left or bottom le
 
 #### 2.1.5.1 Undead Restoration
 
-Restores 1 strength per turn. 
+Restores 1 strength at the end of the battle.
 
 #### 2.1.5.2 Shock Troops
 
-When the unit is at full strength, its combat rating is +3. 
+When the unit is at full strength, its combat rating is +2. 
 
 #### 2.1.5.3 Besieger 
 
-When the unit is attacking a fortification, its combat rating is +3.
+When the unit is attacking a fortification, its combat rating is +1.
 
 #### 2.1.5.4 Berserker
 
-At the cost of 1 strength, the unit may roll double the amount of dice. 
+The unit may roll double the amount of dice, if it subsequently reduces its strength by 1.
 
 #### 2.1.5.5 Resilient
 
-Ignores the first hit in combat. 
+Ignores the first hit in a battle.
 
 #### 2.1.5.6 Intimidating 
 
 On the first hit in combat, the enemy must success on a d6+0 morale check versus DC5 or be retreated.
-
-#### 2.1.5.7 Life Drain
-
-On a natural 6, the unit restores 1 strength. 
-
-#### 2.1.5.8 Skittish
-
-If a unit would suffer a hit, it may retreat instead. 
-
-#### 2.1.5.9 Ambusher
-
-At full strength, the unit rolls double the dice. 
 
 ## 2.2 Block Types
 Blocks can be ground, sea, and air units. 
@@ -129,7 +91,7 @@ Ground units may only move via ground squares (rather than sea squares). They ma
 
 Ground units must end their movement when entering a hex that is of one of the following types 
 
-- city (unless movement is completely along a road)
+- city
 - forest
 - hill
 - ford
@@ -137,17 +99,16 @@ Ground units must end their movement when entering a hex that is of one of the f
 or under the following conditions
 
 - disembarking a ship
-- leaving a ford hex
 - entering a hex containing an enemy unit
 - entering into a tunnel hex from the corresponding hex (Argot to Undercity and vice versa)
 
 Ground units cannot cross walls or rivers without bridges or fords.
 
-When when moving completely along a road, ground units may move an additional hex, as long as that hex is friendly or neutral (not occupied by an enemy unit).
+When moving completely along a road, ground units may move an additional hex (+1), as long as that hex is friendly or neutral (not occupied by an enemy unit).
 
 #### 2.2.1.1 Ranged Ground Units
 
-Ground units with the range icon can attack units that many hexes away without being attacked in return. They may also target aerial units. 
+Ground units with the range icon can attack units that many hexes away without being attacked in return. They may also target aerial units. They may not target sea units. Ranged ground units ferried by a naval unit may not attack. 
 
 #### 2.2.1.2 Fortifications
 
@@ -178,31 +139,29 @@ When an aerial unit enters combat, it may only be targeted by aerial units and r
 
 The map is separated into two: The main overland map and the Undercity map. 
 
-Half-hexes are playable. Units may be on one or another side of a hex, if there is an impassable boundary through it (like a river or wall)
+Half-hexes are playable. Units may be on one or another side of a hex, if there is an impassable boundary through it (like a river or wall--unless it has a gate).
 
 ## 3.1 Ground
 
-Ground units may traverse across these hexes. When entering a hex with city, forest, ford, or hills, the unit must end its movement, unless the hex contains a road and all movement occurs along the road.
+Ground units may traverse across these hexes. When entering a hex with city, forest, ford, or hills, the unit must end its movement. 
 
-
-
-### 3.1.2 City 
+### 3.1.1 City 
 
 Resources may be spent to restore strength points to an Argot or Argot-friendly unit that is in a city hex. It does not need to be on a medical hex to be restored, but the hex must not be contested.
 
-### 3.1.3 Medical
+### 3.1.2 Medical
 
 Medical locations indicate places where resources are stored. If the Mineosi faction captures a medical location, it is able to steal 1 resource per turn as long as a unit is present there.
 
-### 3.1.4 Tunnel
+### 3.1.3 Tunnel
 
 Tunnel hexes connect to their complementary Undercity hexes. Ground units end their movement on the other side.
 
-#### 3.1.4.1 The Sanctuary
+#### 3.1.3.1 The Sanctuary
 
 The Sanctuary is only accessible via a tunnel. It is completely surrounded by walls.
 
-### 3.1.6 Gates
+### 3.1.4 Gates
 
 Refer to **2.2.1.2 Fortifications**.
 
@@ -243,7 +202,9 @@ Enemy hexes are occupied by enemy units. Blocks end movement in enemy hexes, exc
 
 Vacant hexes are occupied by no units and may be moved through.
 
-Blocks entering an occupied hex are the attacker and should be designated as such. 
+Blocks entering an occupied hex are the attacker and should be designated as such.
+
+Only 3 units per side may be present in a hex.
 
 ## 4.5 Pinning 
 

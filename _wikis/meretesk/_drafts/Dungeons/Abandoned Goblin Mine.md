@@ -23,7 +23,7 @@ A crumbling floor requires a DC 20 perception check to detect and a DC 15 dexter
 
 
 # 3 Altar of the First Delver, Hargun
-An arrangement of **four rubies worth 1,000 gp** total is upon the altar. Disturbing them summons a **wraith** and **2 specters**. The doors magically seal shut but the hallway back out to **2** is still open.
+An arrangement of **five rubies worth 1,000 gp** total is upon the altar. Disturbing them summons a **wraith** and **2 specters**. The doors magically seal shut but the hallway back out to **2** is still open.
 
 Killing the wraith will cause it to drop the **bracers of archery** and **circlet of blasting** from its form (which it was previously wearing on its body).
 
