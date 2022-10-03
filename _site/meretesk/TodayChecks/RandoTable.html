@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="environment" content="width=device-width, initial-scale=1.0">
+	<title>Random Tables</title>
+<script src="dndarray.js" type="text/javascript"></script>
+<style>
+	table, td, th {
+		border:  1px black solid;
+		padding: 3px;
+	}
+</style>
+</head>
+<body>
+<h1>Today</h1>
+<p>At the start of the day, do a weather check.</p>
+<p><b>Weather Check </b> <button onclick="weatherCheck()">Weather check!</button></p>
+<p id="weather"></p>
+<ol>
+	<li>Players determine marching order</li>
+	<li>Leader determines direction and navigates, rolling survival</li>
+</ol>
+</details>
+<details>
+	<summary><b>Navigation Check</b> <button onclick="determineDirection()">The party is lost</button></summary>
+	<table>
+		<tr>
+			<th>Navigation</th>
+			<th>DC</th>
+		</tr>
+		<tr>
+			<td>Road, open sea with land in sight</td>
+			<td>No check</td>
+		</tr>
+		<tr>
+			<td>Grassland, coast, plains, farmland</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>Arctic, desert, hills, open sea with clear skies</td>
+			<td>10</td>
+		</tr>
+		<tr>
+			<td>Forest, jungle, swamp, mountains, open sea with overcast skies</td>
+			<td>15</td>
+		</tr>
+		<tr>
+			<td>Any region with white-out rain / hail / heavy snow or blizzard</td>
+			<td>Add 3 to DC</td>
+		</tr>
+	</table>
+	<br />
+</details>
+<p id="lost"> </p>
+<details>
+	<summary><b>What kind of hex did you enter or explore?</b> <button id="travelBtn">Travel!</button></summary>
+	<fieldset>
+		<legend>Environment</legend>
+	    <div>
+	      <input type="radio" id="upriver_fast" name="environment" value="River, upriver," >
+	      <label for="upriver">River, upriver</label>
+			</div>	
+    	<div>
+      	<input type="radio" id="downriver_vfast" name="environment" value="River, downriver,">
+	      <label for="downriver">River, downriver</label>
+			</div>	
+	  	<div>	
+	      <input type="radio" id="road_fast" name="environment" value="countryside, by road,">
+	      <label for="road">Road</label>
+			</div>	
+  		<div>
+	  	  <input type="radio" id="plains" name="environment" value="Plains, on foot,">
+	      <label for="plains">Plains, on foot</label>
+    	</div>
+	    <div>
+	      <input type="radio" id="plains_fast" name="environment" value="Plains, mounted,">
+	      <label for="road">Plains, mounted</label>
+			</div>	    
+	    <div>
+	      <input type="radio" id="foothills_slow" name="environment" value="Foothills">
+	      <label for="foothills">Foothills</label>
+	    </div>
+	    <div>
+	      <input type="radio" id="snarlwood_slow" name="environment" value="Snarlwood">
+	      <label for="snarlwood">Snarlwood</label>
+			</div>
+	    <div>
+	      <input type="radio" id="swamp_slow" name="environment" value="Swamp">
+	      <label for="swamp">Swamp</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="coast" name="environment" value="Coast">
+	      <label for="coast">Coast</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="giantsreach_slow" name="environment" value="Giants Reach">
+	      <label for="giantsreach">Giants' Reach</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="glass_mts" name="environment" value="Glass and Silver Mountains">
+	      <label for="glassmts">Glass and Silver Mountains</label>
+			</div>
+	    <div>
+	      <input type="radio" id="goldengulfbad" name="environment" value="Golden Gulf, in bad conditions,">
+	      <label for="goldengulf">Golden Gulf, bad conditions</label>
+			</div>			
+	    <div>
+	      <input type="radio" id="goldengulfgood_vfast" name="environment" value="Golden Gulf, in good conditions,">
+	      <label for="goldengulf">Golden Gulf, good conditions</label>
+			</div>			
+	    <div>
+	      <input type="radio" id="gods_mts" name="environment" value="Godsbody Mountains">
+	      <label for="godsbody">Godsbody Mountains</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="tarunaw_slow" name="environment" value="Taruna Woods">
+	      <label for="tarunaw">Taruna Woods</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="tarunal" name="environment" value="Taruna Lake">
+	      <label for="tarunal">Taruna Lake</label>
+			</div>	
+	    <div>
+	      <input type="radio" id="wmarch" name="environment" value="Western Marches">
+	      <label for="wmarch">Western Marches</label>
+			</div>
+	    <div>
+	      <input type="radio" id="maraw_slow" name="environment" value="Maramoor Woods">
+	      <label for="maraw">Maramoor Woods</label>
+			</div>
+	    <div>
+	      <input type="radio" id="salt" name="environment" value="Salt Flats">
+	      <label for="salt">Salt Flats</label>
+			</div>							
+	    <div>
+	      <input type="radio" id="mara_mts" name="environment" value="Maramoor Mountains">
+	      <label for="maramts">Maramoor Mountains</label>
+		</div>			
+	</fieldset>
+</details>
+<ol id="travelog">
+	
+</ol>
+
+
+<hr />
+<p>At the end of the day, refresh the page.</p>
+<script src="weatherCheck.js" type="text/javascript"></script>
+<script src="crawlHex.js" type="text/javascript"></script>
+<script src="dndDirection.js" type="text/javascript"></script>
+</body>
+</html>

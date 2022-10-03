@@ -1,5 +1,5 @@
 ---
-title: 20220916
+title: West Marches Campaign
 ---
 # West Marches Campaign
 Things to build, in order (or in parallel)
