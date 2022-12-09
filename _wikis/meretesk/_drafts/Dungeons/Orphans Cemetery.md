@@ -35,7 +35,7 @@ A mindflayer left behind was **fed upon by Yelena**, inadvertently turning the c
 
 # 2 Casadar Ancestor Room
 - Outside, graffiti saying, **"Don't wake the bones!"**
-- **Statues** and **urns** in niches 
+- **Statues** and **urns** in niches
 - **Ancestor shrines**
 - A **crack in the floor** that goes down into [[#6 Yelena's Tomb]]
 - Each shrine has **ancient coins** (amounting to **50 electrum** across 21 shrines)
@@ -64,7 +64,7 @@ Actually a **crater** formed by the crashing of the **minder flayers' black egg 
 ```ad-warning
 title: Grave Rot
 
-When infected by the microbes, the creature must roll a DC 9 Constitution saving throw.
+When infected by the microbes, the creature must roll a DC 9 Constitution saving throw. Miasma.
 
 A raging fever sweeps through the creature’s body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.
 
@@ -78,7 +78,6 @@ After a long rest, the creature may repeat the saving throw.
 
 ## 4b, 4c Tunnel into Chapel
 **South and down** Underwater tunnel that surfaces at the [[#9 Chapel]]
-
 
 # 5 Niches
 - Walls are **mortared skulls and bones**

@@ -121,3 +121,14 @@ Ghoul: 1HD, AD 12, HP 6, +4, 1d8. Paralyzing touch: MD save 12 vs paralysis. Str
 
 Vampiric Mindflayer: 5HD, AD 15, HP 25, +7, 2d8. Str +5, Dex +0, Int +7, Wil +5. Burrow, Spiderclimb. Disrupt psyche: 30' radius, MD save 15 or incapacitated, 2 uses. Successful attack: Grappled. Drink sapience: atk +5, 1 grappled target, -1d6 wil.
 
+
+
+https://drive.google.com/file/d/0BxxIbZkFu4wdN2YxZWQ1YzQtZTA2ZC00YjdhLTliYzAtYjFkYjRlZGEyNzIz/view?resourcekey=0-WQCYVol0rULVPzsCXtLonw
+
+https://www.drivethrurpg.com/product/147588/CC1-Creature-Compendium?term=creature+compe&test_epoch=0?affiliate_id=638363
+
+https://basicfantasy.org/downloads.html
+
+https://clayadavis.gitlab.io/osr-bestiary/bestiary/bfrpg/core/ghoul/
+
+https://oldschoolessentials.necroticgnome.com/srd/index.php/Ghoul

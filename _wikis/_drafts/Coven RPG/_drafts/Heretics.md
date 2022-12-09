@@ -2,7 +2,7 @@
 title: Heretics
 ---
 
-- [[Character Creation]]
+- [[3_wikis/_drafts/Coven RPG/_drafts/Character Creation]]
 - [[Relationships]]
 - [[Your God and You]]
 - [[Stats and Basic Moves]]
